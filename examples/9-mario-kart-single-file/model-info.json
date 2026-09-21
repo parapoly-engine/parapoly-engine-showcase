@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "9-mario-kart-single-file",
+  "title": {
+    "en": "Racing kart",
+    "zh": "无人物卡丁车"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 11103072,
+      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 12667800,
+      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+    }
+  ],
+  "multiview": []
+}

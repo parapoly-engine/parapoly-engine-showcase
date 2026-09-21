@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "15-high-speed-shaft-part3d",
+  "title": {
+    "en": "High-speed shaft",
+    "zh": "高速轴"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 79748,
+      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 143142,
+      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+    }
+  ],
+  "multiview": []
+}

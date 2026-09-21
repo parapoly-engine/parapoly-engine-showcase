@@ -1,0 +1,10 @@
+var object1;
+
+let main = function(){
+  let code3d_doc = new PartCode3dDocument()
+  code3d_doc.push_node("union","object1","#ffc658",true)
+    code3d_doc.box("union", 1, 1, 1, "#ffc658")
+    code3d_doc.sphere("difference", 0.6, "#ffc658")
+  code3d_doc.pop_node()
+  return code3d_doc
+}

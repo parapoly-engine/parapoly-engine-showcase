@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "4-coffee-cup-block3d",
+  "title": {
+    "en": "Coffee cup",
+    "zh": "咖啡杯"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 476664,
+      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 162715,
+      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+    }
+  ],
+  "multiview": []
+}

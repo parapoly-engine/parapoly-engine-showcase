@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "19-ge-e3-fan-module",
+  "title": {
+    "en": "GE E³ fan module",
+    "zh": "GE E³ 风扇组件"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 47590720,
+      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 75798858,
+      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+    }
+  ],
+  "multiview": []
+}

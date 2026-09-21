@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "18-stirling-horizontal-quartz",
+  "title": {
+    "en": "Horizontal Stirling engine",
+    "zh": "横置石英管斯特林展示机"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 11924476,
+      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 11427021,
+      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+    }
+  ],
+  "multiview": []
+}

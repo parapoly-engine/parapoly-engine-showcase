@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "12-part3d-roundtrip",
+  "title": {
+    "en": "Dipstick",
+    "zh": "油标尺"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 239456,
+      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 53234,
+      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+    }
+  ],
+  "multiview": []
+}

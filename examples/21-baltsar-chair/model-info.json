@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "21-baltsar-chair",
+  "title": {
+    "en": "BALTSAR chair",
+    "zh": "BALTSAR 宝特赛四腿椅"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-21T09:31:13.684Z",
+    "engineVersion": "3.0.1",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/21-baltsar-chair.glb",
+      "bytes": 9766148,
+      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
+    },
+    {
+      "file": "dist/models/21-baltsar-chair.step",
+      "bytes": 1277682,
+      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+    }
+  ],
+  "multiview": [
+    {
+      "file": "multiview/baltsar-chair_00_overview.png",
+      "bytes": 756485,
+      "sha256": "9d2a957ba3e962088e0c58023020d7220f70e18880b0b16bc5d6ab28ef14b135"
+    },
+    {
+      "file": "multiview/baltsar-chair_01_front.png",
+      "bytes": 405878,
+      "sha256": "8e0bd8178de5111eacc7a0e0895f5265e62030a7d157654dd1e00e208c57734f"
+    },
+    {
+      "file": "multiview/baltsar-chair_02_back.png",
+      "bytes": 352052,
+      "sha256": "f4bf67a0485440fe99fef43bbf10efc5a6585412be2da148772ae1cc484abe52"
+    },
+    {
+      "file": "multiview/baltsar-chair_03_left.png",
+      "bytes": 356934,
+      "sha256": "57219f1b88e1ea8d0648702ec7a2c9df2ecc3b2df72efaec347fa1792ea57bec"
+    },
+    {
+      "file": "multiview/baltsar-chair_04_right.png",
+      "bytes": 416417,
+      "sha256": "3b0dc61118cdf968323de426bc4980dad755677a1f528098f5783768dd06a25a"
+    },
+    {
+      "file": "multiview/baltsar-chair_05_top.png",
+      "bytes": 354852,
+      "sha256": "2c0b11991ff837735285d7f47788b4e8a6a180e9722463a2d90406b564a3ef89"
+    },
+    {
+      "file": "multiview/baltsar-chair_06_bottom.png",
+      "bytes": 383942,
+      "sha256": "3b6d7ecc82edda691aeaa332a6fb1e9ec214b6705dce448b51c9d0bb40920e44"
+    },
+    {
+      "file": "multiview/baltsar-chair_07_iso_front_right_top.png",
+      "bytes": 348681,
+      "sha256": "bd5d6d44e437f44315ed39700f2e70afb3a4822332dca9ec82f43a65462d155b"
+    },
+    {
+      "file": "multiview/baltsar-chair_08_iso_back_left_top.png",
+      "bytes": 272885,
+      "sha256": "f51d189b525176f15fd07c7fb0e60edbdb219305d8e56b1a826c92cb8a14f56b"
+    },
+    {
+      "file": "multiview/crown-comparison.png",
+      "bytes": 201638,
+      "sha256": "1fbbae5c3c3de9f31270797d9148381c1b9dcf359c958ceda9f0cb0991c5b27f"
+    },
+    {
+      "file": "multiview/inspection-back-opaque.png",
+      "bytes": 377353,
+      "sha256": "8aa1e6cd51df0543a0d97b80844586d5c09103481b8360982f328ac50a244ead"
+    },
+    {
+      "file": "multiview/inspection-front-rim-locator.png",
+      "bytes": 549053,
+      "sha256": "8190db4decd9b2d93ee61d99cd730183f0a8294aa7374b842073b2b6244acbb7"
+    },
+    {
+      "file": "multiview/inspection-front-rim.png",
+      "bytes": 605563,
+      "sha256": "6f8090e7da1c4138a375c1030c88e539c3aaded3009889f4c448753baf752493"
+    },
+    {
+      "file": "multiview/inspection-left-corner-locator.png",
+      "bytes": 611307,
+      "sha256": "738065441aacd502bca60fa25c144a462aebdd3ac2de75efc79b0a096de0830a"
+    },
+    {
+      "file": "multiview/inspection-left-corner.png",
+      "bytes": 806929,
+      "sha256": "9380237fb887f56107fe9c60511119a4a5a914f65f0a27456e65429ec443826f"
+    },
+    {
+      "file": "multiview/inspection-overview.png",
+      "bytes": 428957,
+      "sha256": "c78ba98073209606c78df99a7bffcf931722e55f273fb80fa39a4bbe0172c16f"
+    },
+    {
+      "file": "multiview/inspection-side-corner-locator.png",
+      "bytes": 548658,
+      "sha256": "e62a5f9bf38ada51b7173737a978ffd718e00d3e44cb099d0be2c383899dbe17"
+    },
+    {
+      "file": "multiview/inspection-side-corner.png",
+      "bytes": 912617,
+      "sha256": "79a84ed201f8d7b2901e131cf12949705b6faf57eb8152f086867db78e8afd7a"
+    },
+    {
+      "file": "multiview/rim-comparison.png",
+      "bytes": 355391,
+      "sha256": "b491cf5ed86a279ecab686037365f9e303fa31eec5a0cc8f06e714bb4ff13b1f"
+    }
+  ]
+}

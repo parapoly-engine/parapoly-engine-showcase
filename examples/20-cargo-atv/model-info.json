@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "20-cargo-atv",
+  "title": {
+    "en": "Cargo ATV",
+    "zh": "运输四轮 ATV"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 28726572,
+      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 19200086,
+      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+    }
+  ],
+  "multiview": [
+    {
+      "file": "multiview/cargo-atv_00_overview.png",
+      "bytes": 1414199,
+      "sha256": "0d959be43d783ac3b90f03ea1539ed7b3083036e02fd6ea8819577bff486d704"
+    },
+    {
+      "file": "multiview/cargo-atv_00_supplement_overview.png",
+      "bytes": 1307395,
+      "sha256": "da1812953f9c7f177680904b3f12c719bfcdd4bc390bead79875de8bf626dfaa"
+    },
+    {
+      "file": "multiview/cargo-atv_01_front.png",
+      "bytes": 321996,
+      "sha256": "48d001bff9d1823fc6d94f13f59d6960e8f6a595f0797daa3a3e038558506a7b"
+    },
+    {
+      "file": "multiview/cargo-atv_02_back.png",
+      "bytes": 352507,
+      "sha256": "782fc86fa57d53c0d4761b40198b1e03db802a638e21bdea65b6c50cf984abe2"
+    },
+    {
+      "file": "multiview/cargo-atv_03_left.png",
+      "bytes": 761077,
+      "sha256": "00d3ad9bfba57e18a21ca0dbbc3a750c62e0389f3e1c381f64aa8fdded3da330"
+    },
+    {
+      "file": "multiview/cargo-atv_04_right.png",
+      "bytes": 808775,
+      "sha256": "450e25bd28bfe14662572c5c894af58cf81eee7cbfb6c075b1d767561569122e"
+    },
+    {
+      "file": "multiview/cargo-atv_05_top.png",
+      "bytes": 524212,
+      "sha256": "5c3e2e6b30e1283be3b88a9d5638209b65756a13aa861a1b00f50161ba32b300"
+    },
+    {
+      "file": "multiview/cargo-atv_06_bottom.png",
+      "bytes": 402405,
+      "sha256": "2800bcef03805142e3d30179e427a045a7fd566a6d2bda7745c385024658505e"
+    },
+    {
+      "file": "multiview/cargo-atv_07_iso_front_right_top.png",
+      "bytes": 908173,
+      "sha256": "19909d23a6bfed0f7d5cb1aaa9423909da2fed0ee0da09e6b32e80fc8b221fce"
+    },
+    {
+      "file": "multiview/cargo-atv_08_iso_back_left_top.png",
+      "bytes": 870029,
+      "sha256": "b6975b46c78c51495e6654a46671cc9ba22d8f1d7427639c08e506f86e0601be"
+    },
+    {
+      "file": "multiview/cargo-atv_09_iso_underside.png",
+      "bytes": 477972,
+      "sha256": "741f587264bdc7d5873b59e9925c26cd526ecf1e3121ac6fd67ad26c76d90bf1"
+    },
+    {
+      "file": "multiview/cargo-atv_10_detail_front_stay_context.png",
+      "bytes": 1125812,
+      "sha256": "3ea4880963ae2917f93050cbdddee6b46e13e70e46060ff62ea074b0d0b666d3"
+    },
+    {
+      "file": "multiview/cargo-atv_10_detail_front_stay.png",
+      "bytes": 581859,
+      "sha256": "1a0ae9459dd0652ecc71b091ded46f7a8860e643af2e6123e939b6b73858d67f"
+    },
+    {
+      "file": "multiview/cargo-atv_11_section_front_hub_A-A.png",
+      "bytes": 83466,
+      "sha256": "3b315828651164d2e7815105d3c9df6f761228c4be840faf2edc4b70f63790d8"
+    },
+    {
+      "file": "multiview/cargo-atv_12_section_exhaust_B-B.png",
+      "bytes": 73999,
+      "sha256": "41156d8fdc00ee2bf61c67c3e0c4a6eb812b07a8646a334c784bebde5a63e371"
+    },
+    {
+      "file": "multiview/cargo-atv_13_exploded.png",
+      "bytes": 452586,
+      "sha256": "42d9f92ac03c9e3b09ce1f4a1292f7971fe59eb7e34abb807df8919494c4b014"
+    },
+    {
+      "file": "multiview/cargo-atv_14_motion_wheel_0.png",
+      "bytes": 460358,
+      "sha256": "0e8aaecab3ce5328e8f2f01bff6333fb2fc8e05e0cc0550ad8fa4f0f7dfcee8c"
+    },
+    {
+      "file": "multiview/cargo-atv_15_motion_wheel_13.png",
+      "bytes": 461450,
+      "sha256": "2429685e9bb9adfc4a7441bef44cb860629f7bcc4c034a421689a14abceefb01"
+    },
+    {
+      "file": "multiview/cargo-atv_16_motion_wheel_90.png",
+      "bytes": 461955,
+      "sha256": "7326607adee5fa84ca55923d958b4418538614542989d1472e154e55f15c47c2"
+    }
+  ]
+}

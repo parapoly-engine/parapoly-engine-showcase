@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "14-bearing-housing-part3d",
+  "title": {
+    "en": "Bearing housing",
+    "zh": "轴承座"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 142536,
+      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 208780,
+      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+    }
+  ],
+  "multiview": []
+}

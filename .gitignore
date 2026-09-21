@@ -141,3 +141,12 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Prepared model downloads are part of the showcase (Git LFS).
+!examples/*/dist/
+examples/*/dist/*
+!examples/*/dist/models/
+examples/*/dist/models/*
+!examples/*/dist/models/*.glb
+!examples/*/dist/models/*.step
+generated/

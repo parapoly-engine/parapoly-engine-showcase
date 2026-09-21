@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "17-stirling-d16-c",
+  "title": {
+    "en": "Low-temperature Stirling engine",
+    "zh": "低温差斯特林展示机"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 4342240,
+      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 11652444,
+      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+    }
+  ],
+  "multiview": []
+}

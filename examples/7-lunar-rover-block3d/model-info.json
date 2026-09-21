@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "7-lunar-rover-block3d",
+  "title": {
+    "en": "Lunar rover",
+    "zh": "月球车"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 1752028,
+      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 975289,
+      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+    }
+  ],
+  "multiview": []
+}

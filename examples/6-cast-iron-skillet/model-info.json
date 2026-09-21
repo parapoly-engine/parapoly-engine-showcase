@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "6-cast-iron-skillet",
+  "title": {
+    "en": "Cast-iron skillet",
+    "zh": "铸铁煎锅"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 106736,
+      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 99667,
+      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+    }
+  ],
+  "multiview": []
+}

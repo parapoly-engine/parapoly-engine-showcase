@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "11-spindle-back-chair",
+  "title": {
+    "en": "Spindle-back chair",
+    "zh": "圆杆靠背木椅"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 4947916,
+      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 1114851,
+      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+    }
+  ],
+  "multiview": []
+}

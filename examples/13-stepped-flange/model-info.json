@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "13-stepped-flange",
+  "title": {
+    "en": "Stepped flange",
+    "zh": "阶梯法兰盘"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 137204,
+      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 81752,
+      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+    }
+  ],
+  "multiview": []
+}

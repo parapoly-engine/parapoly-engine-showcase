@@ -1,0 +1,1451 @@
+{
+  "schemaVersion": 1,
+  "generator": "parapoly-showcase-sync",
+  "files": {
+    "examples/1-boolean-cutout/main.code3d.js": {
+      "sha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+      "bytes": 284,
+      "source": {
+        "path": "1-boolean-cutout/main.code3d.js",
+        "sha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882"
+      }
+    },
+    "examples/1-boolean-cutout/preview.png": {
+      "sha256": "acd5cdee826be50a2c8d05b5c279f07f9d29301ad0a26a48cfb8701c3b1c08bb",
+      "bytes": 14048,
+      "source": {
+        "path": "1-boolean-cutout/preview.png",
+        "sha256": "acd5cdee826be50a2c8d05b5c279f07f9d29301ad0a26a48cfb8701c3b1c08bb"
+      }
+    },
+    "examples/1-boolean-cutout/preview-light.png": {
+      "sha256": "da0f111abc64fd2b9896e7fc5493d0c32f3d6b0e2298b5619575f10c95aec3de",
+      "bytes": 14002,
+      "source": {
+        "path": "1-boolean-cutout/preview-light.png",
+        "sha256": "da0f111abc64fd2b9896e7fc5493d0c32f3d6b0e2298b5619575f10c95aec3de"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.glb": {
+      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e",
+      "bytes": 80060,
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.glb",
+        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.step": {
+      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957",
+      "bytes": 55774,
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.step",
+        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+      }
+    },
+    "examples/1-boolean-cutout/model-info.json": {
+      "sha256": "ffc7b606301910705d39533613afe1c0049610c1049e055ddaf993e4354f25eb",
+      "bytes": 870
+    },
+    "examples/1-boolean-cutout/README.md": {
+      "sha256": "92e1f8b3a81d568bc9324f15073207d6c37f124e7407b93ca06141af6e80d251",
+      "bytes": 941
+    },
+    "examples/1-boolean-cutout/README.zh-CN.md": {
+      "sha256": "287c6708b87ee47e1fb64b81ee2204b1963f4fabb40aea6c60fc65181dbee97c",
+      "bytes": 934
+    },
+    "examples/2-woven-basket-block3d/main.code3d.js": {
+      "sha256": "f6e5539f855d39df247ff295fb65aeafa59449277d77d100a407f7f3e04bf39f",
+      "bytes": 1103,
+      "source": {
+        "path": "2-woven-basket-block3d/main.code3d.js",
+        "sha256": "f6e5539f855d39df247ff295fb65aeafa59449277d77d100a407f7f3e04bf39f"
+      }
+    },
+    "examples/2-woven-basket-block3d/preview.png": {
+      "sha256": "1a818ebedf796a3bfe9f79f659c16d70018ea6a07a32ebe0f775db6ae066ed45",
+      "bytes": 19432,
+      "source": {
+        "path": "2-woven-basket-block3d/preview.png",
+        "sha256": "1a818ebedf796a3bfe9f79f659c16d70018ea6a07a32ebe0f775db6ae066ed45"
+      }
+    },
+    "examples/2-woven-basket-block3d/preview-light.png": {
+      "sha256": "af601fc8ddf4e21c53363e1e76563db1ead5e7da46fb5482b3729b425a65fa20",
+      "bytes": 19360,
+      "source": {
+        "path": "2-woven-basket-block3d/preview-light.png",
+        "sha256": "af601fc8ddf4e21c53363e1e76563db1ead5e7da46fb5482b3729b425a65fa20"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.glb": {
+      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318",
+      "bytes": 1707972,
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.glb",
+        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.step": {
+      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e",
+      "bytes": 4145131,
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.step",
+        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+      }
+    },
+    "examples/2-woven-basket-block3d/model-info.json": {
+      "sha256": "ba1972b00ebd3244c95549b381247d09fe77ea80cdbf35ad4ea946da6920a853",
+      "bytes": 869
+    },
+    "examples/2-woven-basket-block3d/README.md": {
+      "sha256": "df09bf7abaf9234bc7d4a9828b72aaf50e11ea4ac809080a84d5f679d707f4d5",
+      "bytes": 930
+    },
+    "examples/2-woven-basket-block3d/README.zh-CN.md": {
+      "sha256": "3ccf13695bbe0388d748acefec2fb9038304972b2fa143997c6f90c1db75eaf2",
+      "bytes": 922
+    },
+    "examples/3-billiards-single-file/main.code3d.js": {
+      "sha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+      "bytes": 17517,
+      "source": {
+        "path": "3-billiards-single-file/main.code3d.js",
+        "sha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d"
+      }
+    },
+    "examples/3-billiards-single-file/preview.png": {
+      "sha256": "2e6b833863027c8dbdb25a1b5ddeabe332bc4197de796dd212049a8a96f54021",
+      "bytes": 12059,
+      "source": {
+        "path": "3-billiards-single-file/preview.png",
+        "sha256": "2e6b833863027c8dbdb25a1b5ddeabe332bc4197de796dd212049a8a96f54021"
+      }
+    },
+    "examples/3-billiards-single-file/preview-light.png": {
+      "sha256": "999ed58d061a4ac066bb6877fafaa7cd453e8f88a61d2fec5cc87b5082ea748e",
+      "bytes": 12408,
+      "source": {
+        "path": "3-billiards-single-file/preview-light.png",
+        "sha256": "999ed58d061a4ac066bb6877fafaa7cd453e8f88a61d2fec5cc87b5082ea748e"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.glb": {
+      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675",
+      "bytes": 1121524,
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.glb",
+        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.step": {
+      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1",
+      "bytes": 2539778,
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.step",
+        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+      }
+    },
+    "examples/3-billiards-single-file/model-info.json": {
+      "sha256": "4b71183a2670795981bbb01423511cacfb9ee3f017c5d7440050479cd297ac49",
+      "bytes": 876
+    },
+    "examples/3-billiards-single-file/README.md": {
+      "sha256": "e24626b8fcc153fe71a559c8db27f980845ef69ad95bf6665ff7b368dfb4398d",
+      "bytes": 960
+    },
+    "examples/3-billiards-single-file/README.zh-CN.md": {
+      "sha256": "bfe910102afc32ff68953154578b41c64bd66c0af77157e3d3c51474d8172eaf",
+      "bytes": 948
+    },
+    "examples/4-coffee-cup-block3d/main.code3d.js": {
+      "sha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+      "bytes": 922,
+      "source": {
+        "path": "4-coffee-cup-block3d/main.code3d.js",
+        "sha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e"
+      }
+    },
+    "examples/4-coffee-cup-block3d/preview.png": {
+      "sha256": "b673a0dc251fc227782b914f6c98fcff486d890951e1938709ccec155eb99cc7",
+      "bytes": 16699,
+      "source": {
+        "path": "4-coffee-cup-block3d/preview.png",
+        "sha256": "b673a0dc251fc227782b914f6c98fcff486d890951e1938709ccec155eb99cc7"
+      }
+    },
+    "examples/4-coffee-cup-block3d/preview-light.png": {
+      "sha256": "3bc0d8b371d5ccbae546b6958fdc03f8089aa5622171da9715188db033294261",
+      "bytes": 16926,
+      "source": {
+        "path": "4-coffee-cup-block3d/preview-light.png",
+        "sha256": "3bc0d8b371d5ccbae546b6958fdc03f8089aa5622171da9715188db033294261"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.glb": {
+      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926",
+      "bytes": 476664,
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.glb",
+        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.step": {
+      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338",
+      "bytes": 162715,
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.step",
+        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+      }
+    },
+    "examples/4-coffee-cup-block3d/model-info.json": {
+      "sha256": "aa0b50d682efe3ab55f03ba8bf82039ed3816fc4447bb7de9f7c12329a1b6609",
+      "bytes": 860
+    },
+    "examples/4-coffee-cup-block3d/README.md": {
+      "sha256": "12ea3a0b3c29a222fc5d0dd58a4aa1a8a52c488d901b068b23e4a94d45fd30eb",
+      "bytes": 920
+    },
+    "examples/4-coffee-cup-block3d/README.zh-CN.md": {
+      "sha256": "7449010b89d08f508b1bdcae649c63797a497cd58af667d17b2c3c4a11751187",
+      "bytes": 906
+    },
+    "examples/5-round-bottom-wok/main.code3d.js": {
+      "sha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
+      "bytes": 3681,
+      "source": {
+        "path": "5-round-bottom-wok/main.code3d.js",
+        "sha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8"
+      }
+    },
+    "examples/5-round-bottom-wok/preview.png": {
+      "sha256": "e3f2a1fb8f78209ea159d18ab874a28dbbdd5cd44fd741e560904e201b0126dd",
+      "bytes": 8857,
+      "source": {
+        "path": "5-round-bottom-wok/preview.png",
+        "sha256": "e3f2a1fb8f78209ea159d18ab874a28dbbdd5cd44fd741e560904e201b0126dd"
+      }
+    },
+    "examples/5-round-bottom-wok/preview-light.png": {
+      "sha256": "84c566f872554d903da86e7afcfeca9bc968a051d840afee79cc254a8746b1bb",
+      "bytes": 9184,
+      "source": {
+        "path": "5-round-bottom-wok/preview-light.png",
+        "sha256": "84c566f872554d903da86e7afcfeca9bc968a051d840afee79cc254a8746b1bb"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.glb": {
+      "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335",
+      "bytes": 704944,
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.glb",
+        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.step": {
+      "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58",
+      "bytes": 486877,
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.step",
+        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
+      }
+    },
+    "examples/5-round-bottom-wok/model-info.json": {
+      "sha256": "df57604c611747407c4d22384b2447c1efd1cb2c9342ee2c4309580fec0e2bb0",
+      "bytes": 870
+    },
+    "examples/5-round-bottom-wok/README.md": {
+      "sha256": "7271174b76f75b82b5f87db39c7a940bdfe44a645e1f74842e91fc0ce940d042",
+      "bytes": 927
+    },
+    "examples/5-round-bottom-wok/README.zh-CN.md": {
+      "sha256": "94323796ec22c883879f1e3247fadb2e183aecf09ece0f56d5f330f2e7485ecb",
+      "bytes": 911
+    },
+    "examples/6-cast-iron-skillet/main.code3d.js": {
+      "sha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2",
+      "bytes": 3116,
+      "source": {
+        "path": "6-cast-iron-skillet/main.code3d.js",
+        "sha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2"
+      }
+    },
+    "examples/6-cast-iron-skillet/preview.png": {
+      "sha256": "fe799502d08e80e8088a4369845efe137f9fe3fc12d6e6d7a605e7f517ec9982",
+      "bytes": 5916,
+      "source": {
+        "path": "6-cast-iron-skillet/preview.png",
+        "sha256": "fe799502d08e80e8088a4369845efe137f9fe3fc12d6e6d7a605e7f517ec9982"
+      }
+    },
+    "examples/6-cast-iron-skillet/preview-light.png": {
+      "sha256": "df897f8c4a7014944d7473c7936a22ad3886c3f884f0003b4a8b21e4049c0c19",
+      "bytes": 6291,
+      "source": {
+        "path": "6-cast-iron-skillet/preview-light.png",
+        "sha256": "df897f8c4a7014944d7473c7936a22ad3886c3f884f0003b4a8b21e4049c0c19"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.glb": {
+      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7",
+      "bytes": 106736,
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.glb",
+        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.step": {
+      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72",
+      "bytes": 99667,
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.step",
+        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+      }
+    },
+    "examples/6-cast-iron-skillet/model-info.json": {
+      "sha256": "79c139a4f39bc21f7f8b61025d93dc751ab8972f7ca4cd19ad0c43910baf873e",
+      "bytes": 868
+    },
+    "examples/6-cast-iron-skillet/README.md": {
+      "sha256": "2960210750e3bc65c0dcb30d083793f00e38f0d92cf09ad34c67c0ec64d47636",
+      "bytes": 944
+    },
+    "examples/6-cast-iron-skillet/README.zh-CN.md": {
+      "sha256": "6c5ea86d1c6930551f99b2ae01ebcfa0230bb5516cc2e0cc6ec94d6d800d1b78",
+      "bytes": 910
+    },
+    "examples/7-lunar-rover-block3d/main.code3d.js": {
+      "sha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6",
+      "bytes": 6935,
+      "source": {
+        "path": "7-lunar-rover-block3d/main.code3d.js",
+        "sha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6"
+      }
+    },
+    "examples/7-lunar-rover-block3d/preview.png": {
+      "sha256": "d1436d817599afb1812f4447c8304083cdacbb519e0f65fbcfce013b253eb56b",
+      "bytes": 12410,
+      "source": {
+        "path": "7-lunar-rover-block3d/preview.png",
+        "sha256": "d1436d817599afb1812f4447c8304083cdacbb519e0f65fbcfce013b253eb56b"
+      }
+    },
+    "examples/7-lunar-rover-block3d/preview-light.png": {
+      "sha256": "2927225e8f61630380752fdf0dafc57687495b750ce9f2b9fc8e1b4559023d3f",
+      "bytes": 13312,
+      "source": {
+        "path": "7-lunar-rover-block3d/preview-light.png",
+        "sha256": "2927225e8f61630380752fdf0dafc57687495b750ce9f2b9fc8e1b4559023d3f"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.glb": {
+      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae",
+      "bytes": 1752028,
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.glb",
+        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.step": {
+      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25",
+      "bytes": 975289,
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.step",
+        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+      }
+    },
+    "examples/7-lunar-rover-block3d/model-info.json": {
+      "sha256": "049b9e29c183aa28a525694c2654a6b17f7777e0c7057b30eeae033c948456e7",
+      "bytes": 863
+    },
+    "examples/7-lunar-rover-block3d/README.md": {
+      "sha256": "b934d2e8625da6ef465e369c52682bb7445d22fa86d8f36979200b08bcb27ea9",
+      "bytes": 943
+    },
+    "examples/7-lunar-rover-block3d/README.zh-CN.md": {
+      "sha256": "947220f19f6351a73c5b1db76d5880f9f4c672ed185b31b9658a6acb5941bf4a",
+      "bytes": 920
+    },
+    "examples/8-microscope-block3d/main.code3d.js": {
+      "sha256": "ecb5b32a2242540f016fbf6f33cc3252cf4f2b3d607d77f05d638fbfb4409aa9",
+      "bytes": 1292308,
+      "source": {
+        "path": "8-microscope-block3d/main.code3d.js",
+        "sha256": "ecb5b32a2242540f016fbf6f33cc3252cf4f2b3d607d77f05d638fbfb4409aa9"
+      }
+    },
+    "examples/8-microscope-block3d/preview.png": {
+      "sha256": "bbbd033bcc9b828dd2d3ae1fab9610165f6fdc88bc0e055062e5c50e47d1b388",
+      "bytes": 12263,
+      "source": {
+        "path": "8-microscope-block3d/preview.png",
+        "sha256": "bbbd033bcc9b828dd2d3ae1fab9610165f6fdc88bc0e055062e5c50e47d1b388"
+      }
+    },
+    "examples/8-microscope-block3d/preview-light.png": {
+      "sha256": "17d1b6b7cf4f802fbf464b75fdad912ff6d5c53b3d618b3c7880790e6dcb86d6",
+      "bytes": 12477,
+      "source": {
+        "path": "8-microscope-block3d/preview-light.png",
+        "sha256": "17d1b6b7cf4f802fbf464b75fdad912ff6d5c53b3d618b3c7880790e6dcb86d6"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.glb": {
+      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344",
+      "bytes": 701944,
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.glb",
+        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.step": {
+      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb",
+      "bytes": 1031969,
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.step",
+        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+      }
+    },
+    "examples/8-microscope-block3d/model-info.json": {
+      "sha256": "438b02198f26e50b99c793e337026b0b0c8b6ac9a64c857c2cb470c4a8309f36",
+      "bytes": 861
+    },
+    "examples/8-microscope-block3d/README.md": {
+      "sha256": "4d7a2e5642fa993c02d4727415a650406ecff1c7dd3d9599ac16cd4a53009125",
+      "bytes": 937
+    },
+    "examples/8-microscope-block3d/README.zh-CN.md": {
+      "sha256": "96dc521630cd3030e08e0aafd92ba160935532700f472221823d1dd84e9ec4a2",
+      "bytes": 915
+    },
+    "examples/9-mario-kart-single-file/main.code3d.js": {
+      "sha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6",
+      "bytes": 15695,
+      "source": {
+        "path": "9-mario-kart-single-file/main.code3d.js",
+        "sha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6"
+      }
+    },
+    "examples/9-mario-kart-single-file/preview.png": {
+      "sha256": "011343d2aac464d8324f79080979a02d29caf939db56f28eb740338b1ace8a63",
+      "bytes": 19964,
+      "source": {
+        "path": "9-mario-kart-single-file/preview.png",
+        "sha256": "011343d2aac464d8324f79080979a02d29caf939db56f28eb740338b1ace8a63"
+      }
+    },
+    "examples/9-mario-kart-single-file/preview-light.png": {
+      "sha256": "759db22bac474288159045199001b3e82f87edca03f28c9986b44dae06bb88e8",
+      "bytes": 20099,
+      "source": {
+        "path": "9-mario-kart-single-file/preview-light.png",
+        "sha256": "759db22bac474288159045199001b3e82f87edca03f28c9986b44dae06bb88e8"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.glb": {
+      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1",
+      "bytes": 11103072,
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.glb",
+        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.step": {
+      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673",
+      "bytes": 12667800,
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.step",
+        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+      }
+    },
+    "examples/9-mario-kart-single-file/model-info.json": {
+      "sha256": "a82f04185c005beef380b02dd97ce126f1605a97d84045365da2143ecf1e0b89",
+      "bytes": 878
+    },
+    "examples/9-mario-kart-single-file/README.md": {
+      "sha256": "a7f6054ba44f9571ce6d2376f7d08cdd9b26027c702efd9db002eb5105d7c1a1",
+      "bytes": 955
+    },
+    "examples/9-mario-kart-single-file/README.zh-CN.md": {
+      "sha256": "401402a7d43392d8435bf682758e18d79d7d07cf12192d444da1fc5cd0530bf4",
+      "bytes": 967
+    },
+    "examples/10-woven-bamboo-chair/main.code3d.js": {
+      "sha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
+      "bytes": 13146,
+      "source": {
+        "path": "10-woven-bamboo-chair/main.code3d.js",
+        "sha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85"
+      }
+    },
+    "examples/10-woven-bamboo-chair/preview.png": {
+      "sha256": "94485c676d3e602103cd982eadf056543fa560c0bf29bdf6f199844ce53f3f80",
+      "bytes": 25866,
+      "source": {
+        "path": "10-woven-bamboo-chair/preview.png",
+        "sha256": "94485c676d3e602103cd982eadf056543fa560c0bf29bdf6f199844ce53f3f80"
+      }
+    },
+    "examples/10-woven-bamboo-chair/preview-light.png": {
+      "sha256": "ff33c5d9460323fd5ae2b0d345e80ce1da112986015f4b4a739236fceb8a6e9f",
+      "bytes": 25647,
+      "source": {
+        "path": "10-woven-bamboo-chair/preview-light.png",
+        "sha256": "ff33c5d9460323fd5ae2b0d345e80ce1da112986015f4b4a739236fceb8a6e9f"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.glb": {
+      "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76",
+      "bytes": 399943968,
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.glb",
+        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.step": {
+      "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f",
+      "bytes": 136674854,
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.step",
+        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
+      }
+    },
+    "examples/10-woven-bamboo-chair/model-info.json": {
+      "sha256": "4c1de3881aa20d1bbf1a340667930b54972e1ad1b0418e320f078695cd78ef8c",
+      "bytes": 878
+    },
+    "examples/10-woven-bamboo-chair/README.md": {
+      "sha256": "add78967da932f4fe8a400d72fd94bd160179702852281cfcd09810a0036944d",
+      "bytes": 981
+    },
+    "examples/10-woven-bamboo-chair/README.zh-CN.md": {
+      "sha256": "11082b6fdfec7555986ec1f3c035395cf7b94d338219f7aaa5ec3cbf41a002c8",
+      "bytes": 956
+    },
+    "examples/11-spindle-back-chair/main.code3d.js": {
+      "sha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900",
+      "bytes": 7269,
+      "source": {
+        "path": "11-spindle-back-chair/main.code3d.js",
+        "sha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900"
+      }
+    },
+    "examples/11-spindle-back-chair/preview.png": {
+      "sha256": "e77c97e35a9e2ab2848b05e23ed348214765fd998a50cdb5865c201d89cd6c0d",
+      "bytes": 16428,
+      "source": {
+        "path": "11-spindle-back-chair/preview.png",
+        "sha256": "e77c97e35a9e2ab2848b05e23ed348214765fd998a50cdb5865c201d89cd6c0d"
+      }
+    },
+    "examples/11-spindle-back-chair/preview-light.png": {
+      "sha256": "bb5e32ec131a136e29420b0f753b273d9b5c83a0b1535bfc635f3422e258ebe7",
+      "bytes": 16117,
+      "source": {
+        "path": "11-spindle-back-chair/preview-light.png",
+        "sha256": "bb5e32ec131a136e29420b0f753b273d9b5c83a0b1535bfc635f3422e258ebe7"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.glb": {
+      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618",
+      "bytes": 4947916,
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.glb",
+        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.step": {
+      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692",
+      "bytes": 1114851,
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.step",
+        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+      }
+    },
+    "examples/11-spindle-back-chair/model-info.json": {
+      "sha256": "f3684597498e914086fdc88e990834a1a62be2431651f1592bb44389b90a2ae1",
+      "bytes": 880
+    },
+    "examples/11-spindle-back-chair/README.md": {
+      "sha256": "e0f8f4eabd702d9d55da69b5fe180165dee8f85a304e029100841375384551cc",
+      "bytes": 961
+    },
+    "examples/11-spindle-back-chair/README.zh-CN.md": {
+      "sha256": "37960afe9f063fa93eefe68dc919311ef90a3eea6e3f134b31e434cd75d0d357",
+      "bytes": 944
+    },
+    "examples/12-part3d-roundtrip/main.code3d.js": {
+      "sha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+      "bytes": 6925,
+      "source": {
+        "path": "12-part3d-roundtrip/main.code3d.js",
+        "sha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87"
+      }
+    },
+    "examples/12-part3d-roundtrip/preview.png": {
+      "sha256": "c244a211a5ff46d0627db0e39f45b19ccc42674eb7dc35768f1db62ddd4d6033",
+      "bytes": 7516,
+      "source": {
+        "path": "12-part3d-roundtrip/preview.png",
+        "sha256": "c244a211a5ff46d0627db0e39f45b19ccc42674eb7dc35768f1db62ddd4d6033"
+      }
+    },
+    "examples/12-part3d-roundtrip/preview-light.png": {
+      "sha256": "3a8600cf60f90e9d13a6b32bfff90ac98c4a9aff018bb65b09e61052bfafdbef",
+      "bytes": 7920,
+      "source": {
+        "path": "12-part3d-roundtrip/preview-light.png",
+        "sha256": "3a8600cf60f90e9d13a6b32bfff90ac98c4a9aff018bb65b09e61052bfafdbef"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.glb": {
+      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784",
+      "bytes": 239456,
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.glb",
+        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.step": {
+      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8",
+      "bytes": 53234,
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.step",
+        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+      }
+    },
+    "examples/12-part3d-roundtrip/model-info.json": {
+      "sha256": "57ae1b9e362f018e88e59f4ef5d04d8bd854e946d76aca3e80ac7291b2b64fdd",
+      "bytes": 856
+    },
+    "examples/12-part3d-roundtrip/README.md": {
+      "sha256": "09c170ae36e0acc9aba849a202abb6da1babec04e3b4444f84d5ff9e245fa956",
+      "bytes": 931
+    },
+    "examples/12-part3d-roundtrip/README.zh-CN.md": {
+      "sha256": "f79e956f1d9ee65751b1fc3bc07ffcc4623df884628d0eda68dcb82560a2f9ec",
+      "bytes": 907
+    },
+    "examples/13-stepped-flange/main.code3d.js": {
+      "sha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+      "bytes": 2860,
+      "source": {
+        "path": "13-stepped-flange/main.code3d.js",
+        "sha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb"
+      }
+    },
+    "examples/13-stepped-flange/preview.png": {
+      "sha256": "545670c71dfe51e9d5282a3111e671b28c2e8279d0c752686fd0f741a2eead3e",
+      "bytes": 6905,
+      "source": {
+        "path": "13-stepped-flange/preview.png",
+        "sha256": "545670c71dfe51e9d5282a3111e671b28c2e8279d0c752686fd0f741a2eead3e"
+      }
+    },
+    "examples/13-stepped-flange/preview-light.png": {
+      "sha256": "e452a2fcf82f2027c9bee8ca40a6fbadd22f8ac2efad350f71a809c8057ca0b2",
+      "bytes": 7114,
+      "source": {
+        "path": "13-stepped-flange/preview-light.png",
+        "sha256": "e452a2fcf82f2027c9bee8ca40a6fbadd22f8ac2efad350f71a809c8057ca0b2"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.glb": {
+      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c",
+      "bytes": 137204,
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.glb",
+        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.step": {
+      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a",
+      "bytes": 81752,
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.step",
+        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+      }
+    },
+    "examples/13-stepped-flange/model-info.json": {
+      "sha256": "c7dadb630551fe443d315459cbb6e545c8cc67a220d4b24e5c31dfd419ce69b2",
+      "bytes": 866
+    },
+    "examples/13-stepped-flange/README.md": {
+      "sha256": "0fb93629f7daf67caa15ec91e3faef939cede7b358cb2ba996884af518ce8b5f",
+      "bytes": 941
+    },
+    "examples/13-stepped-flange/README.zh-CN.md": {
+      "sha256": "7b5428768f8d02beccae35ee636602fa66159d8d976950e196854d94002c3405",
+      "bytes": 924
+    },
+    "examples/14-bearing-housing-part3d/main.code3d.js": {
+      "sha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+      "bytes": 35495,
+      "source": {
+        "path": "14-bearing-housing-part3d/main.code3d.js",
+        "sha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd"
+      }
+    },
+    "examples/14-bearing-housing-part3d/preview.png": {
+      "sha256": "b89870e06ba98a3b827ad7e84934987dfe2036861c4d540cbf4bed17592b71ef",
+      "bytes": 10420,
+      "source": {
+        "path": "14-bearing-housing-part3d/preview.png",
+        "sha256": "b89870e06ba98a3b827ad7e84934987dfe2036861c4d540cbf4bed17592b71ef"
+      }
+    },
+    "examples/14-bearing-housing-part3d/preview-light.png": {
+      "sha256": "18fe6a4a3203a39bf4ae9b9ea7606f18b3be0fd27a8ce36cdce6d832b9b1e2b7",
+      "bytes": 10657,
+      "source": {
+        "path": "14-bearing-housing-part3d/preview-light.png",
+        "sha256": "18fe6a4a3203a39bf4ae9b9ea7606f18b3be0fd27a8ce36cdce6d832b9b1e2b7"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.glb": {
+      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739",
+      "bytes": 142536,
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.glb",
+        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.step": {
+      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0",
+      "bytes": 208780,
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.step",
+        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+      }
+    },
+    "examples/14-bearing-housing-part3d/model-info.json": {
+      "sha256": "0e6cc2ba4422f381031fde709e5f01991906096a052de099b2908abb7e46428a",
+      "bytes": 870
+    },
+    "examples/14-bearing-housing-part3d/README.md": {
+      "sha256": "0dcda86ea131d2dcf7b4341420168cd780809d10eac6f72d540a727656d25506",
+      "bytes": 951
+    },
+    "examples/14-bearing-housing-part3d/README.zh-CN.md": {
+      "sha256": "88184142b8f5bbd527c491c3ae1891ed1b5ba21d2a07ca54937e9846deebe02c",
+      "bytes": 922
+    },
+    "examples/15-high-speed-shaft-part3d/main.code3d.js": {
+      "sha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
+      "bytes": 4165574,
+      "source": {
+        "path": "15-high-speed-shaft-part3d/main.code3d.js",
+        "sha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/preview.png": {
+      "sha256": "96117284ee40ec8f176baeb7fb5e1788b8a6515e824479100892ceefa496c383",
+      "bytes": 8400,
+      "source": {
+        "path": "15-high-speed-shaft-part3d/preview.png",
+        "sha256": "96117284ee40ec8f176baeb7fb5e1788b8a6515e824479100892ceefa496c383"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/preview-light.png": {
+      "sha256": "ba46b9880969527dde44e200b34742c9ee224a11a27e9c4b8ab959e4274842cd",
+      "bytes": 8925,
+      "source": {
+        "path": "15-high-speed-shaft-part3d/preview-light.png",
+        "sha256": "ba46b9880969527dde44e200b34742c9ee224a11a27e9c4b8ab959e4274842cd"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.glb": {
+      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583",
+      "bytes": 79748,
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.glb",
+        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.step": {
+      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871",
+      "bytes": 143142,
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.step",
+        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/model-info.json": {
+      "sha256": "217bb4d216f11d38d3bf026d23a4858db398ed8804de13b08ff7d0f8873724b3",
+      "bytes": 871
+    },
+    "examples/15-high-speed-shaft-part3d/README.md": {
+      "sha256": "b958cd474fb39e62c418caf2aa84eaff37088ad8ef6d51491a01ba9e1e007fcd",
+      "bytes": 947
+    },
+    "examples/15-high-speed-shaft-part3d/README.zh-CN.md": {
+      "sha256": "aa7ba9fa92f8db5b9ae356e1a8386736abb69744304fd10023e3e22f76f92b08",
+      "bytes": 918
+    },
+    "examples/16-housing-part3d/main.code3d.js": {
+      "sha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+      "bytes": 14867,
+      "source": {
+        "path": "16-housing-part3d/main.code3d.js",
+        "sha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8"
+      }
+    },
+    "examples/16-housing-part3d/preview.png": {
+      "sha256": "c8f581cf87b93cdf939ac4badbed503affab395569f53c53a0ac3d12f0a80b67",
+      "bytes": 7849,
+      "source": {
+        "path": "16-housing-part3d/preview.png",
+        "sha256": "c8f581cf87b93cdf939ac4badbed503affab395569f53c53a0ac3d12f0a80b67"
+      }
+    },
+    "examples/16-housing-part3d/preview-light.png": {
+      "sha256": "129a05198ac842f7c46edb344f465794ef3da87f82686b331c84e823ac272ed8",
+      "bytes": 8197,
+      "source": {
+        "path": "16-housing-part3d/preview-light.png",
+        "sha256": "129a05198ac842f7c46edb344f465794ef3da87f82686b331c84e823ac272ed8"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.glb": {
+      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff",
+      "bytes": 134584,
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.glb",
+        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.step": {
+      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef",
+      "bytes": 91099,
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.step",
+        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+      }
+    },
+    "examples/16-housing-part3d/model-info.json": {
+      "sha256": "4f34728421d8c6497e9b93611f09e9427d9bed2b38510cb622a50f8f77675663",
+      "bytes": 867
+    },
+    "examples/16-housing-part3d/README.md": {
+      "sha256": "977851dbfd52be90f58c56425c871605a9d2e8087443bb2efd503d0372cf886d",
+      "bytes": 949
+    },
+    "examples/16-housing-part3d/README.zh-CN.md": {
+      "sha256": "6d07fbdb42a07d61953a79b71a64079fb9deb051a9fd4d5511c7c8df01914275",
+      "bytes": 909
+    },
+    "examples/17-stirling-d16-c/main.code3d.js": {
+      "sha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051",
+      "bytes": 13880,
+      "source": {
+        "path": "17-stirling-d16-c/main.code3d.js",
+        "sha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051"
+      }
+    },
+    "examples/17-stirling-d16-c/preview.png": {
+      "sha256": "bf437c9d5d887f06193d4beeabe3a8e2e181d6cb554e36dde1eab41f7a31e01d",
+      "bytes": 17758,
+      "source": {
+        "path": "17-stirling-d16-c/preview.png",
+        "sha256": "bf437c9d5d887f06193d4beeabe3a8e2e181d6cb554e36dde1eab41f7a31e01d"
+      }
+    },
+    "examples/17-stirling-d16-c/preview-light.png": {
+      "sha256": "da4f528067eeeba967c289e94b6b4533d3bd3193e737d75cba63ea8c27d69fde",
+      "bytes": 17440,
+      "source": {
+        "path": "17-stirling-d16-c/preview-light.png",
+        "sha256": "da4f528067eeeba967c289e94b6b4533d3bd3193e737d75cba63ea8c27d69fde"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.glb": {
+      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534",
+      "bytes": 4342240,
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.glb",
+        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.step": {
+      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f",
+      "bytes": 11652444,
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.step",
+        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+      }
+    },
+    "examples/17-stirling-d16-c/model-info.json": {
+      "sha256": "883d9c75dde19289f9de59404f50ff67e60099a1335f988eddca5f1f8234ea71",
+      "bytes": 899
+    },
+    "examples/17-stirling-d16-c/README.md": {
+      "sha256": "d688dc27b77b27d10838c5c7a6b518719959dbd14ac47e890f0c8b8235e4c882",
+      "bytes": 978
+    },
+    "examples/17-stirling-d16-c/README.zh-CN.md": {
+      "sha256": "9e862152af674edb67206e994234e916288fcfa2b8793169fa28d37c7ba2883f",
+      "bytes": 967
+    },
+    "examples/18-stirling-horizontal-quartz/main.code3d.js": {
+      "sha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+      "bytes": 19080,
+      "source": {
+        "path": "18-stirling-horizontal-quartz/main.code3d.js",
+        "sha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/preview.png": {
+      "sha256": "d2580777b7e73c991854812461088c351afc1170fd6c80843b6553b97f219846",
+      "bytes": 15957,
+      "source": {
+        "path": "18-stirling-horizontal-quartz/preview.png",
+        "sha256": "d2580777b7e73c991854812461088c351afc1170fd6c80843b6553b97f219846"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/preview-light.png": {
+      "sha256": "fd1899719228abb23fd9c410ab54e28305c73c844a306ac736bd09815d449aa2",
+      "bytes": 15678,
+      "source": {
+        "path": "18-stirling-horizontal-quartz/preview-light.png",
+        "sha256": "fd1899719228abb23fd9c410ab54e28305c73c844a306ac736bd09815d449aa2"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.glb": {
+      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d",
+      "bytes": 11924476,
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.glb",
+        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.step": {
+      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae",
+      "bytes": 11427021,
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.step",
+        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/model-info.json": {
+      "sha256": "654440ca6967589db004596175d200174586738573790a37e43dfdf4ae7b04e8",
+      "bytes": 913
+    },
+    "examples/18-stirling-horizontal-quartz/README.md": {
+      "sha256": "32f3a023ca6d4b3e0705ff31a7bce6793d607b288176a3564b4e9305feb2bdaa",
+      "bytes": 995
+    },
+    "examples/18-stirling-horizontal-quartz/README.zh-CN.md": {
+      "sha256": "3f4c465696ccff2512d006635b7af306b6611b05943ef1e774e2927833b129c5",
+      "bytes": 995
+    },
+    "examples/19-ge-e3-fan-module/main.code3d.js": {
+      "sha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+      "bytes": 158875,
+      "source": {
+        "path": "19-ge-e3-fan-module/main.code3d.js",
+        "sha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222"
+      }
+    },
+    "examples/19-ge-e3-fan-module/preview.png": {
+      "sha256": "240d00c9b9daa08000968f1b7209c0641f6a839fa26f0efc546f8e4f9a44284d",
+      "bytes": 23989,
+      "source": {
+        "path": "19-ge-e3-fan-module/preview.png",
+        "sha256": "240d00c9b9daa08000968f1b7209c0641f6a839fa26f0efc546f8e4f9a44284d"
+      }
+    },
+    "examples/19-ge-e3-fan-module/preview-light.png": {
+      "sha256": "b13ee829b84a03939d97b9285b59702f34c4a3fc6e32416c58a672a8f710088c",
+      "bytes": 24060,
+      "source": {
+        "path": "19-ge-e3-fan-module/preview-light.png",
+        "sha256": "b13ee829b84a03939d97b9285b59702f34c4a3fc6e32416c58a672a8f710088c"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.glb": {
+      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb",
+      "bytes": 47590720,
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.glb",
+        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.step": {
+      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6",
+      "bytes": 75798858,
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.step",
+        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+      }
+    },
+    "examples/19-ge-e3-fan-module/model-info.json": {
+      "sha256": "976490a7d5f9952fa83a8decc52b67e8fee962fa8fca054a1d5ed57fc50b5836",
+      "bytes": 880
+    },
+    "examples/19-ge-e3-fan-module/README.md": {
+      "sha256": "f22dc7d74baa42a7a8db468e0ffd6f95672a9f9ce9801faa813d89cd435a6f89",
+      "bytes": 1193
+    },
+    "examples/19-ge-e3-fan-module/README.zh-CN.md": {
+      "sha256": "90a3cf809c54e759c8c8f06ad65a1fe483b96873e617d33e5575e99c519f8bbd",
+      "bytes": 1166
+    },
+    "examples/20-cargo-atv/main.code3d.js": {
+      "sha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb",
+      "bytes": 15095,
+      "source": {
+        "path": "20-cargo-atv/main.code3d.js",
+        "sha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb"
+      }
+    },
+    "examples/20-cargo-atv/preview.png": {
+      "sha256": "dcb3398aa2fd6126cfd2d86d1ef2c1a5af8e3f8ab703c390c5ddfd7af63b5517",
+      "bytes": 27989,
+      "source": {
+        "path": "20-cargo-atv/preview.png",
+        "sha256": "dcb3398aa2fd6126cfd2d86d1ef2c1a5af8e3f8ab703c390c5ddfd7af63b5517"
+      }
+    },
+    "examples/20-cargo-atv/preview-light.png": {
+      "sha256": "36093b60fae818db948c5789183077d2bdf4fe201dfca3e710c858eebfa9336f",
+      "bytes": 28792,
+      "source": {
+        "path": "20-cargo-atv/preview-light.png",
+        "sha256": "36093b60fae818db948c5789183077d2bdf4fe201dfca3e710c858eebfa9336f"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.glb": {
+      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007",
+      "bytes": 28726572,
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.glb",
+        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.step": {
+      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a",
+      "bytes": 19200086,
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.step",
+        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_00_overview.png": {
+      "sha256": "0d959be43d783ac3b90f03ea1539ed7b3083036e02fd6ea8819577bff486d704",
+      "bytes": 1414199,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_00_overview.png",
+        "sha256": "0d959be43d783ac3b90f03ea1539ed7b3083036e02fd6ea8819577bff486d704"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_00_supplement_overview.png": {
+      "sha256": "da1812953f9c7f177680904b3f12c719bfcdd4bc390bead79875de8bf626dfaa",
+      "bytes": 1307395,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_00_supplement_overview.png",
+        "sha256": "da1812953f9c7f177680904b3f12c719bfcdd4bc390bead79875de8bf626dfaa"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_01_front.png": {
+      "sha256": "48d001bff9d1823fc6d94f13f59d6960e8f6a595f0797daa3a3e038558506a7b",
+      "bytes": 321996,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_01_front.png",
+        "sha256": "48d001bff9d1823fc6d94f13f59d6960e8f6a595f0797daa3a3e038558506a7b"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_02_back.png": {
+      "sha256": "782fc86fa57d53c0d4761b40198b1e03db802a638e21bdea65b6c50cf984abe2",
+      "bytes": 352507,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_02_back.png",
+        "sha256": "782fc86fa57d53c0d4761b40198b1e03db802a638e21bdea65b6c50cf984abe2"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_03_left.png": {
+      "sha256": "00d3ad9bfba57e18a21ca0dbbc3a750c62e0389f3e1c381f64aa8fdded3da330",
+      "bytes": 761077,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_03_left.png",
+        "sha256": "00d3ad9bfba57e18a21ca0dbbc3a750c62e0389f3e1c381f64aa8fdded3da330"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_04_right.png": {
+      "sha256": "450e25bd28bfe14662572c5c894af58cf81eee7cbfb6c075b1d767561569122e",
+      "bytes": 808775,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_04_right.png",
+        "sha256": "450e25bd28bfe14662572c5c894af58cf81eee7cbfb6c075b1d767561569122e"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_05_top.png": {
+      "sha256": "5c3e2e6b30e1283be3b88a9d5638209b65756a13aa861a1b00f50161ba32b300",
+      "bytes": 524212,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_05_top.png",
+        "sha256": "5c3e2e6b30e1283be3b88a9d5638209b65756a13aa861a1b00f50161ba32b300"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_06_bottom.png": {
+      "sha256": "2800bcef03805142e3d30179e427a045a7fd566a6d2bda7745c385024658505e",
+      "bytes": 402405,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_06_bottom.png",
+        "sha256": "2800bcef03805142e3d30179e427a045a7fd566a6d2bda7745c385024658505e"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_07_iso_front_right_top.png": {
+      "sha256": "19909d23a6bfed0f7d5cb1aaa9423909da2fed0ee0da09e6b32e80fc8b221fce",
+      "bytes": 908173,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_07_iso_front_right_top.png",
+        "sha256": "19909d23a6bfed0f7d5cb1aaa9423909da2fed0ee0da09e6b32e80fc8b221fce"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_08_iso_back_left_top.png": {
+      "sha256": "b6975b46c78c51495e6654a46671cc9ba22d8f1d7427639c08e506f86e0601be",
+      "bytes": 870029,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_08_iso_back_left_top.png",
+        "sha256": "b6975b46c78c51495e6654a46671cc9ba22d8f1d7427639c08e506f86e0601be"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_09_iso_underside.png": {
+      "sha256": "741f587264bdc7d5873b59e9925c26cd526ecf1e3121ac6fd67ad26c76d90bf1",
+      "bytes": 477972,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_09_iso_underside.png",
+        "sha256": "741f587264bdc7d5873b59e9925c26cd526ecf1e3121ac6fd67ad26c76d90bf1"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_10_detail_front_stay_context.png": {
+      "sha256": "3ea4880963ae2917f93050cbdddee6b46e13e70e46060ff62ea074b0d0b666d3",
+      "bytes": 1125812,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_10_detail_front_stay_context.png",
+        "sha256": "3ea4880963ae2917f93050cbdddee6b46e13e70e46060ff62ea074b0d0b666d3"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_10_detail_front_stay.png": {
+      "sha256": "1a0ae9459dd0652ecc71b091ded46f7a8860e643af2e6123e939b6b73858d67f",
+      "bytes": 581859,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_10_detail_front_stay.png",
+        "sha256": "1a0ae9459dd0652ecc71b091ded46f7a8860e643af2e6123e939b6b73858d67f"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_11_section_front_hub_A-A.png": {
+      "sha256": "3b315828651164d2e7815105d3c9df6f761228c4be840faf2edc4b70f63790d8",
+      "bytes": 83466,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_11_section_front_hub_A-A.png",
+        "sha256": "3b315828651164d2e7815105d3c9df6f761228c4be840faf2edc4b70f63790d8"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_12_section_exhaust_B-B.png": {
+      "sha256": "41156d8fdc00ee2bf61c67c3e0c4a6eb812b07a8646a334c784bebde5a63e371",
+      "bytes": 73999,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_12_section_exhaust_B-B.png",
+        "sha256": "41156d8fdc00ee2bf61c67c3e0c4a6eb812b07a8646a334c784bebde5a63e371"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_13_exploded.png": {
+      "sha256": "42d9f92ac03c9e3b09ce1f4a1292f7971fe59eb7e34abb807df8919494c4b014",
+      "bytes": 452586,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_13_exploded.png",
+        "sha256": "42d9f92ac03c9e3b09ce1f4a1292f7971fe59eb7e34abb807df8919494c4b014"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_14_motion_wheel_0.png": {
+      "sha256": "0e8aaecab3ce5328e8f2f01bff6333fb2fc8e05e0cc0550ad8fa4f0f7dfcee8c",
+      "bytes": 460358,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_14_motion_wheel_0.png",
+        "sha256": "0e8aaecab3ce5328e8f2f01bff6333fb2fc8e05e0cc0550ad8fa4f0f7dfcee8c"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_15_motion_wheel_13.png": {
+      "sha256": "2429685e9bb9adfc4a7441bef44cb860629f7bcc4c034a421689a14abceefb01",
+      "bytes": 461450,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_15_motion_wheel_13.png",
+        "sha256": "2429685e9bb9adfc4a7441bef44cb860629f7bcc4c034a421689a14abceefb01"
+      }
+    },
+    "examples/20-cargo-atv/multiview/cargo-atv_16_motion_wheel_90.png": {
+      "sha256": "7326607adee5fa84ca55923d958b4418538614542989d1472e154e55f15c47c2",
+      "bytes": 461955,
+      "source": {
+        "path": "20-cargo-atv/multiview/cargo-atv_16_motion_wheel_90.png",
+        "sha256": "7326607adee5fa84ca55923d958b4418538614542989d1472e154e55f15c47c2"
+      }
+    },
+    "examples/20-cargo-atv/multiview/README.md": {
+      "sha256": "e9f0ba714d27f76c73e3e69691517d0ef5dc766e9ad5c7d90a7c9f96850b01d7",
+      "bytes": 1662
+    },
+    "examples/20-cargo-atv/model-info.json": {
+      "sha256": "4e5b027bed06f8a9cedf959ad7943765aaab9389db049f6d607bab2f2cc28256",
+      "bytes": 4218
+    },
+    "examples/20-cargo-atv/README.md": {
+      "sha256": "c90b0ae4b99eca01d752ed72454acc3536c52068f878d72131863deaab7a365f",
+      "bytes": 1060
+    },
+    "examples/20-cargo-atv/README.zh-CN.md": {
+      "sha256": "87f15c55c2008d216835dd47ef2d26fcc8676a7b7080cd9dd9463ab2a4145658",
+      "bytes": 1042
+    },
+    "examples/21-baltsar-chair/main.code3d.js": {
+      "sha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+      "bytes": 6514,
+      "source": {
+        "path": "21-baltsar-chair/main.code3d.js",
+        "sha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90"
+      }
+    },
+    "examples/21-baltsar-chair/preview.png": {
+      "sha256": "8dac91678cf0db7e076d7611fab0efdff2d34ea545a7bcc2390e91a566e7fcc5",
+      "bytes": 14400,
+      "source": {
+        "path": "21-baltsar-chair/preview.png",
+        "sha256": "8dac91678cf0db7e076d7611fab0efdff2d34ea545a7bcc2390e91a566e7fcc5"
+      }
+    },
+    "examples/21-baltsar-chair/preview-light.png": {
+      "sha256": "f3daab19587c93e17f8cac6bd7d1a294683f35ba5933a39af6dc78099f4f302a",
+      "bytes": 14869,
+      "source": {
+        "path": "21-baltsar-chair/preview-light.png",
+        "sha256": "f3daab19587c93e17f8cac6bd7d1a294683f35ba5933a39af6dc78099f4f302a"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb": {
+      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f",
+      "bytes": 9766148,
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.glb",
+        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step": {
+      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6",
+      "bytes": 1277682,
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.step",
+        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_00_overview.png": {
+      "sha256": "9d2a957ba3e962088e0c58023020d7220f70e18880b0b16bc5d6ab28ef14b135",
+      "bytes": 756485,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_00_overview.png",
+        "sha256": "9d2a957ba3e962088e0c58023020d7220f70e18880b0b16bc5d6ab28ef14b135"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_01_front.png": {
+      "sha256": "8e0bd8178de5111eacc7a0e0895f5265e62030a7d157654dd1e00e208c57734f",
+      "bytes": 405878,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_01_front.png",
+        "sha256": "8e0bd8178de5111eacc7a0e0895f5265e62030a7d157654dd1e00e208c57734f"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_02_back.png": {
+      "sha256": "f4bf67a0485440fe99fef43bbf10efc5a6585412be2da148772ae1cc484abe52",
+      "bytes": 352052,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_02_back.png",
+        "sha256": "f4bf67a0485440fe99fef43bbf10efc5a6585412be2da148772ae1cc484abe52"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_03_left.png": {
+      "sha256": "57219f1b88e1ea8d0648702ec7a2c9df2ecc3b2df72efaec347fa1792ea57bec",
+      "bytes": 356934,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_03_left.png",
+        "sha256": "57219f1b88e1ea8d0648702ec7a2c9df2ecc3b2df72efaec347fa1792ea57bec"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_04_right.png": {
+      "sha256": "3b0dc61118cdf968323de426bc4980dad755677a1f528098f5783768dd06a25a",
+      "bytes": 416417,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_04_right.png",
+        "sha256": "3b0dc61118cdf968323de426bc4980dad755677a1f528098f5783768dd06a25a"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_05_top.png": {
+      "sha256": "2c0b11991ff837735285d7f47788b4e8a6a180e9722463a2d90406b564a3ef89",
+      "bytes": 354852,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_05_top.png",
+        "sha256": "2c0b11991ff837735285d7f47788b4e8a6a180e9722463a2d90406b564a3ef89"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_06_bottom.png": {
+      "sha256": "3b6d7ecc82edda691aeaa332a6fb1e9ec214b6705dce448b51c9d0bb40920e44",
+      "bytes": 383942,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_06_bottom.png",
+        "sha256": "3b6d7ecc82edda691aeaa332a6fb1e9ec214b6705dce448b51c9d0bb40920e44"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_07_iso_front_right_top.png": {
+      "sha256": "bd5d6d44e437f44315ed39700f2e70afb3a4822332dca9ec82f43a65462d155b",
+      "bytes": 348681,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_07_iso_front_right_top.png",
+        "sha256": "bd5d6d44e437f44315ed39700f2e70afb3a4822332dca9ec82f43a65462d155b"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/baltsar-chair_08_iso_back_left_top.png": {
+      "sha256": "f51d189b525176f15fd07c7fb0e60edbdb219305d8e56b1a826c92cb8a14f56b",
+      "bytes": 272885,
+      "source": {
+        "path": "21-baltsar-chair/multiview/baltsar-chair_08_iso_back_left_top.png",
+        "sha256": "f51d189b525176f15fd07c7fb0e60edbdb219305d8e56b1a826c92cb8a14f56b"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/crown-comparison.png": {
+      "sha256": "1fbbae5c3c3de9f31270797d9148381c1b9dcf359c958ceda9f0cb0991c5b27f",
+      "bytes": 201638,
+      "source": {
+        "path": "21-baltsar-chair/multiview/crown-comparison.png",
+        "sha256": "1fbbae5c3c3de9f31270797d9148381c1b9dcf359c958ceda9f0cb0991c5b27f"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-back-opaque.png": {
+      "sha256": "8aa1e6cd51df0543a0d97b80844586d5c09103481b8360982f328ac50a244ead",
+      "bytes": 377353,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-back-opaque.png",
+        "sha256": "8aa1e6cd51df0543a0d97b80844586d5c09103481b8360982f328ac50a244ead"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-front-rim-locator.png": {
+      "sha256": "8190db4decd9b2d93ee61d99cd730183f0a8294aa7374b842073b2b6244acbb7",
+      "bytes": 549053,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-front-rim-locator.png",
+        "sha256": "8190db4decd9b2d93ee61d99cd730183f0a8294aa7374b842073b2b6244acbb7"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-front-rim.png": {
+      "sha256": "6f8090e7da1c4138a375c1030c88e539c3aaded3009889f4c448753baf752493",
+      "bytes": 605563,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-front-rim.png",
+        "sha256": "6f8090e7da1c4138a375c1030c88e539c3aaded3009889f4c448753baf752493"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-left-corner-locator.png": {
+      "sha256": "738065441aacd502bca60fa25c144a462aebdd3ac2de75efc79b0a096de0830a",
+      "bytes": 611307,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-left-corner-locator.png",
+        "sha256": "738065441aacd502bca60fa25c144a462aebdd3ac2de75efc79b0a096de0830a"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-left-corner.png": {
+      "sha256": "9380237fb887f56107fe9c60511119a4a5a914f65f0a27456e65429ec443826f",
+      "bytes": 806929,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-left-corner.png",
+        "sha256": "9380237fb887f56107fe9c60511119a4a5a914f65f0a27456e65429ec443826f"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-overview.png": {
+      "sha256": "c78ba98073209606c78df99a7bffcf931722e55f273fb80fa39a4bbe0172c16f",
+      "bytes": 428957,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-overview.png",
+        "sha256": "c78ba98073209606c78df99a7bffcf931722e55f273fb80fa39a4bbe0172c16f"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-side-corner-locator.png": {
+      "sha256": "e62a5f9bf38ada51b7173737a978ffd718e00d3e44cb099d0be2c383899dbe17",
+      "bytes": 548658,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-side-corner-locator.png",
+        "sha256": "e62a5f9bf38ada51b7173737a978ffd718e00d3e44cb099d0be2c383899dbe17"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/inspection-side-corner.png": {
+      "sha256": "79a84ed201f8d7b2901e131cf12949705b6faf57eb8152f086867db78e8afd7a",
+      "bytes": 912617,
+      "source": {
+        "path": "21-baltsar-chair/multiview/inspection-side-corner.png",
+        "sha256": "79a84ed201f8d7b2901e131cf12949705b6faf57eb8152f086867db78e8afd7a"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/rim-comparison.png": {
+      "sha256": "b491cf5ed86a279ecab686037365f9e303fa31eec5a0cc8f06e714bb4ff13b1f",
+      "bytes": 355391,
+      "source": {
+        "path": "21-baltsar-chair/multiview/rim-comparison.png",
+        "sha256": "b491cf5ed86a279ecab686037365f9e303fa31eec5a0cc8f06e714bb4ff13b1f"
+      }
+    },
+    "examples/21-baltsar-chair/multiview/README.md": {
+      "sha256": "5f38493a7fb66bd50fae1bb7267eaeffa111b08f69c5d038c6e14c5166f6d934",
+      "bytes": 1592
+    },
+    "examples/21-baltsar-chair/skills/parapoly-curved-shell-modeling/references/baltsar-case.md": {
+      "sha256": "d9ab9bbddad6041c8b8005cedbd26213171495ed1bd1aed2c07a18e52d40ef2f",
+      "bytes": 4614,
+      "source": {
+        "path": "21-baltsar-chair/skills/parapoly-curved-shell-modeling/references/baltsar-case.md",
+        "sha256": "a11b2d055d013b3df011a1fc43d865d2be300da0ebefde3bba63b92d14af19d1",
+        "adaptation": "public-reference"
+      }
+    },
+    "examples/21-baltsar-chair/skills/parapoly-curved-shell-modeling/SKILL.md": {
+      "sha256": "e27b80ddc857885fee89fdeda49c72086672b4f0d60bf17ec288fcf8965697b6",
+      "bytes": 5797,
+      "source": {
+        "path": "21-baltsar-chair/skills/parapoly-curved-shell-modeling/SKILL.md",
+        "sha256": "e27b80ddc857885fee89fdeda49c72086672b4f0d60bf17ec288fcf8965697b6"
+      }
+    },
+    "examples/21-baltsar-chair/skills/parapoly-shell-chair-design/SKILL.md": {
+      "sha256": "3e62181d3a01c633866a0ca3b00886d02b4490cd7c3548c4831395e7df02da69",
+      "bytes": 6579,
+      "source": {
+        "path": "21-baltsar-chair/skills/parapoly-shell-chair-design/SKILL.md",
+        "sha256": "3e62181d3a01c633866a0ca3b00886d02b4490cd7c3548c4831395e7df02da69"
+      }
+    },
+    "examples/21-baltsar-chair/model-info.json": {
+      "sha256": "21fa8be27cbace74a48d5101921ea32bd544ff4b603e8c4059ca14ad71ca2061",
+      "bytes": 4220
+    },
+    "examples/21-baltsar-chair/README.md": {
+      "sha256": "5d122893c8f7e5cd839630e0ae7291288b3292c1a4358f8d3d30ff9586880d9b",
+      "bytes": 1896
+    },
+    "examples/21-baltsar-chair/README.zh-CN.md": {
+      "sha256": "236403d615d7de068127043ba59ea80d5ba0c66f089416b024cba2378215bced",
+      "bytes": 1843
+    },
+    "README.md": {
+      "sha256": "f17a09826f537957156e6a9fdca3af622f1420262f800371276d50df7b3a1250",
+      "bytes": 15855
+    },
+    "README.zh-CN.md": {
+      "sha256": "9ef7082f21a1d9c9f24d097d5361467abe3917294a60d4348291442b0334bffa",
+      "bytes": 15699
+    },
+    ".gitattributes": {
+      "sha256": "90c2606486c8780f0852d4eb5ca28402df9ce8c556e808bf4ecb5ba2027f5153",
+      "bytes": 157
+    },
+    "catalog.json": {
+      "sha256": "0aca126e3d6420b8b76c986093936617de5fad695f84af408e1089833bb9c31d",
+      "bytes": 18980
+    }
+  }
+}

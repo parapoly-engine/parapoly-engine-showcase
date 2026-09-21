@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "2-woven-basket-block3d",
+  "title": {
+    "en": "Woven basket",
+    "zh": "竹编容器"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "f6e5539f855d39df247ff295fb65aeafa59449277d77d100a407f7f3e04bf39f",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 1707972,
+      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 4145131,
+      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+    }
+  ],
+  "multiview": []
+}

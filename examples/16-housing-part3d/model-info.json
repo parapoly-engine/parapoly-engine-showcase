@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "16-housing-part3d",
+  "title": {
+    "en": "Mechanical housing",
+    "zh": "机械壳体"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 134584,
+      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 91099,
+      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+    }
+  ],
+  "multiview": []
+}

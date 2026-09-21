@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "1-boolean-cutout",
+  "title": {
+    "en": "Boolean cutout",
+    "zh": "方体与球体差集"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 80060,
+      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 55774,
+      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+    }
+  ],
+  "multiview": []
+}

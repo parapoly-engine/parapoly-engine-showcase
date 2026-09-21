@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "8-microscope-block3d",
+  "title": {
+    "en": "Microscope",
+    "zh": "显微镜"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "ecb5b32a2242540f016fbf6f33cc3252cf4f2b3d607d77f05d638fbfb4409aa9",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 701944,
+      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 1031969,
+      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+    }
+  ],
+  "multiview": []
+}

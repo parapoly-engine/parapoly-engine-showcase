@@ -1,0 +1,572 @@
+[
+  {
+    "id": "1-boolean-cutout",
+    "name": {
+      "en": "Boolean cutout",
+      "zh": "方体与球体差集"
+    },
+    "description": {
+      "en": "A sphere cuts through a cube: a compact introduction to solid modeling.",
+      "zh": "用球体切开方体，从最简单的布尔运算开始。"
+    },
+    "source": "examples/1-boolean-cutout/main.code3d.js",
+    "readme": "examples/1-boolean-cutout/README.md",
+    "models": [
+      {
+        "file": "examples/1-boolean-cutout/dist/models/main.glb",
+        "bytes": 80060,
+        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
+      },
+      {
+        "file": "examples/1-boolean-cutout/dist/models/main.step",
+        "bytes": 55774,
+        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "2-woven-basket-block3d",
+    "name": {
+      "en": "Woven basket",
+      "zh": "竹编容器"
+    },
+    "description": {
+      "en": "Repeated curved strips form an open woven container.",
+      "zh": "重复排列的曲面条带构成镂空编织容器。"
+    },
+    "source": "examples/2-woven-basket-block3d/main.code3d.js",
+    "readme": "examples/2-woven-basket-block3d/README.md",
+    "models": [
+      {
+        "file": "examples/2-woven-basket-block3d/dist/models/main.glb",
+        "bytes": 1707972,
+        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
+      },
+      {
+        "file": "examples/2-woven-basket-block3d/dist/models/main.step",
+        "bytes": 4145131,
+        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "3-billiards-single-file",
+    "name": {
+      "en": "Billiards table",
+      "zh": "完整台球桌"
+    },
+    "description": {
+      "en": "A complete table with six pockets, cushions, a wooden frame and four legs.",
+      "zh": "包含六个球袋、台呢、木框和四条桌腿的完整台球桌。"
+    },
+    "source": "examples/3-billiards-single-file/main.code3d.js",
+    "readme": "examples/3-billiards-single-file/README.md",
+    "models": [
+      {
+        "file": "examples/3-billiards-single-file/dist/models/main.glb",
+        "bytes": 1121524,
+        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
+      },
+      {
+        "file": "examples/3-billiards-single-file/dist/models/main.step",
+        "bytes": 2539778,
+        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "4-coffee-cup-block3d",
+    "name": {
+      "en": "Coffee cup",
+      "zh": "咖啡杯"
+    },
+    "description": {
+      "en": "A hollow cup with a curved body and a loop handle.",
+      "zh": "中空杯体与环形把手组成的咖啡杯。"
+    },
+    "source": "examples/4-coffee-cup-block3d/main.code3d.js",
+    "readme": "examples/4-coffee-cup-block3d/README.md",
+    "models": [
+      {
+        "file": "examples/4-coffee-cup-block3d/dist/models/main.glb",
+        "bytes": 476664,
+        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
+      },
+      {
+        "file": "examples/4-coffee-cup-block3d/dist/models/main.step",
+        "bytes": 162715,
+        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "5-round-bottom-wok",
+    "name": {
+      "en": "Round-bottom wok",
+      "zh": "木柄圆底锅"
+    },
+    "description": {
+      "en": "A thin curved bowl, rolled rim and wooden handle.",
+      "zh": "薄壁圆底锅体、环形锅沿与木柄。"
+    },
+    "source": "examples/5-round-bottom-wok/main.code3d.js",
+    "readme": "examples/5-round-bottom-wok/README.md",
+    "models": [
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/main.glb",
+        "bytes": 704944,
+        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
+      },
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/main.step",
+        "bytes": 486877,
+        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "6-cast-iron-skillet",
+    "name": {
+      "en": "Cast-iron skillet",
+      "zh": "铸铁煎锅"
+    },
+    "description": {
+      "en": "A skillet with pouring lips, a long handle and a hanging hole.",
+      "zh": "带浇注口、长柄和挂孔的铸铁煎锅。"
+    },
+    "source": "examples/6-cast-iron-skillet/main.code3d.js",
+    "readme": "examples/6-cast-iron-skillet/README.md",
+    "models": [
+      {
+        "file": "examples/6-cast-iron-skillet/dist/models/main.glb",
+        "bytes": 106736,
+        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
+      },
+      {
+        "file": "examples/6-cast-iron-skillet/dist/models/main.step",
+        "bytes": 99667,
+        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "7-lunar-rover-block3d",
+    "name": {
+      "en": "Lunar rover",
+      "zh": "月球车"
+    },
+    "description": {
+      "en": "A multi-part rover with wheels, a chassis and scientific instruments.",
+      "zh": "由车身、轮组和科学仪器构成的月球车装配。"
+    },
+    "source": "examples/7-lunar-rover-block3d/main.code3d.js",
+    "readme": "examples/7-lunar-rover-block3d/README.md",
+    "models": [
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/main.glb",
+        "bytes": 1752028,
+        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
+      },
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/main.step",
+        "bytes": 975289,
+        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "8-microscope-block3d",
+    "name": {
+      "en": "Microscope",
+      "zh": "显微镜"
+    },
+    "description": {
+      "en": "A microscope assembly with a base, stage, support and optical tube.",
+      "zh": "组合底座、立柱、载物台与镜筒的显微镜。"
+    },
+    "source": "examples/8-microscope-block3d/main.code3d.js",
+    "readme": "examples/8-microscope-block3d/README.md",
+    "models": [
+      {
+        "file": "examples/8-microscope-block3d/dist/models/main.glb",
+        "bytes": 701944,
+        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
+      },
+      {
+        "file": "examples/8-microscope-block3d/dist/models/main.step",
+        "bytes": 1031969,
+        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "9-mario-kart-single-file",
+    "name": {
+      "en": "Racing kart",
+      "zh": "无人物卡丁车"
+    },
+    "description": {
+      "en": "An open cockpit, curved fairings, rounded tires and hollow exhaust pipes.",
+      "zh": "开放座舱、曲面车罩、圆肩轮胎与中空排气管组成的卡丁车。"
+    },
+    "source": "examples/9-mario-kart-single-file/main.code3d.js",
+    "readme": "examples/9-mario-kart-single-file/README.md",
+    "models": [
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/main.glb",
+        "bytes": 11103072,
+        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
+      },
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/main.step",
+        "bytes": 12667800,
+        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "10-woven-bamboo-chair",
+    "name": {
+      "en": "Woven bamboo chair",
+      "zh": "编织竹椅"
+    },
+    "description": {
+      "en": "A bamboo frame with interlaced cord, curved rails and detailed wrapping.",
+      "zh": "竹制框架配合立体交织纸绳、弯曲横撑和周边绕绳。"
+    },
+    "source": "examples/10-woven-bamboo-chair/main.code3d.js",
+    "readme": "examples/10-woven-bamboo-chair/README.md",
+    "models": [
+      {
+        "file": "examples/10-woven-bamboo-chair/dist/models/main.glb",
+        "bytes": 399943968,
+        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
+      },
+      {
+        "file": "examples/10-woven-bamboo-chair/dist/models/main.step",
+        "bytes": 136674854,
+        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "11-spindle-back-chair",
+    "name": {
+      "en": "Spindle-back chair",
+      "zh": "圆杆靠背木椅"
+    },
+    "description": {
+      "en": "A curved top rail, seven back spindles, a sculpted seat and tapered legs.",
+      "zh": "弯曲顶梁、七根靠背圆杆、曲面座板和锥形椅腿。"
+    },
+    "source": "examples/11-spindle-back-chair/main.code3d.js",
+    "readme": "examples/11-spindle-back-chair/README.md",
+    "models": [
+      {
+        "file": "examples/11-spindle-back-chair/dist/models/main.glb",
+        "bytes": 4947916,
+        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
+      },
+      {
+        "file": "examples/11-spindle-back-chair/dist/models/main.step",
+        "bytes": 1114851,
+        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "12-part3d-roundtrip",
+    "name": {
+      "en": "Dipstick",
+      "zh": "油标尺"
+    },
+    "description": {
+      "en": "A small mechanical part built from sketches and feature operations.",
+      "zh": "由草图与特征操作构成的油标尺零件。"
+    },
+    "source": "examples/12-part3d-roundtrip/main.code3d.js",
+    "readme": "examples/12-part3d-roundtrip/README.md",
+    "models": [
+      {
+        "file": "examples/12-part3d-roundtrip/dist/models/main.glb",
+        "bytes": 239456,
+        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
+      },
+      {
+        "file": "examples/12-part3d-roundtrip/dist/models/main.step",
+        "bytes": 53234,
+        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "13-stepped-flange",
+    "name": {
+      "en": "Stepped flange",
+      "zh": "阶梯法兰盘"
+    },
+    "description": {
+      "en": "A stepped flange with a center bore and six evenly spaced bolt holes.",
+      "zh": "带中心通孔和六个均布螺栓孔的阶梯法兰盘。"
+    },
+    "source": "examples/13-stepped-flange/main.code3d.js",
+    "readme": "examples/13-stepped-flange/README.md",
+    "models": [
+      {
+        "file": "examples/13-stepped-flange/dist/models/main.glb",
+        "bytes": 137204,
+        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
+      },
+      {
+        "file": "examples/13-stepped-flange/dist/models/main.step",
+        "bytes": 81752,
+        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "14-bearing-housing-part3d",
+    "name": {
+      "en": "Bearing housing",
+      "zh": "轴承座"
+    },
+    "description": {
+      "en": "A bearing support with a mounting base and machined openings.",
+      "zh": "由安装底座、座体和开孔构成的轴承座。"
+    },
+    "source": "examples/14-bearing-housing-part3d/main.code3d.js",
+    "readme": "examples/14-bearing-housing-part3d/README.md",
+    "models": [
+      {
+        "file": "examples/14-bearing-housing-part3d/dist/models/main.glb",
+        "bytes": 142536,
+        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
+      },
+      {
+        "file": "examples/14-bearing-housing-part3d/dist/models/main.step",
+        "bytes": 208780,
+        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "15-high-speed-shaft-part3d",
+    "name": {
+      "en": "High-speed shaft",
+      "zh": "高速轴"
+    },
+    "description": {
+      "en": "A stepped shaft modeled with solid features and cuts.",
+      "zh": "通过实体特征与切削构造的阶梯轴。"
+    },
+    "source": "examples/15-high-speed-shaft-part3d/main.code3d.js",
+    "readme": "examples/15-high-speed-shaft-part3d/README.md",
+    "models": [
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/main.glb",
+        "bytes": 79748,
+        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
+      },
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/main.step",
+        "bytes": 143142,
+        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "16-housing-part3d",
+    "name": {
+      "en": "Mechanical housing",
+      "zh": "机械壳体"
+    },
+    "description": {
+      "en": "A mechanical enclosure with an internal cavity and detailed features.",
+      "zh": "具有内部腔体和细节特征的机械壳体。"
+    },
+    "source": "examples/16-housing-part3d/main.code3d.js",
+    "readme": "examples/16-housing-part3d/README.md",
+    "models": [
+      {
+        "file": "examples/16-housing-part3d/dist/models/main.glb",
+        "bytes": 134584,
+        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
+      },
+      {
+        "file": "examples/16-housing-part3d/dist/models/main.step",
+        "bytes": 91099,
+        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "17-stirling-d16-c",
+    "name": {
+      "en": "Low-temperature Stirling engine",
+      "zh": "低温差斯特林展示机"
+    },
+    "description": {
+      "en": "A display assembly with twin flywheels, a power piston and a displacer.",
+      "zh": "包含双飞轮、动力活塞和移气活塞的低温差斯特林展示机。"
+    },
+    "source": "examples/17-stirling-d16-c/main.code3d.js",
+    "readme": "examples/17-stirling-d16-c/README.md",
+    "models": [
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/main.glb",
+        "bytes": 4342240,
+        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
+      },
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/main.step",
+        "bytes": 11652444,
+        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "18-stirling-horizontal-quartz",
+    "name": {
+      "en": "Horizontal Stirling engine",
+      "zh": "横置石英管斯特林展示机"
+    },
+    "description": {
+      "en": "A quartz hot-end tube, cooling fins, linkages, a belt and a braided wick.",
+      "zh": "横置石英热端管、散热片、连杆、皮带和编织灯芯。"
+    },
+    "source": "examples/18-stirling-horizontal-quartz/main.code3d.js",
+    "readme": "examples/18-stirling-horizontal-quartz/README.md",
+    "models": [
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/main.glb",
+        "bytes": 11924476,
+        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
+      },
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/main.step",
+        "bytes": 11427021,
+        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "19-ge-e3-fan-module",
+    "name": {
+      "en": "GE E³ fan module",
+      "zh": "GE E³ 风扇组件"
+    },
+    "description": {
+      "en": "A 32-blade fan assembly with code-lofted airfoils and detailed root attachments.",
+      "zh": "用代码放样叶型的 32 叶片风扇组件，包含叶根及固定件。"
+    },
+    "source": "examples/19-ge-e3-fan-module/main.code3d.js",
+    "readme": "examples/19-ge-e3-fan-module/README.md",
+    "models": [
+      {
+        "file": "examples/19-ge-e3-fan-module/dist/models/main.glb",
+        "bytes": 47590720,
+        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
+      },
+      {
+        "file": "examples/19-ge-e3-fan-module/dist/models/main.step",
+        "bytes": 75798858,
+        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+      }
+    ],
+    "multiview": null,
+    "skills": []
+  },
+  {
+    "id": "20-cargo-atv",
+    "name": {
+      "en": "Cargo ATV",
+      "zh": "运输四轮 ATV"
+    },
+    "description": {
+      "en": "A four-wheel utility vehicle with curved bodywork, a cargo platform and tubular rails.",
+      "zh": "带曲面车壳、后货台和管式护栏的运输四轮 ATV。"
+    },
+    "source": "examples/20-cargo-atv/main.code3d.js",
+    "readme": "examples/20-cargo-atv/README.md",
+    "models": [
+      {
+        "file": "examples/20-cargo-atv/dist/models/main.glb",
+        "bytes": 28726572,
+        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
+      },
+      {
+        "file": "examples/20-cargo-atv/dist/models/main.step",
+        "bytes": 19200086,
+        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+      }
+    ],
+    "multiview": "examples/20-cargo-atv/multiview/README.md",
+    "skills": []
+  },
+  {
+    "id": "21-baltsar-chair",
+    "name": {
+      "en": "BALTSAR chair",
+      "zh": "BALTSAR 宝特赛四腿椅"
+    },
+    "description": {
+      "en": "A continuous transparent shell, upholstered seat and black four-leg support.",
+      "zh": "连续透明厚壳、软垫、黑色承托与四条外撇椅腿。"
+    },
+    "source": "examples/21-baltsar-chair/main.code3d.js",
+    "readme": "examples/21-baltsar-chair/README.md",
+    "models": [
+      {
+        "file": "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb",
+        "bytes": 9766148,
+        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
+      },
+      {
+        "file": "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step",
+        "bytes": 1277682,
+        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+      }
+    ],
+    "multiview": "examples/21-baltsar-chair/multiview/README.md",
+    "skills": [
+      "examples/21-baltsar-chair/skills/parapoly-curved-shell-modeling/SKILL.md",
+      "examples/21-baltsar-chair/skills/parapoly-shell-chair-design/SKILL.md"
+    ]
+  }
+]

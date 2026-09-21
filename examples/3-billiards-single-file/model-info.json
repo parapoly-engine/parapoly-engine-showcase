@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "3-billiards-single-file",
+  "title": {
+    "en": "Billiards table",
+    "zh": "完整台球桌"
+  },
+  "source": "main.code3d.js",
+  "sourceSha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+  "geometryValidation": {
+    "status": "passed",
+    "checkedAt": "2026-09-19T15:07:13.005Z",
+    "engineVersion": "3.0.0",
+    "scope": "Historical source validation; synchronization does not rerun geometry or establish compatibility with the latest npm release."
+  },
+  "models": [
+    {
+      "file": "dist/models/main.glb",
+      "bytes": 1121524,
+      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
+    },
+    {
+      "file": "dist/models/main.step",
+      "bytes": 2539778,
+      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+    }
+  ],
+  "multiview": []
+}
