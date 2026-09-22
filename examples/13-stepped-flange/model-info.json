@@ -23,6 +23,146 @@
       "file": "dist/models/main.step",
       "bytes": 81752,
       "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+    },
+    {
+      "file": "dist/models/bmax/64/main.bmax",
+      "bytes": 198475,
+      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+      "resolution": 64
+    },
+    {
+      "file": "dist/models/bmax/32/main.bmax",
+      "bytes": 47433,
+      "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
+      "resolution": 32
+    },
+    {
+      "file": "dist/models/bmax/16/main.bmax",
+      "bytes": 10111,
+      "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
+      "resolution": 16
+    }
+  ],
+  "bmaxExport": {
+    "checkedAt": "2026-09-22T01:00:36.257Z",
+    "engineVersion": "3.0.3",
+    "voxelCount": 10452,
+    "materialLoss": false,
+    "options": {
+      "linearDeflection": 0.3,
+      "angleDegrees": 10,
+      "bmax": {
+        "resolution": 64,
+        "fillMode": "surface",
+        "maxVoxels": 500000
+      }
+    }
+  },
+  "bmaxVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "dist/models/bmax/64/main.bmax",
+        "bytes": 198475,
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+      },
+      "previews": {
+        "dark": {
+          "file": "bmax/64/preview.png",
+          "bytes": 6630,
+          "sha256": "d0ea977f3f2f19f98950282605e80c3ba2dcd91fca2208dd499ff889a20d29c6"
+        },
+        "light": {
+          "file": "bmax/64/preview-light.png",
+          "bytes": 6732,
+          "sha256": "c7fb5df10de1b14dc0851eea4f4890eeb5a75e98e1b2f2f64d462d180eac436d"
+        }
+      },
+      "checkedAt": "2026-09-22T01:00:36.257Z",
+      "previewCheckedAt": "2026-09-22T01:05:19.413Z",
+      "engineVersion": "3.0.3",
+      "voxelCount": 10452,
+      "voxelSize": 1.5625,
+      "materialLoss": false,
+      "options": {
+        "linearDeflection": 0.3,
+        "angleDegrees": 10,
+        "bmax": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        }
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "dist/models/bmax/32/main.bmax",
+        "bytes": 47433,
+        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
+      },
+      "previews": {
+        "dark": {
+          "file": "bmax/32/preview.png",
+          "bytes": 6435,
+          "sha256": "a95e5f7cc0d878e0588cac3c5661991a4e73f7babf16bc6f64841bafe1535b8b"
+        },
+        "light": {
+          "file": "bmax/32/preview-light.png",
+          "bytes": 6489,
+          "sha256": "2483a2a01c31bbedaee5b0eaa7fb941e4f4e8c4cdcb4306b9151fee4416f9a91"
+        }
+      },
+      "checkedAt": "2026-09-22T01:00:36.403Z",
+      "previewCheckedAt": "2026-09-22T01:05:19.415Z",
+      "engineVersion": "3.0.3",
+      "voxelCount": 2552,
+      "voxelSize": 3.125,
+      "materialLoss": false,
+      "options": {
+        "linearDeflection": 0.3,
+        "angleDegrees": 10,
+        "bmax": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        }
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "dist/models/bmax/16/main.bmax",
+        "bytes": 10111,
+        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
+      },
+      "previews": {
+        "dark": {
+          "file": "bmax/16/preview.png",
+          "bytes": 6142,
+          "sha256": "78bcf73fc6e283b38703da5ce647cbe6a8616ba61f41fec4e21ebef33c545142"
+        },
+        "light": {
+          "file": "bmax/16/preview-light.png",
+          "bytes": 6224,
+          "sha256": "9f8eb40bb4221dae991a85f8651e26089be6714bcaaa2848b0db8a30a91da543"
+        }
+      },
+      "checkedAt": "2026-09-22T01:00:36.540Z",
+      "previewCheckedAt": "2026-09-22T01:05:19.416Z",
+      "engineVersion": "3.0.3",
+      "voxelCount": 560,
+      "voxelSize": 6.25,
+      "materialLoss": false,
+      "options": {
+        "linearDeflection": 0.3,
+        "angleDegrees": 10,
+        "bmax": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        }
+      }
     }
   ],
   "multiview": []

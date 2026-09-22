@@ -149,4 +149,8 @@ examples/*/dist/*
 examples/*/dist/models/*
 !examples/*/dist/models/*.glb
 !examples/*/dist/models/*.step
+!examples/*/dist/models/*.bmax
+!examples/*/dist/models/bmax/
+!examples/*/dist/models/bmax/*/
+!examples/*/dist/models/bmax/*/*.bmax
 generated/

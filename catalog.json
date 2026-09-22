@@ -21,6 +21,86 @@
         "file": "examples/1-boolean-cutout/dist/models/main.step",
         "bytes": 55774,
         "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+      },
+      {
+        "file": "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax",
+        "bytes": 545506,
+        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
+        "resolution": 64
+      },
+      {
+        "file": "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax",
+        "bytes": 123684,
+        "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
+        "resolution": 32
+      },
+      {
+        "file": "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax",
+        "bytes": 23891,
+        "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax",
+          "bytes": 545506,
+          "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/1-boolean-cutout/bmax/64/preview.png",
+            "bytes": 14460,
+            "sha256": "b6636eea9ffdad063153bbf81818f62d90994b63fb92215e907125b3424e0959"
+          },
+          "light": {
+            "file": "examples/1-boolean-cutout/bmax/64/preview-light.png",
+            "bytes": 14433,
+            "sha256": "81a4c72e8abf2a8e74c56ca0c9ae4eb0082839699502fa76b60de30ea82d9a32"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax",
+          "bytes": 123684,
+          "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/1-boolean-cutout/bmax/32/preview.png",
+            "bytes": 13499,
+            "sha256": "a0c70f79b41d3c5674359ffd9aa875bd8009af8b31c92eb3f0cab69ca3cca6d9"
+          },
+          "light": {
+            "file": "examples/1-boolean-cutout/bmax/32/preview-light.png",
+            "bytes": 13482,
+            "sha256": "ce7303ac06b6618d9ad76faad2e954f27a653da4ed194d274bcc8319c9bad0a7"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax",
+          "bytes": 23891,
+          "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/1-boolean-cutout/bmax/16/preview.png",
+            "bytes": 11799,
+            "sha256": "d8a4767808f53ab8250c62673d73bba33e49f3231ac0e4dbba1c67cd6beb1c14"
+          },
+          "light": {
+            "file": "examples/1-boolean-cutout/bmax/16/preview-light.png",
+            "bytes": 11796,
+            "sha256": "a953d8d99140deb291fda39bf40c56c374643cf0aaf5ae8a2e84e6f118845df9"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -48,6 +128,86 @@
         "file": "examples/2-woven-basket-block3d/dist/models/main.step",
         "bytes": 4145131,
         "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+      },
+      {
+        "file": "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
+        "bytes": 476722,
+        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
+        "resolution": 64
+      },
+      {
+        "file": "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
+        "bytes": 92100,
+        "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
+        "resolution": 32
+      },
+      {
+        "file": "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
+        "bytes": 19891,
+        "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
+          "bytes": 476722,
+          "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/2-woven-basket-block3d/bmax/64/preview.png",
+            "bytes": 12743,
+            "sha256": "8308576800ab4e51689b47739099c77ab8b3038adacf07ae38f8d21e8b4a5a21"
+          },
+          "light": {
+            "file": "examples/2-woven-basket-block3d/bmax/64/preview-light.png",
+            "bytes": 12688,
+            "sha256": "9f7dde0cdca7ea5671a10d1b277aa11a327f27936ded95248d1c0145449a46ca"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
+          "bytes": 92100,
+          "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/2-woven-basket-block3d/bmax/32/preview.png",
+            "bytes": 9591,
+            "sha256": "899a97c424ff2f2d9b2c7ec0de71a5331487927327ff44c41a0672371692d390"
+          },
+          "light": {
+            "file": "examples/2-woven-basket-block3d/bmax/32/preview-light.png",
+            "bytes": 9511,
+            "sha256": "b401a40f14d184ea99e8307acfa887f65b56f9e9f4cad53a67c9829da87836f8"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
+          "bytes": 19891,
+          "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/2-woven-basket-block3d/bmax/16/preview.png",
+            "bytes": 7688,
+            "sha256": "203ee7f615d1c7ca66cf6f503b14fd030c140aadc0aa5b00df7d8c92c35a7138"
+          },
+          "light": {
+            "file": "examples/2-woven-basket-block3d/bmax/16/preview-light.png",
+            "bytes": 7647,
+            "sha256": "46e5186db02521acb2309c50c8c7875bc80d2b2bc341336424d57f7486265dbb"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -75,6 +235,86 @@
         "file": "examples/3-billiards-single-file/dist/models/main.step",
         "bytes": 2539778,
         "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+      },
+      {
+        "file": "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax",
+        "bytes": 173287,
+        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
+        "resolution": 64
+      },
+      {
+        "file": "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax",
+        "bytes": 28644,
+        "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
+        "resolution": 32
+      },
+      {
+        "file": "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax",
+        "bytes": 5589,
+        "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax",
+          "bytes": 173287,
+          "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/3-billiards-single-file/bmax/64/preview.png",
+            "bytes": 11234,
+            "sha256": "320ec3aaaa3718754e786b5da4e39d20842f3a201ca434e6b68d087ea6c83cb1"
+          },
+          "light": {
+            "file": "examples/3-billiards-single-file/bmax/64/preview-light.png",
+            "bytes": 11538,
+            "sha256": "6cc957160cbfd9fdb49f151a91a0cdf3a633d6e43d5fae25c0d04c36444f5a4d"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax",
+          "bytes": 28644,
+          "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/3-billiards-single-file/bmax/32/preview.png",
+            "bytes": 12262,
+            "sha256": "486cf1563537423cd204450890113aad44f52af69a19d02bcc20f073d4dafef3"
+          },
+          "light": {
+            "file": "examples/3-billiards-single-file/bmax/32/preview-light.png",
+            "bytes": 12552,
+            "sha256": "b832680ab06f95bfb03769cdc40b2156386ca219c6f677ca99304400bf9ce34e"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax",
+          "bytes": 5589,
+          "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/3-billiards-single-file/bmax/16/preview.png",
+            "bytes": 9897,
+            "sha256": "b0e7d90c0d167a584f7fcfb47a96250db296c0c0e2bed1ab3ee348daaad107c0"
+          },
+          "light": {
+            "file": "examples/3-billiards-single-file/bmax/16/preview-light.png",
+            "bytes": 10208,
+            "sha256": "9a51ac8fe8dfe049348d5272c6009cadbe93551925e1e315832d4c7c2e3329a1"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -102,6 +342,86 @@
         "file": "examples/4-coffee-cup-block3d/dist/models/main.step",
         "bytes": 162715,
         "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+      },
+      {
+        "file": "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
+        "bytes": 279816,
+        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
+        "resolution": 64
+      },
+      {
+        "file": "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
+        "bytes": 59488,
+        "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
+        "resolution": 32
+      },
+      {
+        "file": "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
+        "bytes": 11717,
+        "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
+          "bytes": 279816,
+          "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/4-coffee-cup-block3d/bmax/64/preview.png",
+            "bytes": 12025,
+            "sha256": "9d126ae35a62a609c23c1b9f5d8378ab656fb967047ab0314d5d10821c25a40e"
+          },
+          "light": {
+            "file": "examples/4-coffee-cup-block3d/bmax/64/preview-light.png",
+            "bytes": 12018,
+            "sha256": "f813e6a2103407a2b83084c7a9c50c531a909dea0ec8379d5fcd42cca8c301ad"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
+          "bytes": 59488,
+          "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/4-coffee-cup-block3d/bmax/32/preview.png",
+            "bytes": 9792,
+            "sha256": "d3435a8a89ca632e9c63d21e0eda928aa2d389d32bcccaeaeb2e7697bc125714"
+          },
+          "light": {
+            "file": "examples/4-coffee-cup-block3d/bmax/32/preview-light.png",
+            "bytes": 9793,
+            "sha256": "9d772cf862e8ed353bd8c9cb972ebcb515db4b1ffac5a42ba970734097e31c68"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
+          "bytes": 11717,
+          "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/4-coffee-cup-block3d/bmax/16/preview.png",
+            "bytes": 8296,
+            "sha256": "f3efa15357dddd9217ef64ffd6f44dd2631471d6bd6892fd271cfa8d8dedf85d"
+          },
+          "light": {
+            "file": "examples/4-coffee-cup-block3d/bmax/16/preview-light.png",
+            "bytes": 8306,
+            "sha256": "8641bbb0994ac001e7d1c0883e8d42762044c6377b9412eb4a2143d35fd185ab"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -129,6 +449,86 @@
         "file": "examples/5-round-bottom-wok/dist/models/main.step",
         "bytes": 486877,
         "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
+      },
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax",
+        "bytes": 57086,
+        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
+        "resolution": 64
+      },
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax",
+        "bytes": 13078,
+        "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
+        "resolution": 32
+      },
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax",
+        "bytes": 3445,
+        "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax",
+          "bytes": 57086,
+          "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/5-round-bottom-wok/bmax/64/preview.png",
+            "bytes": 10153,
+            "sha256": "c20df8dc67912c5525b1791f4fc8ed80be477506038b6134c7a309c02c2dacae"
+          },
+          "light": {
+            "file": "examples/5-round-bottom-wok/bmax/64/preview-light.png",
+            "bytes": 10408,
+            "sha256": "d2f53faea73e00e4de2af503248202eb704b652a33acfee5a5efccb58f2a6278"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax",
+          "bytes": 13078,
+          "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/5-round-bottom-wok/bmax/32/preview.png",
+            "bytes": 8829,
+            "sha256": "a0213b5e90a655829f2fdc839ce24155c170062a310574f24e854a9ce0b4bc63"
+          },
+          "light": {
+            "file": "examples/5-round-bottom-wok/bmax/32/preview-light.png",
+            "bytes": 8967,
+            "sha256": "fc0bb92c66a50046b6b64f135ae0dec4d5ca3eed9e59d6914723e5adf1c6b5da"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax",
+          "bytes": 3445,
+          "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/5-round-bottom-wok/bmax/16/preview.png",
+            "bytes": 8024,
+            "sha256": "5d0c0e0397eee2cc07f3ad24a48b2dbb8221175e7b9979c42a137cc85c353db7"
+          },
+          "light": {
+            "file": "examples/5-round-bottom-wok/bmax/16/preview-light.png",
+            "bytes": 8209,
+            "sha256": "97ee139cd192ff5024837927fa1b5ab5547a3e30e3f712b1d002ec48f04d08ca"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -156,6 +556,86 @@
         "file": "examples/6-cast-iron-skillet/dist/models/main.step",
         "bytes": 99667,
         "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+      },
+      {
+        "file": "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
+        "bytes": 66045,
+        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
+        "resolution": 64
+      },
+      {
+        "file": "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
+        "bytes": 13997,
+        "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
+        "resolution": 32
+      },
+      {
+        "file": "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
+        "bytes": 3283,
+        "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
+          "bytes": 66045,
+          "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/6-cast-iron-skillet/bmax/64/preview.png",
+            "bytes": 8885,
+            "sha256": "311a8400d5153cffc344a5218cbbf3a777e7607274c0c07e3dc7121eb5a8ddb2"
+          },
+          "light": {
+            "file": "examples/6-cast-iron-skillet/bmax/64/preview-light.png",
+            "bytes": 9410,
+            "sha256": "3bed319119d969f1f014f2582630237855426c657543b9ab5e1c835bd82c37b0"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
+          "bytes": 13997,
+          "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/6-cast-iron-skillet/bmax/32/preview.png",
+            "bytes": 7875,
+            "sha256": "408aab5279d5c35f849a7a4b53cdb58691d85c8d53b59f98bc104492de98bcfb"
+          },
+          "light": {
+            "file": "examples/6-cast-iron-skillet/bmax/32/preview-light.png",
+            "bytes": 8292,
+            "sha256": "8b0f6d961c32c2cc57d31af680d39e722d337dc827ed865c222bc1050dccf00a"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
+          "bytes": 3283,
+          "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/6-cast-iron-skillet/bmax/16/preview.png",
+            "bytes": 6906,
+            "sha256": "bb62fb135e62f75292f49fee7020850860da69f118baa43349532325b4c3f3e6"
+          },
+          "light": {
+            "file": "examples/6-cast-iron-skillet/bmax/16/preview-light.png",
+            "bytes": 7271,
+            "sha256": "644303d0d4f9316378d38c815591e32bef5eeea76223a36e627f098b7472486b"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -183,6 +663,86 @@
         "file": "examples/7-lunar-rover-block3d/dist/models/main.step",
         "bytes": 975289,
         "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+      },
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
+        "bytes": 172938,
+        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
+        "resolution": 64
+      },
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
+        "bytes": 36628,
+        "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
+        "resolution": 32
+      },
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
+        "bytes": 7355,
+        "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
+          "bytes": 172938,
+          "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/7-lunar-rover-block3d/bmax/64/preview.png",
+            "bytes": 11727,
+            "sha256": "5acde812c3851004dc3b926de221cda38c6e43de573e7bb6285d7979de2ccecb"
+          },
+          "light": {
+            "file": "examples/7-lunar-rover-block3d/bmax/64/preview-light.png",
+            "bytes": 12173,
+            "sha256": "f8c32bb7ca97458bedc2c55a1e654cd1a0ef29944b1f8c7132b7c3b5a5e1e929"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
+          "bytes": 36628,
+          "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/7-lunar-rover-block3d/bmax/32/preview.png",
+            "bytes": 10450,
+            "sha256": "9b7de876feb12351742a94aef516f89f7c42bef2e747f603d5b6f286ae972755"
+          },
+          "light": {
+            "file": "examples/7-lunar-rover-block3d/bmax/32/preview-light.png",
+            "bytes": 10831,
+            "sha256": "f9fb72863f741dc9807413f51ddeb1d6d2e531fde58cc879305fd8732fb5b26d"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
+          "bytes": 7355,
+          "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/7-lunar-rover-block3d/bmax/16/preview.png",
+            "bytes": 9281,
+            "sha256": "91f0a1773767acab15726f33683c1a3bd0cb5e85c8d566597d76d5b2cef8231d"
+          },
+          "light": {
+            "file": "examples/7-lunar-rover-block3d/bmax/16/preview-light.png",
+            "bytes": 9538,
+            "sha256": "84095c4fa20765c51c01b07f7fff9630673235d10711ac7620f5fb0cdfbb919a"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -210,6 +770,86 @@
         "file": "examples/8-microscope-block3d/dist/models/main.step",
         "bytes": 1031969,
         "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+      },
+      {
+        "file": "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax",
+        "bytes": 128008,
+        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
+        "resolution": 64
+      },
+      {
+        "file": "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax",
+        "bytes": 26697,
+        "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
+        "resolution": 32
+      },
+      {
+        "file": "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax",
+        "bytes": 5413,
+        "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax",
+          "bytes": 128008,
+          "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/8-microscope-block3d/bmax/64/preview.png",
+            "bytes": 10719,
+            "sha256": "45b11354f2f78021c7e844c37c97e4a848ecd8762eb9583000e05546df3525fb"
+          },
+          "light": {
+            "file": "examples/8-microscope-block3d/bmax/64/preview-light.png",
+            "bytes": 10993,
+            "sha256": "6e268da7f0b2ea3aa06f0ffec882daad91a71191495d8e06ee832e803149f378"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax",
+          "bytes": 26697,
+          "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/8-microscope-block3d/bmax/32/preview.png",
+            "bytes": 9723,
+            "sha256": "7e5003b3a457015cef9c07779ca927f38a7eb232be29db9336b94211ca712a7c"
+          },
+          "light": {
+            "file": "examples/8-microscope-block3d/bmax/32/preview-light.png",
+            "bytes": 9877,
+            "sha256": "194e8f062e73c8c602d67408a84b87196b6d55b82e0b1fe55bb7eb649b99f020"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax",
+          "bytes": 5413,
+          "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/8-microscope-block3d/bmax/16/preview.png",
+            "bytes": 8854,
+            "sha256": "ab771203b649dd5bed0e02933e1effa81b52a3bc0082bc15afc372d965447406"
+          },
+          "light": {
+            "file": "examples/8-microscope-block3d/bmax/16/preview-light.png",
+            "bytes": 8997,
+            "sha256": "35e4d9a2e630fb6b90e319892d1c4048f6756383f876dfe7a3afb452804de8e2"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -237,6 +877,86 @@
         "file": "examples/9-mario-kart-single-file/dist/models/main.step",
         "bytes": 12667800,
         "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+      },
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
+        "bytes": 286777,
+        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
+        "resolution": 64
+      },
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
+        "bytes": 56310,
+        "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
+        "resolution": 32
+      },
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
+        "bytes": 10332,
+        "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
+          "bytes": 286777,
+          "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/9-mario-kart-single-file/bmax/64/preview.png",
+            "bytes": 15989,
+            "sha256": "afb8f1e061ae221b830a1b1ba3ccd5b57c3f8757d981f5704d139137ac177818"
+          },
+          "light": {
+            "file": "examples/9-mario-kart-single-file/bmax/64/preview-light.png",
+            "bytes": 16228,
+            "sha256": "059ab2154b82874c5dfea0701cb21d549744997533cf65d61b3a104d5e8a03a4"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
+          "bytes": 56310,
+          "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/9-mario-kart-single-file/bmax/32/preview.png",
+            "bytes": 13039,
+            "sha256": "ecc0794284f59bf7ac8354af6333349dcc2488d10f0c56805cace1db6aa238f3"
+          },
+          "light": {
+            "file": "examples/9-mario-kart-single-file/bmax/32/preview-light.png",
+            "bytes": 13232,
+            "sha256": "2789a028428c471789ed10c4137e76dc4d3f977015b404060b7e1a6a5cc15204"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
+          "bytes": 10332,
+          "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/9-mario-kart-single-file/bmax/16/preview.png",
+            "bytes": 10021,
+            "sha256": "bda479723e87946b99287d6e6e29cf1c91ecd4a6a1371f5f2cac74f3f3754f3d"
+          },
+          "light": {
+            "file": "examples/9-mario-kart-single-file/bmax/16/preview-light.png",
+            "bytes": 10269,
+            "sha256": "f18089097b08b66e3cd505b8c811e42c2c6e2bb7980f4cbd6a2c35721a04aafb"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -264,6 +984,86 @@
         "file": "examples/10-woven-bamboo-chair/dist/models/main.step",
         "bytes": 136674854,
         "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
+      },
+      {
+        "file": "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
+        "bytes": 110144,
+        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
+        "resolution": 64
+      },
+      {
+        "file": "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
+        "bytes": 24444,
+        "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
+        "resolution": 32
+      },
+      {
+        "file": "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
+        "bytes": 5492,
+        "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
+          "bytes": 110144,
+          "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/10-woven-bamboo-chair/bmax/64/preview.png",
+            "bytes": 14588,
+            "sha256": "9fb3c87019c4fc8cde655da8793bafdbf219bdab5fb9c77d88e19914a0189710"
+          },
+          "light": {
+            "file": "examples/10-woven-bamboo-chair/bmax/64/preview-light.png",
+            "bytes": 14549,
+            "sha256": "d715656837d47150e225ff0aef30f84b8faeaef999a9e99b5b47b19a24dfd27d"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
+          "bytes": 24444,
+          "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/10-woven-bamboo-chair/bmax/32/preview.png",
+            "bytes": 12621,
+            "sha256": "4be17360c6e2877eb0bb8625e9d606b936ace447ecabd64eced6af3f692da305"
+          },
+          "light": {
+            "file": "examples/10-woven-bamboo-chair/bmax/32/preview-light.png",
+            "bytes": 12568,
+            "sha256": "c59247cb3c3393320940b07cf9dca20fd33fc6579850371c5d4fbf1dd67c60e9"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
+          "bytes": 5492,
+          "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/10-woven-bamboo-chair/bmax/16/preview.png",
+            "bytes": 10012,
+            "sha256": "7a5b2dcdab0dbde798faa5aff1007bb43a89f1fbf375b340d79b52e79b0e8bbc"
+          },
+          "light": {
+            "file": "examples/10-woven-bamboo-chair/bmax/16/preview-light.png",
+            "bytes": 9947,
+            "sha256": "e8a85c85b83ac3b2e1e6d323a91bb43b9b46c70fc40400bafe6cfc4424c83403"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -291,6 +1091,86 @@
         "file": "examples/11-spindle-back-chair/dist/models/main.step",
         "bytes": 1114851,
         "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+      },
+      {
+        "file": "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax",
+        "bytes": 89367,
+        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
+        "resolution": 64
+      },
+      {
+        "file": "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax",
+        "bytes": 20851,
+        "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
+        "resolution": 32
+      },
+      {
+        "file": "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax",
+        "bytes": 6116,
+        "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax",
+          "bytes": 89367,
+          "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/11-spindle-back-chair/bmax/64/preview.png",
+            "bytes": 11701,
+            "sha256": "a4d7a3dff5fcc11e3d8044d2ae32d80b2c3f54d79cfe5ef7671d4018aec23068"
+          },
+          "light": {
+            "file": "examples/11-spindle-back-chair/bmax/64/preview-light.png",
+            "bytes": 11552,
+            "sha256": "37ea8deec9faf7abab354f32d22d1d0955931d1ccab7080f403b791e9822ba4f"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax",
+          "bytes": 20851,
+          "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/11-spindle-back-chair/bmax/32/preview.png",
+            "bytes": 9873,
+            "sha256": "d8fce2d68066520df8da6154171586e4f63c623e25e521a632b25c8da5f9ff56"
+          },
+          "light": {
+            "file": "examples/11-spindle-back-chair/bmax/32/preview-light.png",
+            "bytes": 9690,
+            "sha256": "bd04fea438426987b471cff076b43e821525f8e898b69e13ec53b90128056243"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax",
+          "bytes": 6116,
+          "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/11-spindle-back-chair/bmax/16/preview.png",
+            "bytes": 8058,
+            "sha256": "7b333773cfbc28c3105d17653c8e15de5c05b1fdfa9be4791e02b925be5dfaa9"
+          },
+          "light": {
+            "file": "examples/11-spindle-back-chair/bmax/16/preview-light.png",
+            "bytes": 7957,
+            "sha256": "ffb96c24adc6b85d85b3a0862fb6995c70ec879444dc6ca9f7ae9a2c5a059a15"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -318,6 +1198,86 @@
         "file": "examples/12-part3d-roundtrip/dist/models/main.step",
         "bytes": 53234,
         "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+      },
+      {
+        "file": "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
+        "bytes": 48025,
+        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
+        "resolution": 64
+      },
+      {
+        "file": "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
+        "bytes": 11126,
+        "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
+        "resolution": 32
+      },
+      {
+        "file": "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
+        "bytes": 2764,
+        "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
+          "bytes": 48025,
+          "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/12-part3d-roundtrip/bmax/64/preview.png",
+            "bytes": 6661,
+            "sha256": "c73394c990844ae19f8a3286f22e329fea23f21244116d5cea4be0ce764b40c5"
+          },
+          "light": {
+            "file": "examples/12-part3d-roundtrip/bmax/64/preview-light.png",
+            "bytes": 6708,
+            "sha256": "f72770fc98ab435267393a5a601144dd1096db469b4459c46d0951e0080c9329"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
+          "bytes": 11126,
+          "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/12-part3d-roundtrip/bmax/32/preview.png",
+            "bytes": 5814,
+            "sha256": "e82885399f09c4a7a362f3e0df684ab155ffbca72fabe2d9e008c0f7af76c96d"
+          },
+          "light": {
+            "file": "examples/12-part3d-roundtrip/bmax/32/preview-light.png",
+            "bytes": 5815,
+            "sha256": "189fcaa03358f4b47f583dee2ad2a0f809724462fd9ec5a09d3c5b01a363e871"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
+          "bytes": 2764,
+          "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/12-part3d-roundtrip/bmax/16/preview.png",
+            "bytes": 5428,
+            "sha256": "dba3b359f649f5753d8fb4a6be2267629d6edbb86984d271589fb87a72b251f2"
+          },
+          "light": {
+            "file": "examples/12-part3d-roundtrip/bmax/16/preview-light.png",
+            "bytes": 5452,
+            "sha256": "16427c0c2f4e1b1aef3309090a7173a5748706684b12d9ac3d173a9745274535"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -345,6 +1305,86 @@
         "file": "examples/13-stepped-flange/dist/models/main.step",
         "bytes": 81752,
         "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+      },
+      {
+        "file": "examples/13-stepped-flange/dist/models/bmax/64/main.bmax",
+        "bytes": 198475,
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+        "resolution": 64
+      },
+      {
+        "file": "examples/13-stepped-flange/dist/models/bmax/32/main.bmax",
+        "bytes": 47433,
+        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
+        "resolution": 32
+      },
+      {
+        "file": "examples/13-stepped-flange/dist/models/bmax/16/main.bmax",
+        "bytes": 10111,
+        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/13-stepped-flange/dist/models/bmax/64/main.bmax",
+          "bytes": 198475,
+          "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/13-stepped-flange/bmax/64/preview.png",
+            "bytes": 6630,
+            "sha256": "d0ea977f3f2f19f98950282605e80c3ba2dcd91fca2208dd499ff889a20d29c6"
+          },
+          "light": {
+            "file": "examples/13-stepped-flange/bmax/64/preview-light.png",
+            "bytes": 6732,
+            "sha256": "c7fb5df10de1b14dc0851eea4f4890eeb5a75e98e1b2f2f64d462d180eac436d"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/13-stepped-flange/dist/models/bmax/32/main.bmax",
+          "bytes": 47433,
+          "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/13-stepped-flange/bmax/32/preview.png",
+            "bytes": 6435,
+            "sha256": "a95e5f7cc0d878e0588cac3c5661991a4e73f7babf16bc6f64841bafe1535b8b"
+          },
+          "light": {
+            "file": "examples/13-stepped-flange/bmax/32/preview-light.png",
+            "bytes": 6489,
+            "sha256": "2483a2a01c31bbedaee5b0eaa7fb941e4f4e8c4cdcb4306b9151fee4416f9a91"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/13-stepped-flange/dist/models/bmax/16/main.bmax",
+          "bytes": 10111,
+          "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/13-stepped-flange/bmax/16/preview.png",
+            "bytes": 6142,
+            "sha256": "78bcf73fc6e283b38703da5ce647cbe6a8616ba61f41fec4e21ebef33c545142"
+          },
+          "light": {
+            "file": "examples/13-stepped-flange/bmax/16/preview-light.png",
+            "bytes": 6224,
+            "sha256": "9f8eb40bb4221dae991a85f8651e26089be6714bcaaa2848b0db8a30a91da543"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -372,6 +1412,86 @@
         "file": "examples/14-bearing-housing-part3d/dist/models/main.step",
         "bytes": 208780,
         "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+      },
+      {
+        "file": "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
+        "bytes": 183943,
+        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
+        "resolution": 64
+      },
+      {
+        "file": "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
+        "bytes": 41858,
+        "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
+        "resolution": 32
+      },
+      {
+        "file": "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
+        "bytes": 8801,
+        "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
+          "bytes": 183943,
+          "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/14-bearing-housing-part3d/bmax/64/preview.png",
+            "bytes": 9922,
+            "sha256": "d6898302acc4f623f444e85fe5f9556c0b1646a4d05e641cbae87cd47a2dda45"
+          },
+          "light": {
+            "file": "examples/14-bearing-housing-part3d/bmax/64/preview-light.png",
+            "bytes": 10043,
+            "sha256": "d87d27b2b2e02c4988ad3e94f2240151fc58884aa0dba6446dab9ed0d2b97c19"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
+          "bytes": 41858,
+          "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/14-bearing-housing-part3d/bmax/32/preview.png",
+            "bytes": 8707,
+            "sha256": "6894bb0f0594b50390e70b4ce5f4e37d607a0b7ef26d0b8b12cf39fa38b78c83"
+          },
+          "light": {
+            "file": "examples/14-bearing-housing-part3d/bmax/32/preview-light.png",
+            "bytes": 8778,
+            "sha256": "165b17fd8a6a7b480d1bd9e0902338001c4914d17f391d3665dacf8a6f47f21d"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
+          "bytes": 8801,
+          "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/14-bearing-housing-part3d/bmax/16/preview.png",
+            "bytes": 7506,
+            "sha256": "4e0b2681d002dd3c32d4cff13e4a5b1f5ee3aed33d1f681a8300718f94b1dbb1"
+          },
+          "light": {
+            "file": "examples/14-bearing-housing-part3d/bmax/16/preview-light.png",
+            "bytes": 7558,
+            "sha256": "ccdf02ac0a884770852e18fa55dfc49baec50d067ff82755c079c99a2d28c2e2"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -399,6 +1519,86 @@
         "file": "examples/15-high-speed-shaft-part3d/dist/models/main.step",
         "bytes": 143142,
         "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+      },
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
+        "bytes": 55370,
+        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
+        "resolution": 64
+      },
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
+        "bytes": 13805,
+        "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
+        "resolution": 32
+      },
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
+        "bytes": 3313,
+        "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
+          "bytes": 55370,
+          "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/64/preview.png",
+            "bytes": 6222,
+            "sha256": "cafe03ae283a9c4d84390d5b9b8514384a759c30d37f489e74553364c349dc2b"
+          },
+          "light": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/64/preview-light.png",
+            "bytes": 6280,
+            "sha256": "4409a80375073a2f75af16455728542653c14b72817e87394e65a15afc1f9c9b"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
+          "bytes": 13805,
+          "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/32/preview.png",
+            "bytes": 6044,
+            "sha256": "5c1ed21cad84d2e1bc40689eca7ebed27e27dc0b48a97237518c240b8e0064b9"
+          },
+          "light": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/32/preview-light.png",
+            "bytes": 6095,
+            "sha256": "3b194faf3edad90a459190d86e0b25bf6a4a1c9f15a7ff5b54ec038699d6cecd"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
+          "bytes": 3313,
+          "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/16/preview.png",
+            "bytes": 5246,
+            "sha256": "73518c0fb856d25122f343ae7228a85b46bf4f374b94d983cd9ba6e063365d96"
+          },
+          "light": {
+            "file": "examples/15-high-speed-shaft-part3d/bmax/16/preview-light.png",
+            "bytes": 5309,
+            "sha256": "3fb4952044beaf81746686fc4b4ee331da09fb248da011c1e21f0a31fea9a0f2"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -426,6 +1626,86 @@
         "file": "examples/16-housing-part3d/dist/models/main.step",
         "bytes": 91099,
         "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+      },
+      {
+        "file": "examples/16-housing-part3d/dist/models/bmax/64/main.bmax",
+        "bytes": 440055,
+        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
+        "resolution": 64
+      },
+      {
+        "file": "examples/16-housing-part3d/dist/models/bmax/32/main.bmax",
+        "bytes": 96078,
+        "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
+        "resolution": 32
+      },
+      {
+        "file": "examples/16-housing-part3d/dist/models/bmax/16/main.bmax",
+        "bytes": 20747,
+        "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/16-housing-part3d/dist/models/bmax/64/main.bmax",
+          "bytes": 440055,
+          "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/16-housing-part3d/bmax/64/preview.png",
+            "bytes": 7191,
+            "sha256": "375cfd21bfbeff6c4f4e48b26072947ca0b919672d6e7927027f2748b51c9e60"
+          },
+          "light": {
+            "file": "examples/16-housing-part3d/bmax/64/preview-light.png",
+            "bytes": 7304,
+            "sha256": "f71119d9612cfee1c897ea809e93779266e5b0e047ea28c37d3e25b6fc3acc69"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/16-housing-part3d/dist/models/bmax/32/main.bmax",
+          "bytes": 96078,
+          "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/16-housing-part3d/bmax/32/preview.png",
+            "bytes": 6594,
+            "sha256": "4a28ccb33ee31534bcb1a014a063a84166fea4dcee4d6d8e47fe632533272ba5"
+          },
+          "light": {
+            "file": "examples/16-housing-part3d/bmax/32/preview-light.png",
+            "bytes": 6694,
+            "sha256": "f65a0f745ef80f3b29cdc45f18a8b9300d1564f51d243d4c5e9351cac0f098f1"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/16-housing-part3d/dist/models/bmax/16/main.bmax",
+          "bytes": 20747,
+          "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/16-housing-part3d/bmax/16/preview.png",
+            "bytes": 6213,
+            "sha256": "d9ad82e1dc2d38bd98eb33e6b06594eac922dbe6ffebd883db4c507f68da5559"
+          },
+          "light": {
+            "file": "examples/16-housing-part3d/bmax/16/preview-light.png",
+            "bytes": 6343,
+            "sha256": "6bd39ba70ead98cb0a1a20ed1cbfca98b9f054a801f8d970b2e1d28117260619"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -453,6 +1733,86 @@
         "file": "examples/17-stirling-d16-c/dist/models/main.step",
         "bytes": 11652444,
         "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+      },
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax",
+        "bytes": 440173,
+        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
+        "resolution": 64
+      },
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax",
+        "bytes": 94312,
+        "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
+        "resolution": 32
+      },
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax",
+        "bytes": 16371,
+        "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax",
+          "bytes": 440173,
+          "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/17-stirling-d16-c/bmax/64/preview.png",
+            "bytes": 13973,
+            "sha256": "3a1c5b5ef0916eb461cf9b8fa41ec055551b51ab11d481d929e95d53a4c9b77c"
+          },
+          "light": {
+            "file": "examples/17-stirling-d16-c/bmax/64/preview-light.png",
+            "bytes": 13959,
+            "sha256": "c4936840de3eda4b7f43233088ab11bdd55e388ee40dad17dbfaa5a8f957175f"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax",
+          "bytes": 94312,
+          "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/17-stirling-d16-c/bmax/32/preview.png",
+            "bytes": 12737,
+            "sha256": "1bcb664def74dc51d8ea7f887c6b27d625ee3dc28be2fd20455ffc9bd772c926"
+          },
+          "light": {
+            "file": "examples/17-stirling-d16-c/bmax/32/preview-light.png",
+            "bytes": 12727,
+            "sha256": "1f0b0ad6ad1a927632aacb92522930c6baad2db0c758de56af77b2ae4ad229bf"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax",
+          "bytes": 16371,
+          "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/17-stirling-d16-c/bmax/16/preview.png",
+            "bytes": 8816,
+            "sha256": "7cd50df343e237c363decb57bd92dbcdbf6c062324dd251a7022f936fc38adfd"
+          },
+          "light": {
+            "file": "examples/17-stirling-d16-c/bmax/16/preview-light.png",
+            "bytes": 8811,
+            "sha256": "ebba2930f2dfce3dff3a81e0c1fbff5a1c224f59f0535c9612559e92b60cba28"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -480,6 +1840,86 @@
         "file": "examples/18-stirling-horizontal-quartz/dist/models/main.step",
         "bytes": 11427021,
         "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+      },
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
+        "bytes": 226521,
+        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
+        "resolution": 64
+      },
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
+        "bytes": 40517,
+        "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
+        "resolution": 32
+      },
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
+        "bytes": 9159,
+        "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
+          "bytes": 226521,
+          "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/64/preview.png",
+            "bytes": 13053,
+            "sha256": "a3000d79ffd783002dda551849229d4ee9b414fa7a6bedb798296bb5eac0a5a9"
+          },
+          "light": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/64/preview-light.png",
+            "bytes": 12973,
+            "sha256": "cc144b290da7b624869ffae856045e0167e874d5fd5f5e991a7e245d25e156bb"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
+          "bytes": 40517,
+          "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/32/preview.png",
+            "bytes": 12250,
+            "sha256": "3284c4be30285605e55c9d03319d38f6ce4841453ee219be07cb48e14b69dc78"
+          },
+          "light": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/32/preview-light.png",
+            "bytes": 12155,
+            "sha256": "5c4472106b565bd51f96d7b6f5d5c4392b2c7c14b0dfed06aceab1a0ebe7bc08"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
+          "bytes": 9159,
+          "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/16/preview.png",
+            "bytes": 9191,
+            "sha256": "c781cb3735884c336f297c8079ce4dd8a0271c220d6238c7f08c12088fa0ef44"
+          },
+          "light": {
+            "file": "examples/18-stirling-horizontal-quartz/bmax/16/preview-light.png",
+            "bytes": 9159,
+            "sha256": "0f3f5b0dc80380ae7a003f687b2869ab1084ce56932f46b250459de43421201a"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -507,6 +1947,86 @@
         "file": "examples/19-ge-e3-fan-module/dist/models/main.step",
         "bytes": 75798858,
         "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+      },
+      {
+        "file": "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
+        "bytes": 291830,
+        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
+        "resolution": 64
+      },
+      {
+        "file": "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
+        "bytes": 61320,
+        "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
+        "resolution": 32
+      },
+      {
+        "file": "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
+        "bytes": 11982,
+        "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
+          "bytes": 291830,
+          "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/19-ge-e3-fan-module/bmax/64/preview.png",
+            "bytes": 18413,
+            "sha256": "f0b9863306753eac0f5dc31e11abe47fdd5e80a0f9768219b9e35135c4ef06d4"
+          },
+          "light": {
+            "file": "examples/19-ge-e3-fan-module/bmax/64/preview-light.png",
+            "bytes": 18239,
+            "sha256": "4fc11a5f3f82f7da4bee356b6531e014f14d62cea316dd49aaff28e3b2f21750"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
+          "bytes": 61320,
+          "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/19-ge-e3-fan-module/bmax/32/preview.png",
+            "bytes": 12701,
+            "sha256": "813f188162d3bf8ccf4b40128129e0e70f0b52455e6303d6da1a0f865b51ab43"
+          },
+          "light": {
+            "file": "examples/19-ge-e3-fan-module/bmax/32/preview-light.png",
+            "bytes": 12663,
+            "sha256": "c2f802d7a612a2f3b1567348415694fae8f9557e5a22aec9818208f3c6345398"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
+          "bytes": 11982,
+          "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/19-ge-e3-fan-module/bmax/16/preview.png",
+            "bytes": 8040,
+            "sha256": "da72e00f8ed840163cc24e74bb27ab573087d57ed5de3f32c4a1e59657473b54"
+          },
+          "light": {
+            "file": "examples/19-ge-e3-fan-module/bmax/16/preview-light.png",
+            "bytes": 8024,
+            "sha256": "6af851c5a4a73206de2710be119ab27856abe0170ff55dd8677cddc39c65a90c"
+          }
+        }
       }
     ],
     "multiview": null,
@@ -534,6 +2054,86 @@
         "file": "examples/20-cargo-atv/dist/models/main.step",
         "bytes": 19200086,
         "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+      },
+      {
+        "file": "examples/20-cargo-atv/dist/models/bmax/64/main.bmax",
+        "bytes": 450562,
+        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
+        "resolution": 64
+      },
+      {
+        "file": "examples/20-cargo-atv/dist/models/bmax/32/main.bmax",
+        "bytes": 88160,
+        "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
+        "resolution": 32
+      },
+      {
+        "file": "examples/20-cargo-atv/dist/models/bmax/16/main.bmax",
+        "bytes": 16947,
+        "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/20-cargo-atv/dist/models/bmax/64/main.bmax",
+          "bytes": 450562,
+          "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/20-cargo-atv/bmax/64/preview.png",
+            "bytes": 20403,
+            "sha256": "483a31ad8294c701425b21260ab720fa1d6c9bdef717b78e9b0d0a30e4820596"
+          },
+          "light": {
+            "file": "examples/20-cargo-atv/bmax/64/preview-light.png",
+            "bytes": 20839,
+            "sha256": "fbbad00f8a0e4c7494f634009fab400fe1e2b55fa7d4917877409065f1c32ad7"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/20-cargo-atv/dist/models/bmax/32/main.bmax",
+          "bytes": 88160,
+          "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/20-cargo-atv/bmax/32/preview.png",
+            "bytes": 15774,
+            "sha256": "e29a8e7bdbe57a60fe9c074c6b3a591b7c00af24185f38367228e6ea44dc92a5"
+          },
+          "light": {
+            "file": "examples/20-cargo-atv/bmax/32/preview-light.png",
+            "bytes": 16116,
+            "sha256": "fae6d1ba470ecaa55bf200eb2724513c474a87465aad00ffd6017d47b296507c"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/20-cargo-atv/dist/models/bmax/16/main.bmax",
+          "bytes": 16947,
+          "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/20-cargo-atv/bmax/16/preview.png",
+            "bytes": 11559,
+            "sha256": "3b7b3f0236ff90434eca7184c1ffa0defc6b71a9c6b521789591c266156e02ca"
+          },
+          "light": {
+            "file": "examples/20-cargo-atv/bmax/16/preview-light.png",
+            "bytes": 11814,
+            "sha256": "75dd23087ec53e1045626e49afdfe7eeb4905d9b7cf718948686978946830bc0"
+          }
+        }
       }
     ],
     "multiview": "examples/20-cargo-atv/multiview/README.md",
@@ -561,6 +2161,86 @@
         "file": "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step",
         "bytes": 1277682,
         "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+      },
+      {
+        "file": "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax",
+        "bytes": 199687,
+        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
+        "resolution": 64
+      },
+      {
+        "file": "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax",
+        "bytes": 35362,
+        "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
+        "resolution": 32
+      },
+      {
+        "file": "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax",
+        "bytes": 7381,
+        "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax",
+          "bytes": 199687,
+          "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/21-baltsar-chair/bmax/64/preview.png",
+            "bytes": 12982,
+            "sha256": "7909528533c0bf9c962a1c1f88c1dd30712ed1d0b24c14d01dc33d7cc05ab0be"
+          },
+          "light": {
+            "file": "examples/21-baltsar-chair/bmax/64/preview-light.png",
+            "bytes": 13309,
+            "sha256": "7e75ab785c1ae1ad7ec020a46cb87672c4c08827ef4c72cf3ee7e11588a20057"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax",
+          "bytes": 35362,
+          "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/21-baltsar-chair/bmax/32/preview.png",
+            "bytes": 11956,
+            "sha256": "b5bf56b26b29e6d56c0dc22dcbf8909ab243a7233af1d79fcd2de30e54b69043"
+          },
+          "light": {
+            "file": "examples/21-baltsar-chair/bmax/32/preview-light.png",
+            "bytes": 12178,
+            "sha256": "35df38e0124b1d7d1c7615c486cc0b226cb3e9b2da6d584f2f8f71a0485d6735"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax",
+          "bytes": 7381,
+          "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/21-baltsar-chair/bmax/16/preview.png",
+            "bytes": 10047,
+            "sha256": "93c13e1d012074b1a9ff4a2b02d792c4da5b4c6e3fedb3ab1a88697f9a773ae5"
+          },
+          "light": {
+            "file": "examples/21-baltsar-chair/bmax/16/preview-light.png",
+            "bytes": 10223,
+            "sha256": "cf3f63a13db5017e2b019309d04b50d1ebce370a1e8e230c5fd923980a264f98"
+          }
+        }
       }
     ],
     "multiview": "examples/21-baltsar-chair/multiview/README.md",
