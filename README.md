@@ -8,7 +8,7 @@ Describe an idea, let your AI coding assistant build it with Code3D, then edit t
 
 ## Explore the models
 
-21 examples. Each row compares one model in four columns: CAD, BMAX 64, BMAX 32 and BMAX 16. All previews support light/dark themes. BMAX resolution is the longest edge in voxels; voxel size uses the model's source units. Click a thumbnail for downloads, source code and design notes. Multi-view images and reusable design skills are included where available.
+22 examples. Each row compares one model in four columns: CAD, BMAX 64, BMAX 32 and BMAX 16. All previews support light/dark themes. BMAX resolution is the longest edge in voxels; voxel size uses the model's source units. Click a thumbnail for downloads, source code and design notes. Multi-view images and reusable design skills are included where available.
 
 <table>
   <tr>
@@ -137,6 +137,12 @@ Describe an idea, let your AI coding assistant build it with Code3D, then edit t
     <td width="25%" valign="top" align="center"><a href="examples/21-baltsar-chair/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/21-baltsar-chair/bmax/32/preview.png"><img src="examples/21-baltsar-chair/bmax/32/preview-light.png" alt="BALTSAR chair BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 26.5638<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax">Download BMAX 32</a></td>
     <td width="25%" valign="top" align="center"><a href="examples/21-baltsar-chair/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/21-baltsar-chair/bmax/16/preview.png"><img src="examples/21-baltsar-chair/bmax/16/preview-light.png" alt="BALTSAR chair BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 53.1277<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax">Download BMAX 16</a></td>
   </tr>
+  <tr>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/preview.png"><img src="examples/22-walking-drive-assembly/preview-light.png" alt="Walking drive assembly CAD" width="220" height="124"></picture><br><strong>22. Walking drive assembly</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="examples/22-walking-drive-assembly/main.code3d.js">Code</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/64/preview.png"><img src="examples/22-walking-drive-assembly/bmax/64/preview-light.png" alt="Walking drive assembly BMAX 64" width="220" height="124"></picture></a><br><strong>BMAX 64</strong><br>Longest edge 64 voxels<br>Voxel size ≈ 2.39063<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax">Download BMAX 64</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/32/preview.png"><img src="examples/22-walking-drive-assembly/bmax/32/preview-light.png" alt="Walking drive assembly BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 4.78125<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax">Download BMAX 32</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/16/preview.png"><img src="examples/22-walking-drive-assembly/bmax/16/preview-light.png" alt="Walking drive assembly BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 9.5625<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax">Download BMAX 16</a></td>
+  </tr>
 </table>
 
 ## Start designing with AI
@@ -155,16 +161,18 @@ You can also ask your assistant to modify an example: change its dimensions, sha
 
 ## Use an example
 
-Download **GLB** to view the colored 3D model, **STEP** to open the solid geometry in compatible CAD software, or **BMAX** for a static colored voxel model in Paracraft. BMAX represents the model as blocks and does not retain exact CAD surfaces or transparency. You do not need to install the engine to use these prepared files. Use the versioned Release download links above; the download sizes are listed on each example page.
+Download **GLB** to view the colored 3D model, **STEP** to open the solid geometry in compatible CAD software, or **BMAX** for a static colored voxel model in Paracraft. BMAX represents the model as blocks and does not retain exact CAD surfaces or transparency. You do not need to install the engine to use these prepared files. On GitHub, open the model file and use **Download raw file**; the download sizes are listed on each example page.
 
-Clone the source and previews; download models separately from the versioned Release links above:
+To get the whole collection, install [Git LFS](https://git-lfs.com/) and clone:
 
 ```sh
+git lfs install
 git clone https://github.com/parapoly-engine/parapoly-engine-showcase.git
 cd parapoly-engine-showcase
+git lfs pull
 ```
 
-Model downloads are Release assets and are not included in the current checkout. Historical tags may still use Git LFS.
+Models are stored using Git LFS. If a downloaded file contains a short text pointer instead of model data, use Git LFS or download that file from its GitHub page. The woven bamboo chair is particularly detailed: its GLB is about 381 MiB and STEP about 130 MiB.
 
 To edit and export a small example from the repository root:
 

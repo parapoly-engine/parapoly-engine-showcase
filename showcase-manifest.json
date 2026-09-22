@@ -1,6 +1,1856 @@
 {
   "schemaVersion": 2,
   "generator": "parapoly-showcase-sync",
+  "attachments": {
+    "examples/1-boolean-cutout/dist/models/main.glb": {
+      "name": "1-boolean-cutout.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
+      "bytes": 80060,
+      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.glb",
+        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.step": {
+      "name": "1-boolean-cutout.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.step",
+      "bytes": 55774,
+      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.step",
+        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.bmax": {
+      "name": "1-boolean-cutout-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
+      "bytes": 545506,
+      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.bmax",
+        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax": {
+      "name": "1-boolean-cutout-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
+      "bytes": 545506,
+      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/64/main.bmax",
+        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax": {
+      "name": "1-boolean-cutout-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-32.bmax",
+      "bytes": 123684,
+      "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/32/main.bmax",
+        "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax": {
+      "name": "1-boolean-cutout-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-16.bmax",
+      "bytes": 23891,
+      "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/16/main.bmax",
+        "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.glb": {
+      "name": "2-woven-basket-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.glb",
+      "bytes": 1707972,
+      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.glb",
+        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.step": {
+      "name": "2-woven-basket-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.step",
+      "bytes": 4145131,
+      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.step",
+        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
+      "bytes": 476722,
+      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.bmax",
+        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
+      "bytes": 476722,
+      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-32.bmax",
+      "bytes": 92100,
+      "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-16.bmax",
+      "bytes": 19891,
+      "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.glb": {
+      "name": "3-billiards-single-file.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
+      "bytes": 1121524,
+      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.glb",
+        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.step": {
+      "name": "3-billiards-single-file.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.step",
+      "bytes": 2539778,
+      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.step",
+        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.bmax": {
+      "name": "3-billiards-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
+      "bytes": 173287,
+      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.bmax",
+        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax": {
+      "name": "3-billiards-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
+      "bytes": 173287,
+      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/64/main.bmax",
+        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax": {
+      "name": "3-billiards-single-file-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-32.bmax",
+      "bytes": 28644,
+      "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/32/main.bmax",
+        "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax": {
+      "name": "3-billiards-single-file-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-16.bmax",
+      "bytes": 5589,
+      "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/16/main.bmax",
+        "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.glb": {
+      "name": "4-coffee-cup-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
+      "bytes": 476664,
+      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.glb",
+        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.step": {
+      "name": "4-coffee-cup-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.step",
+      "bytes": 162715,
+      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.step",
+        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
+      "bytes": 279816,
+      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.bmax",
+        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
+      "bytes": 279816,
+      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-32.bmax",
+      "bytes": 59488,
+      "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-16.bmax",
+      "bytes": 11717,
+      "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.glb": {
+      "name": "5-round-bottom-wok.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
+      "bytes": 704944,
+      "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.glb",
+        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.step": {
+      "name": "5-round-bottom-wok.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.step",
+      "bytes": 486877,
+      "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.step",
+        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
+      "bytes": 57086,
+      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.bmax",
+        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
+      "bytes": 57086,
+      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/64/main.bmax",
+        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-32.bmax",
+      "bytes": 13078,
+      "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/32/main.bmax",
+        "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-16.bmax",
+      "bytes": 3445,
+      "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/16/main.bmax",
+        "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.glb": {
+      "name": "6-cast-iron-skillet.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
+      "bytes": 106736,
+      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.glb",
+        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.step": {
+      "name": "6-cast-iron-skillet.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.step",
+      "bytes": 99667,
+      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.step",
+        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
+      "bytes": 66045,
+      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.bmax",
+        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
+      "bytes": 66045,
+      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
+        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-32.bmax",
+      "bytes": 13997,
+      "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
+        "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-16.bmax",
+      "bytes": 3283,
+      "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
+        "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.glb": {
+      "name": "7-lunar-rover-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
+      "bytes": 1752028,
+      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.glb",
+        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.step": {
+      "name": "7-lunar-rover-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step",
+      "bytes": 975289,
+      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.step",
+        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
+      "bytes": 172938,
+      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.bmax",
+        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
+      "bytes": 172938,
+      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax",
+      "bytes": 36628,
+      "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax",
+      "bytes": 7355,
+      "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.glb": {
+      "name": "8-microscope-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.glb",
+      "bytes": 701944,
+      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.glb",
+        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.step": {
+      "name": "8-microscope-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.step",
+      "bytes": 1031969,
+      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.step",
+        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.bmax": {
+      "name": "8-microscope-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
+      "bytes": 128008,
+      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.bmax",
+        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "8-microscope-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
+      "bytes": 128008,
+      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "8-microscope-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-32.bmax",
+      "bytes": 26697,
+      "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "8-microscope-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-16.bmax",
+      "bytes": 5413,
+      "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.glb": {
+      "name": "9-mario-kart-single-file.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
+      "bytes": 11103072,
+      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.glb",
+        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.step": {
+      "name": "9-mario-kart-single-file.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.step",
+      "bytes": 12667800,
+      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.step",
+        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
+      "bytes": 286777,
+      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.bmax",
+        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
+      "bytes": 286777,
+      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
+        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-32.bmax",
+      "bytes": 56310,
+      "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
+        "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-16.bmax",
+      "bytes": 10332,
+      "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
+        "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.glb": {
+      "name": "10-woven-bamboo-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
+      "bytes": 399943968,
+      "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.glb",
+        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.step": {
+      "name": "10-woven-bamboo-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.step",
+      "bytes": 136674854,
+      "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.step",
+        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
+      "bytes": 110144,
+      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.bmax",
+        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
+      "bytes": 110144,
+      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-32.bmax",
+      "bytes": 24444,
+      "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-16.bmax",
+      "bytes": 5492,
+      "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.glb": {
+      "name": "11-spindle-back-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
+      "bytes": 4947916,
+      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.glb",
+        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.step": {
+      "name": "11-spindle-back-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step",
+      "bytes": 1114851,
+      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.step",
+        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
+      "bytes": 89367,
+      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.bmax",
+        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
+      "bytes": 89367,
+      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax",
+      "bytes": 20851,
+      "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax",
+      "bytes": 6116,
+      "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.glb": {
+      "name": "12-part3d-roundtrip.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
+      "bytes": 239456,
+      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.glb",
+        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.step": {
+      "name": "12-part3d-roundtrip.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.step",
+      "bytes": 53234,
+      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.step",
+        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
+      "bytes": 48025,
+      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.bmax",
+        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
+      "bytes": 48025,
+      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
+        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-32.bmax",
+      "bytes": 11126,
+      "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
+        "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-16.bmax",
+      "bytes": 2764,
+      "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
+        "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.glb": {
+      "name": "13-stepped-flange.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
+      "bytes": 137204,
+      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.glb",
+        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.step": {
+      "name": "13-stepped-flange.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.step",
+      "bytes": 81752,
+      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.step",
+        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.bmax": {
+      "name": "13-stepped-flange-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
+      "bytes": 198475,
+      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.bmax",
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/64/main.bmax": {
+      "name": "13-stepped-flange-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
+      "bytes": 198475,
+      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/64/main.bmax",
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/32/main.bmax": {
+      "name": "13-stepped-flange-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-32.bmax",
+      "bytes": 47433,
+      "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/32/main.bmax",
+        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/16/main.bmax": {
+      "name": "13-stepped-flange-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-16.bmax",
+      "bytes": 10111,
+      "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/16/main.bmax",
+        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.glb": {
+      "name": "14-bearing-housing-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
+      "bytes": 142536,
+      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.glb",
+        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.step": {
+      "name": "14-bearing-housing-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.step",
+      "bytes": 208780,
+      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.step",
+        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
+      "bytes": 183943,
+      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.bmax",
+        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
+      "bytes": 183943,
+      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-32.bmax",
+      "bytes": 41858,
+      "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-16.bmax",
+      "bytes": 8801,
+      "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.glb": {
+      "name": "15-high-speed-shaft-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.glb",
+      "bytes": 79748,
+      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.glb",
+        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.step": {
+      "name": "15-high-speed-shaft-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.step",
+      "bytes": 143142,
+      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.step",
+        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
+      "bytes": 55370,
+      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.bmax",
+        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
+      "bytes": 55370,
+      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-32.bmax",
+      "bytes": 13805,
+      "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-16.bmax",
+      "bytes": 3313,
+      "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.glb": {
+      "name": "16-housing-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
+      "bytes": 134584,
+      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.glb",
+        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.step": {
+      "name": "16-housing-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.step",
+      "bytes": 91099,
+      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.step",
+        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.bmax": {
+      "name": "16-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
+      "bytes": 440055,
+      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.bmax",
+        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "16-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
+      "bytes": 440055,
+      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "16-housing-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-32.bmax",
+      "bytes": 96078,
+      "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "16-housing-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-16.bmax",
+      "bytes": 20747,
+      "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.glb": {
+      "name": "17-stirling-d16-c.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
+      "bytes": 4342240,
+      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.glb",
+        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.step": {
+      "name": "17-stirling-d16-c.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.step",
+      "bytes": 11652444,
+      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.step",
+        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
+      "bytes": 440173,
+      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.bmax",
+        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
+      "bytes": 440173,
+      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/64/main.bmax",
+        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-32.bmax",
+      "bytes": 94312,
+      "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/32/main.bmax",
+        "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-16.bmax",
+      "bytes": 16371,
+      "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/16/main.bmax",
+        "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.glb": {
+      "name": "18-stirling-horizontal-quartz.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
+      "bytes": 11924476,
+      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.glb",
+        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.step": {
+      "name": "18-stirling-horizontal-quartz.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.step",
+      "bytes": 11427021,
+      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.step",
+        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
+      "bytes": 226521,
+      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.bmax",
+        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
+      "bytes": 226521,
+      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
+        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-32.bmax",
+      "bytes": 40517,
+      "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
+        "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-16.bmax",
+      "bytes": 9159,
+      "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
+        "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.glb": {
+      "name": "19-ge-e3-fan-module.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
+      "bytes": 47590720,
+      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.glb",
+        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.step": {
+      "name": "19-ge-e3-fan-module.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.step",
+      "bytes": 75798858,
+      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.step",
+        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
+      "bytes": 291830,
+      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.bmax",
+        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
+      "bytes": 291830,
+      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
+        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-32.bmax",
+      "bytes": 61320,
+      "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
+        "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-16.bmax",
+      "bytes": 11982,
+      "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
+        "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.glb": {
+      "name": "20-cargo-atv.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
+      "bytes": 28726572,
+      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.glb",
+        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.step": {
+      "name": "20-cargo-atv.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.step",
+      "bytes": 19200086,
+      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.step",
+        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.bmax": {
+      "name": "20-cargo-atv-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
+      "bytes": 450562,
+      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.bmax",
+        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/64/main.bmax": {
+      "name": "20-cargo-atv-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
+      "bytes": 450562,
+      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/64/main.bmax",
+        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/32/main.bmax": {
+      "name": "20-cargo-atv-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-32.bmax",
+      "bytes": 88160,
+      "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/32/main.bmax",
+        "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/16/main.bmax": {
+      "name": "20-cargo-atv-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-16.bmax",
+      "bytes": 16947,
+      "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/16/main.bmax",
+        "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb": {
+      "name": "21-baltsar-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
+      "bytes": 9766148,
+      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.glb",
+        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step": {
+      "name": "21-baltsar-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step",
+      "bytes": 1277682,
+      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.step",
+        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/main.bmax": {
+      "name": "21-baltsar-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
+      "bytes": 199687,
+      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/main.bmax",
+        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax": {
+      "name": "21-baltsar-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
+      "bytes": 199687,
+      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax": {
+      "name": "21-baltsar-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax",
+      "bytes": 35362,
+      "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax": {
+      "name": "21-baltsar-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax",
+      "bytes": 7381,
+      "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/main.glb": {
+      "name": "22-walking-drive-assembly.glb",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb",
+      "bytes": 4784764,
+      "sha256": "1967cf86991bb6b810fe269a9741c4928488a627f2fbbeb9fab61f63a7d3b876",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/main.glb",
+        "sha256": "1967cf86991bb6b810fe269a9741c4928488a627f2fbbeb9fab61f63a7d3b876"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/main.step": {
+      "name": "22-walking-drive-assembly.step",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step",
+      "bytes": 6238360,
+      "sha256": "1b2ee79e3b4b343e7252142688d432f3cfec9a408262d3b2f84dcdd91b91949b",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/main.step",
+        "sha256": "1b2ee79e3b4b343e7252142688d432f3cfec9a408262d3b2f84dcdd91b91949b"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/main.bmax": {
+      "name": "22-walking-drive-assembly-bmax-64.bmax",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax",
+      "bytes": 380806,
+      "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/main.bmax",
+        "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/bmax/64/main.bmax": {
+      "name": "22-walking-drive-assembly-bmax-64.bmax",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax",
+      "bytes": 380806,
+      "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/bmax/64/main.bmax",
+        "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/bmax/32/main.bmax": {
+      "name": "22-walking-drive-assembly-bmax-32.bmax",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax",
+      "bytes": 78520,
+      "sha256": "071b6d39a7a5b249b4b589547ef7a875dcb3a3a37ca1af09a1f11b427898e5c8",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/bmax/32/main.bmax",
+        "sha256": "071b6d39a7a5b249b4b589547ef7a875dcb3a3a37ca1af09a1f11b427898e5c8"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/bmax/16/main.bmax": {
+      "name": "22-walking-drive-assembly-bmax-16.bmax",
+      "tag": "models-2026-09-22-walking-drive",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax",
+      "bytes": 15693,
+      "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6",
+      "sourceCommit": "57e1269a4b2ac82ba3daa44d25b3bb5eb14860fe",
+      "status": "published",
+      "verifiedAt": "2026-09-22T14:54:53.398Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/bmax/16/main.bmax",
+        "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6"
+      }
+    }
+  },
   "files": {
     "examples/1-boolean-cutout/main.code3d.js": {
       "sha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
@@ -2103,1791 +3953,118 @@
       "sha256": "85e52e711aff62952694ab2ecedd4184f693366ff3c4bafbf309c2e992f9ee2d",
       "bytes": 4601
     },
+    "examples/22-walking-drive-assembly/main.code3d.js": {
+      "sha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
+      "bytes": 11734,
+      "source": {
+        "path": "22-walking-drive-assembly/main.code3d.js",
+        "sha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2"
+      }
+    },
+    "examples/22-walking-drive-assembly/preview.png": {
+      "sha256": "47f86217ce198e7bb32f6e20bfcce73b621fc9aa395d3a62edb3e33153379ae3",
+      "bytes": 21385,
+      "source": {
+        "path": "22-walking-drive-assembly/preview.png",
+        "sha256": "47f86217ce198e7bb32f6e20bfcce73b621fc9aa395d3a62edb3e33153379ae3"
+      }
+    },
+    "examples/22-walking-drive-assembly/preview-light.png": {
+      "sha256": "8b203d768ea31bc75553a9d698f99439eaa3e9239b08c8b585f397d3da5b5dc2",
+      "bytes": 21416,
+      "source": {
+        "path": "22-walking-drive-assembly/preview-light.png",
+        "sha256": "8b203d768ea31bc75553a9d698f99439eaa3e9239b08c8b585f397d3da5b5dc2"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/64/preview.png": {
+      "sha256": "22b733193fa2ddc8505fcaad91affb61333bfb84e5edd9219c3ffe07b79af0ca",
+      "bytes": 14929,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/64/preview.png",
+        "sha256": "22b733193fa2ddc8505fcaad91affb61333bfb84e5edd9219c3ffe07b79af0ca"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/64/preview-light.png": {
+      "sha256": "e161f12807102e0b6238692329c2ba46d6a4b90dbdc509600e23347c6f842c6e",
+      "bytes": 14988,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/64/preview-light.png",
+        "sha256": "e161f12807102e0b6238692329c2ba46d6a4b90dbdc509600e23347c6f842c6e"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/32/preview.png": {
+      "sha256": "3b295da084b7257158994ab08d0788473c15acb67ec9c0251bd8c8dbe857fead",
+      "bytes": 12942,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/32/preview.png",
+        "sha256": "3b295da084b7257158994ab08d0788473c15acb67ec9c0251bd8c8dbe857fead"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/32/preview-light.png": {
+      "sha256": "135e2633a1dc0525bda3b7fc68b1d2f335242fa0bb32898bc8100581b6ce26a8",
+      "bytes": 12948,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/32/preview-light.png",
+        "sha256": "135e2633a1dc0525bda3b7fc68b1d2f335242fa0bb32898bc8100581b6ce26a8"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/16/preview.png": {
+      "sha256": "df52dc1f0cd5a4f9d5e6389ceaad8fa6d0370185c53a8ddf4db436b8112235bd",
+      "bytes": 10171,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/16/preview.png",
+        "sha256": "df52dc1f0cd5a4f9d5e6389ceaad8fa6d0370185c53a8ddf4db436b8112235bd"
+      }
+    },
+    "examples/22-walking-drive-assembly/bmax/16/preview-light.png": {
+      "sha256": "dacf0c3321873d58480fa453151c12227d9e2ea1c7ed896afa5d1144a6331535",
+      "bytes": 10212,
+      "source": {
+        "path": "22-walking-drive-assembly/bmax/16/preview-light.png",
+        "sha256": "dacf0c3321873d58480fa453151c12227d9e2ea1c7ed896afa5d1144a6331535"
+      }
+    },
+    "examples/22-walking-drive-assembly/skills/parapoly-walking-assembly-design/SKILL.md": {
+      "sha256": "da89982ed251baafeafb2237220f09f5fa7125fd00038045f90cc6805b53e12b",
+      "bytes": 5076,
+      "source": {
+        "path": "22-walking-drive-assembly/skills/parapoly-walking-assembly-design/SKILL.md",
+        "sha256": "3916ae7ad6308c3098caa96a514326d12698505ca9b4050e10dd94aa8875cc19",
+        "adaptation": "public-reference"
+      }
+    },
+    "examples/22-walking-drive-assembly/model-info.json": {
+      "sha256": "b4f5fd18ef208fa8b85f7d5704bb34c600daabadbc612f1d20ecd20ee849ac32",
+      "bytes": 5901
+    },
+    "examples/22-walking-drive-assembly/README.md": {
+      "sha256": "225310379381cefba29e26d3f293ead975ced7a7317c5b822cc374cbef317bb5",
+      "bytes": 4644
+    },
+    "examples/22-walking-drive-assembly/README.zh-CN.md": {
+      "sha256": "8f0e8e92e775f1f937ad56e825c7608a4a53a43b9f55e94f82d37b6f99b045e2",
+      "bytes": 4482
+    },
     "README.md": {
-      "sha256": "7fa6f4e8cd21b9256069d17b7bacd82f36532b10ea0f4b981c05c763f9944c53",
-      "bytes": 57299
+      "sha256": "d10c9f49380eca22e3f9aaf5ccffec12d0dee7f1451d13710dcd9fe68bb4b23a",
+      "bytes": 60198
     },
     "README.zh-CN.md": {
-      "sha256": "91f1ec681f69abe71d08dda06984f031b8e0c0f9686690efbc9936d9edcf2e45",
-      "bytes": 57154
+      "sha256": "8d7226852818b73c7d3f6ecde2ad873ecac6f2bfcc127694861034e64b8f2cb4",
+      "bytes": 59975
     },
     ".gitattributes": {
       "sha256": "308a40fa1d89ae5ea4390b4c9b46a0108b09f171f07898f25d451fa0c69c4e9f",
       "bytes": 72
     },
-    "catalog.json": {
-      "sha256": "d56cb4869ee420fc267e81f7f88c5ebbc8ba3959813cb5d2c8793ce35aa4a783",
-      "bytes": 93139
-    },
     ".gitignore": {
-      "bytes": 2622,
-      "sha256": "938afe21c8c02730c74a0322c47458e6c2dd38c58ff38816bfd4adea6fbc9c05"
-    }
-  },
-  "attachments": {
-    "examples/1-boolean-cutout/dist/models/main.glb": {
-      "name": "1-boolean-cutout.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
-      "bytes": 80060,
-      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.glb",
-        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/main.step": {
-      "name": "1-boolean-cutout.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.step",
-      "bytes": 55774,
-      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.step",
-        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/main.bmax": {
-      "name": "1-boolean-cutout-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
-      "bytes": 545506,
-      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.bmax",
-        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax": {
-      "name": "1-boolean-cutout-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
-      "bytes": 545506,
-      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/64/main.bmax",
-        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax": {
-      "name": "1-boolean-cutout-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-32.bmax",
-      "bytes": 123684,
-      "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/32/main.bmax",
-        "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax": {
-      "name": "1-boolean-cutout-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-16.bmax",
-      "bytes": 23891,
-      "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/16/main.bmax",
-        "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/main.glb": {
-      "name": "2-woven-basket-block3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.glb",
-      "bytes": 1707972,
-      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.glb",
-        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/main.step": {
-      "name": "2-woven-basket-block3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.step",
-      "bytes": 4145131,
-      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.step",
-        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/main.bmax": {
-      "name": "2-woven-basket-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
-      "bytes": 476722,
-      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.bmax",
-        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax": {
-      "name": "2-woven-basket-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
-      "bytes": 476722,
-      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax": {
-      "name": "2-woven-basket-block3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-32.bmax",
-      "bytes": 92100,
-      "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax": {
-      "name": "2-woven-basket-block3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-16.bmax",
-      "bytes": 19891,
-      "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/main.glb": {
-      "name": "3-billiards-single-file.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
-      "bytes": 1121524,
-      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.glb",
-        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/main.step": {
-      "name": "3-billiards-single-file.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.step",
-      "bytes": 2539778,
-      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.step",
-        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/main.bmax": {
-      "name": "3-billiards-single-file-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
-      "bytes": 173287,
-      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.bmax",
-        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax": {
-      "name": "3-billiards-single-file-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
-      "bytes": 173287,
-      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/64/main.bmax",
-        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax": {
-      "name": "3-billiards-single-file-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-32.bmax",
-      "bytes": 28644,
-      "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/32/main.bmax",
-        "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax": {
-      "name": "3-billiards-single-file-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-16.bmax",
-      "bytes": 5589,
-      "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/16/main.bmax",
-        "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/main.glb": {
-      "name": "4-coffee-cup-block3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
-      "bytes": 476664,
-      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.glb",
-        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/main.step": {
-      "name": "4-coffee-cup-block3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.step",
-      "bytes": 162715,
-      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.step",
-        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/main.bmax": {
-      "name": "4-coffee-cup-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
-      "bytes": 279816,
-      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.bmax",
-        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax": {
-      "name": "4-coffee-cup-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
-      "bytes": 279816,
-      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax": {
-      "name": "4-coffee-cup-block3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-32.bmax",
-      "bytes": 59488,
-      "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax": {
-      "name": "4-coffee-cup-block3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-16.bmax",
-      "bytes": 11717,
-      "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/main.glb": {
-      "name": "5-round-bottom-wok.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
-      "bytes": 704944,
-      "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.glb",
-        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/main.step": {
-      "name": "5-round-bottom-wok.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.step",
-      "bytes": 486877,
-      "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.step",
-        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/main.bmax": {
-      "name": "5-round-bottom-wok-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
-      "bytes": 57086,
-      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.bmax",
-        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax": {
-      "name": "5-round-bottom-wok-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
-      "bytes": 57086,
-      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/64/main.bmax",
-        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax": {
-      "name": "5-round-bottom-wok-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-32.bmax",
-      "bytes": 13078,
-      "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/32/main.bmax",
-        "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax": {
-      "name": "5-round-bottom-wok-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-16.bmax",
-      "bytes": 3445,
-      "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/16/main.bmax",
-        "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/main.glb": {
-      "name": "6-cast-iron-skillet.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
-      "bytes": 106736,
-      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.glb",
-        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/main.step": {
-      "name": "6-cast-iron-skillet.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.step",
-      "bytes": 99667,
-      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.step",
-        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/main.bmax": {
-      "name": "6-cast-iron-skillet-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
-      "bytes": 66045,
-      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.bmax",
-        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax": {
-      "name": "6-cast-iron-skillet-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
-      "bytes": 66045,
-      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
-        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax": {
-      "name": "6-cast-iron-skillet-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-32.bmax",
-      "bytes": 13997,
-      "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
-        "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax": {
-      "name": "6-cast-iron-skillet-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-16.bmax",
-      "bytes": 3283,
-      "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
-        "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/main.glb": {
-      "name": "7-lunar-rover-block3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
-      "bytes": 1752028,
-      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.glb",
-        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/main.step": {
-      "name": "7-lunar-rover-block3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step",
-      "bytes": 975289,
-      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.step",
-        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/main.bmax": {
-      "name": "7-lunar-rover-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
-      "bytes": 172938,
-      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.bmax",
-        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax": {
-      "name": "7-lunar-rover-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
-      "bytes": 172938,
-      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax": {
-      "name": "7-lunar-rover-block3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax",
-      "bytes": 36628,
-      "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax": {
-      "name": "7-lunar-rover-block3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax",
-      "bytes": 7355,
-      "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/main.glb": {
-      "name": "8-microscope-block3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.glb",
-      "bytes": 701944,
-      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.glb",
-        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/main.step": {
-      "name": "8-microscope-block3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.step",
-      "bytes": 1031969,
-      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.step",
-        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/main.bmax": {
-      "name": "8-microscope-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
-      "bytes": 128008,
-      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.bmax",
-        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax": {
-      "name": "8-microscope-block3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
-      "bytes": 128008,
-      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax": {
-      "name": "8-microscope-block3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-32.bmax",
-      "bytes": 26697,
-      "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax": {
-      "name": "8-microscope-block3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-16.bmax",
-      "bytes": 5413,
-      "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/main.glb": {
-      "name": "9-mario-kart-single-file.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
-      "bytes": 11103072,
-      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.glb",
-        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/main.step": {
-      "name": "9-mario-kart-single-file.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.step",
-      "bytes": 12667800,
-      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.step",
-        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/main.bmax": {
-      "name": "9-mario-kart-single-file-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
-      "bytes": 286777,
-      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.bmax",
-        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax": {
-      "name": "9-mario-kart-single-file-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
-      "bytes": 286777,
-      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
-        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax": {
-      "name": "9-mario-kart-single-file-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-32.bmax",
-      "bytes": 56310,
-      "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
-        "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax": {
-      "name": "9-mario-kart-single-file-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-16.bmax",
-      "bytes": 10332,
-      "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
-        "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/main.glb": {
-      "name": "10-woven-bamboo-chair.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
-      "bytes": 399943968,
-      "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.glb",
-        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/main.step": {
-      "name": "10-woven-bamboo-chair.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.step",
-      "bytes": 136674854,
-      "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.step",
-        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/main.bmax": {
-      "name": "10-woven-bamboo-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
-      "bytes": 110144,
-      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.bmax",
-        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax": {
-      "name": "10-woven-bamboo-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
-      "bytes": 110144,
-      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax": {
-      "name": "10-woven-bamboo-chair-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-32.bmax",
-      "bytes": 24444,
-      "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax": {
-      "name": "10-woven-bamboo-chair-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-16.bmax",
-      "bytes": 5492,
-      "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/main.glb": {
-      "name": "11-spindle-back-chair.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
-      "bytes": 4947916,
-      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.glb",
-        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/main.step": {
-      "name": "11-spindle-back-chair.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step",
-      "bytes": 1114851,
-      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.step",
-        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/main.bmax": {
-      "name": "11-spindle-back-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
-      "bytes": 89367,
-      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.bmax",
-        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax": {
-      "name": "11-spindle-back-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
-      "bytes": 89367,
-      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax": {
-      "name": "11-spindle-back-chair-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax",
-      "bytes": 20851,
-      "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax": {
-      "name": "11-spindle-back-chair-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax",
-      "bytes": 6116,
-      "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/main.glb": {
-      "name": "12-part3d-roundtrip.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
-      "bytes": 239456,
-      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.glb",
-        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/main.step": {
-      "name": "12-part3d-roundtrip.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.step",
-      "bytes": 53234,
-      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.step",
-        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/main.bmax": {
-      "name": "12-part3d-roundtrip-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
-      "bytes": 48025,
-      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.bmax",
-        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax": {
-      "name": "12-part3d-roundtrip-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
-      "bytes": 48025,
-      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
-        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax": {
-      "name": "12-part3d-roundtrip-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-32.bmax",
-      "bytes": 11126,
-      "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
-        "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax": {
-      "name": "12-part3d-roundtrip-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-16.bmax",
-      "bytes": 2764,
-      "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
-        "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/main.glb": {
-      "name": "13-stepped-flange.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
-      "bytes": 137204,
-      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.glb",
-        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/main.step": {
-      "name": "13-stepped-flange.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.step",
-      "bytes": 81752,
-      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.step",
-        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/main.bmax": {
-      "name": "13-stepped-flange-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
-      "bytes": 198475,
-      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.bmax",
-        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/bmax/64/main.bmax": {
-      "name": "13-stepped-flange-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
-      "bytes": 198475,
-      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/64/main.bmax",
-        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/bmax/32/main.bmax": {
-      "name": "13-stepped-flange-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-32.bmax",
-      "bytes": 47433,
-      "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/32/main.bmax",
-        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/bmax/16/main.bmax": {
-      "name": "13-stepped-flange-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-16.bmax",
-      "bytes": 10111,
-      "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/16/main.bmax",
-        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/main.glb": {
-      "name": "14-bearing-housing-part3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
-      "bytes": 142536,
-      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.glb",
-        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/main.step": {
-      "name": "14-bearing-housing-part3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.step",
-      "bytes": 208780,
-      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.step",
-        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/main.bmax": {
-      "name": "14-bearing-housing-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
-      "bytes": 183943,
-      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.bmax",
-        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax": {
-      "name": "14-bearing-housing-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
-      "bytes": 183943,
-      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax": {
-      "name": "14-bearing-housing-part3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-32.bmax",
-      "bytes": 41858,
-      "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax": {
-      "name": "14-bearing-housing-part3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-16.bmax",
-      "bytes": 8801,
-      "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.glb": {
-      "name": "15-high-speed-shaft-part3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.glb",
-      "bytes": 79748,
-      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.glb",
-        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.step": {
-      "name": "15-high-speed-shaft-part3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.step",
-      "bytes": 143142,
-      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.step",
-        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.bmax": {
-      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
-      "bytes": 55370,
-      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.bmax",
-        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax": {
-      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
-      "bytes": 55370,
-      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax": {
-      "name": "15-high-speed-shaft-part3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-32.bmax",
-      "bytes": 13805,
-      "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax": {
-      "name": "15-high-speed-shaft-part3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-16.bmax",
-      "bytes": 3313,
-      "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/main.glb": {
-      "name": "16-housing-part3d.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
-      "bytes": 134584,
-      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.glb",
-        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/main.step": {
-      "name": "16-housing-part3d.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.step",
-      "bytes": 91099,
-      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.step",
-        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/main.bmax": {
-      "name": "16-housing-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
-      "bytes": 440055,
-      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.bmax",
-        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/bmax/64/main.bmax": {
-      "name": "16-housing-part3d-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
-      "bytes": 440055,
-      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/bmax/32/main.bmax": {
-      "name": "16-housing-part3d-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-32.bmax",
-      "bytes": 96078,
-      "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/bmax/16/main.bmax": {
-      "name": "16-housing-part3d-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-16.bmax",
-      "bytes": 20747,
-      "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/main.glb": {
-      "name": "17-stirling-d16-c.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
-      "bytes": 4342240,
-      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.glb",
-        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/main.step": {
-      "name": "17-stirling-d16-c.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.step",
-      "bytes": 11652444,
-      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.step",
-        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/main.bmax": {
-      "name": "17-stirling-d16-c-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
-      "bytes": 440173,
-      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.bmax",
-        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax": {
-      "name": "17-stirling-d16-c-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
-      "bytes": 440173,
-      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/64/main.bmax",
-        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax": {
-      "name": "17-stirling-d16-c-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-32.bmax",
-      "bytes": 94312,
-      "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/32/main.bmax",
-        "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax": {
-      "name": "17-stirling-d16-c-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-16.bmax",
-      "bytes": 16371,
-      "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/16/main.bmax",
-        "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.glb": {
-      "name": "18-stirling-horizontal-quartz.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
-      "bytes": 11924476,
-      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.glb",
-        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.step": {
-      "name": "18-stirling-horizontal-quartz.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.step",
-      "bytes": 11427021,
-      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.step",
-        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.bmax": {
-      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
-      "bytes": 226521,
-      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.bmax",
-        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax": {
-      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
-      "bytes": 226521,
-      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
-        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax": {
-      "name": "18-stirling-horizontal-quartz-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-32.bmax",
-      "bytes": 40517,
-      "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
-        "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax": {
-      "name": "18-stirling-horizontal-quartz-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-16.bmax",
-      "bytes": 9159,
-      "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
-        "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/main.glb": {
-      "name": "19-ge-e3-fan-module.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
-      "bytes": 47590720,
-      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.glb",
-        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/main.step": {
-      "name": "19-ge-e3-fan-module.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.step",
-      "bytes": 75798858,
-      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.step",
-        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/main.bmax": {
-      "name": "19-ge-e3-fan-module-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
-      "bytes": 291830,
-      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.bmax",
-        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax": {
-      "name": "19-ge-e3-fan-module-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
-      "bytes": 291830,
-      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
-        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax": {
-      "name": "19-ge-e3-fan-module-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-32.bmax",
-      "bytes": 61320,
-      "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
-        "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax": {
-      "name": "19-ge-e3-fan-module-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-16.bmax",
-      "bytes": 11982,
-      "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
-        "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/main.glb": {
-      "name": "20-cargo-atv.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
-      "bytes": 28726572,
-      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.glb",
-        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/main.step": {
-      "name": "20-cargo-atv.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.step",
-      "bytes": 19200086,
-      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.step",
-        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/main.bmax": {
-      "name": "20-cargo-atv-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
-      "bytes": 450562,
-      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.bmax",
-        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/bmax/64/main.bmax": {
-      "name": "20-cargo-atv-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
-      "bytes": 450562,
-      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/64/main.bmax",
-        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/bmax/32/main.bmax": {
-      "name": "20-cargo-atv-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-32.bmax",
-      "bytes": 88160,
-      "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/32/main.bmax",
-        "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/bmax/16/main.bmax": {
-      "name": "20-cargo-atv-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-16.bmax",
-      "bytes": 16947,
-      "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/16/main.bmax",
-        "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb": {
-      "name": "21-baltsar-chair.glb",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
-      "bytes": 9766148,
-      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.glb",
-        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step": {
-      "name": "21-baltsar-chair.step",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step",
-      "bytes": 1277682,
-      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.step",
-        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/main.bmax": {
-      "name": "21-baltsar-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
-      "bytes": 199687,
-      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/main.bmax",
-        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax": {
-      "name": "21-baltsar-chair-bmax-64.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
-      "bytes": 199687,
-      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax": {
-      "name": "21-baltsar-chair-bmax-32.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax",
-      "bytes": 35362,
-      "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax": {
-      "name": "21-baltsar-chair-bmax-16.bmax",
-      "tag": "models-2026-09-22",
-      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax",
-      "bytes": 7381,
-      "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
-      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
-      "status": "published",
-      "verifiedAt": "2026-09-22T11:20:16.866Z",
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
-      }
+      "sha256": "938afe21c8c02730c74a0322c47458e6c2dd38c58ff38816bfd4adea6fbc9c05",
+      "bytes": 2622
+    },
+    "catalog.json": {
+      "sha256": "b752412d5e2409c5da866d8d8f70d8e4531da1bcc5584855559179192b2a05e8",
+      "bytes": 97968
     }
   }
 }

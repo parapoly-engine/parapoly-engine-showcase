@@ -2248,5 +2248,114 @@
       "examples/21-baltsar-chair/skills/parapoly-curved-shell-modeling/SKILL.md",
       "examples/21-baltsar-chair/skills/parapoly-shell-chair-design/SKILL.md"
     ]
+  },
+  {
+    "id": "22-walking-drive-assembly",
+    "name": {
+      "en": "Walking drive assembly",
+      "zh": "行走组件"
+    },
+    "description": {
+      "en": "A 61-part spring-loaded drive assembly with a 36ZY motor, timing-belt transmission, roller and pivoting support.",
+      "zh": "由 61 个独立实体构成的弹簧压紧行走组件，包含 36ZY 电机、同步带传动、滚轮与活动支承。"
+    },
+    "source": "examples/22-walking-drive-assembly/main.code3d.js",
+    "readme": "examples/22-walking-drive-assembly/README.md",
+    "models": [
+      {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb",
+        "bytes": 4784764,
+        "sha256": "1967cf86991bb6b810fe269a9741c4928488a627f2fbbeb9fab61f63a7d3b876"
+      },
+      {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step",
+        "bytes": 6238360,
+        "sha256": "1b2ee79e3b4b343e7252142688d432f3cfec9a408262d3b2f84dcdd91b91949b"
+      },
+      {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax",
+        "bytes": 380806,
+        "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3",
+        "resolution": 64
+      },
+      {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax",
+        "bytes": 78520,
+        "sha256": "071b6d39a7a5b249b4b589547ef7a875dcb3a3a37ca1af09a1f11b427898e5c8",
+        "resolution": 32
+      },
+      {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax",
+        "bytes": 15693,
+        "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6",
+        "resolution": 16
+      }
+    ],
+    "bmaxVariants": [
+      {
+        "resolution": 64,
+        "model": {
+          "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax",
+          "bytes": 380806,
+          "sha256": "fd5acba860a4d7fa07c73616fa49b1c261ad90234ebbedef02c7038698c684b3"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/22-walking-drive-assembly/bmax/64/preview.png",
+            "bytes": 14929,
+            "sha256": "22b733193fa2ddc8505fcaad91affb61333bfb84e5edd9219c3ffe07b79af0ca"
+          },
+          "light": {
+            "file": "examples/22-walking-drive-assembly/bmax/64/preview-light.png",
+            "bytes": 14988,
+            "sha256": "e161f12807102e0b6238692329c2ba46d6a4b90dbdc509600e23347c6f842c6e"
+          }
+        }
+      },
+      {
+        "resolution": 32,
+        "model": {
+          "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax",
+          "bytes": 78520,
+          "sha256": "071b6d39a7a5b249b4b589547ef7a875dcb3a3a37ca1af09a1f11b427898e5c8"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/22-walking-drive-assembly/bmax/32/preview.png",
+            "bytes": 12942,
+            "sha256": "3b295da084b7257158994ab08d0788473c15acb67ec9c0251bd8c8dbe857fead"
+          },
+          "light": {
+            "file": "examples/22-walking-drive-assembly/bmax/32/preview-light.png",
+            "bytes": 12948,
+            "sha256": "135e2633a1dc0525bda3b7fc68b1d2f335242fa0bb32898bc8100581b6ce26a8"
+          }
+        }
+      },
+      {
+        "resolution": 16,
+        "model": {
+          "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax",
+          "bytes": 15693,
+          "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6"
+        },
+        "previews": {
+          "dark": {
+            "file": "examples/22-walking-drive-assembly/bmax/16/preview.png",
+            "bytes": 10171,
+            "sha256": "df52dc1f0cd5a4f9d5e6389ceaad8fa6d0370185c53a8ddf4db436b8112235bd"
+          },
+          "light": {
+            "file": "examples/22-walking-drive-assembly/bmax/16/preview-light.png",
+            "bytes": 10212,
+            "sha256": "dacf0c3321873d58480fa453151c12227d9e2ea1c7ed896afa5d1144a6331535"
+          }
+        }
+      }
+    ],
+    "multiview": null,
+    "skills": [
+      "examples/22-walking-drive-assembly/skills/parapoly-walking-assembly-design/SKILL.md"
+    ]
   }
 ]

@@ -8,7 +8,7 @@
 
 ## 浏览模型
 
-目前共 21 个示例，每行四列对比同一模型：CAD、BMAX 64、BMAX 32、BMAX 16，均支持深浅主题。BMAX 分辨率表示最长边格数，体素边长采用模型源单位。点击缩略图查看模型下载、源码与设计说明；已有多视图和设计 skills 的示例也提供相应入口。
+目前共 22 个示例，每行四列对比同一模型：CAD、BMAX 64、BMAX 32、BMAX 16，均支持深浅主题。BMAX 分辨率表示最长边格数，体素边长采用模型源单位。点击缩略图查看模型下载、源码与设计说明；已有多视图和设计 skills 的示例也提供相应入口。
 
 <table>
   <tr>
@@ -137,6 +137,12 @@
     <td width="25%" valign="top" align="center"><a href="examples/21-baltsar-chair/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/21-baltsar-chair/bmax/32/preview.png"><img src="examples/21-baltsar-chair/bmax/32/preview-light.png" alt="BALTSAR 宝特赛四腿椅 BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>最长边 32 格<br>体素边长 ≈ 26.5638<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax">下载 BMAX 32</a></td>
     <td width="25%" valign="top" align="center"><a href="examples/21-baltsar-chair/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/21-baltsar-chair/bmax/16/preview.png"><img src="examples/21-baltsar-chair/bmax/16/preview-light.png" alt="BALTSAR 宝特赛四腿椅 BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>最长边 16 格<br>体素边长 ≈ 53.1277<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax">下载 BMAX 16</a></td>
   </tr>
+  <tr>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/preview.png"><img src="examples/22-walking-drive-assembly/preview-light.png" alt="行走组件 CAD" width="220" height="124"></picture><br><strong>22. 行走组件</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="examples/22-walking-drive-assembly/main.code3d.js">源码</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/64/preview.png"><img src="examples/22-walking-drive-assembly/bmax/64/preview-light.png" alt="行走组件 BMAX 64" width="220" height="124"></picture></a><br><strong>BMAX 64</strong><br>最长边 64 格<br>体素边长 ≈ 2.39063<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax">下载 BMAX 64</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/32/preview.png"><img src="examples/22-walking-drive-assembly/bmax/32/preview-light.png" alt="行走组件 BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>最长边 32 格<br>体素边长 ≈ 4.78125<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax">下载 BMAX 32</a></td>
+    <td width="25%" valign="top" align="center"><a href="examples/22-walking-drive-assembly/README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="examples/22-walking-drive-assembly/bmax/16/preview.png"><img src="examples/22-walking-drive-assembly/bmax/16/preview-light.png" alt="行走组件 BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>最长边 16 格<br>体素边长 ≈ 9.5625<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax">下载 BMAX 16</a></td>
+  </tr>
 </table>
 
 ## 让 AI 开始设计
@@ -157,14 +163,16 @@ npx -y parapoly-engine init
 
 下载 **GLB** 查看带颜色的 3D 模型，下载 **STEP** 在兼容的 CAD 软件中打开实体几何，下载 **BMAX** 在 Paracraft 中使用静态彩色体素模型。BMAX 用方块表达模型，不保留精确 CAD 曲面或透明材质。使用这些成品文件不需要安装引擎。在 GitHub 中打开模型文件后，点击 **Download raw file**；各例页面列有文件大小。
 
-克隆源码和预览；模型请通过上方固定版本的 Release 链接单独下载：
+如需获取完整示例集，安装 [Git LFS](https://git-lfs.com/) 后克隆：
 
 ```sh
+git lfs install
 git clone https://github.com/parapoly-engine/parapoly-engine-showcase.git
 cd parapoly-engine-showcase
+git lfs pull
 ```
 
-模型作为 Release 附件按需下载，不包含在当前工作目录中。历史标签仍可能使用 Git LFS。
+模型通过 Git LFS 保存。若下载文件只有几行文字，得到的是指针，请通过 Git LFS 或文件的 GitHub 页面获取实际模型。编织竹椅包含较多细节，其 GLB 约 381 MiB、STEP 约 130 MiB。
 
 在仓库根目录安装引擎，并重新导出一个小示例：
 
