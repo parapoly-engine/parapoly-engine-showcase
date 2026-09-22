@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.glb",
       "bytes": 1707972,
       "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.step",
       "bytes": 4145131,
       "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
       "bytes": 476722,
       "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-32.bmax",
       "bytes": 92100,
       "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-16.bmax",
       "bytes": 19891,
       "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
         "bytes": 476722,
         "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-32.bmax",
         "bytes": 92100,
         "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-16.bmax",
         "bytes": 19891,
         "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
       },

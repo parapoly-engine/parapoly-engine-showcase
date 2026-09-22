@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
       "bytes": 106736,
       "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.step",
       "bytes": 99667,
       "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
       "bytes": 66045,
       "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-32.bmax",
       "bytes": 13997,
       "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-16.bmax",
       "bytes": 3283,
       "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
         "bytes": 66045,
         "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-32.bmax",
         "bytes": 13997,
         "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-16.bmax",
         "bytes": 3283,
         "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
       },

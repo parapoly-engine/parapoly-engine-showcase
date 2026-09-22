@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
       "bytes": 11924476,
       "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.step",
       "bytes": 11427021,
       "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
       "bytes": 226521,
       "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-32.bmax",
       "bytes": 40517,
       "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-16.bmax",
       "bytes": 9159,
       "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
         "bytes": 226521,
         "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-32.bmax",
         "bytes": 40517,
         "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-16.bmax",
         "bytes": 9159,
         "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
       },

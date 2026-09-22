@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
       "bytes": 47590720,
       "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.step",
       "bytes": 75798858,
       "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
       "bytes": 291830,
       "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-32.bmax",
       "bytes": 61320,
       "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-16.bmax",
       "bytes": 11982,
       "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
         "bytes": 291830,
         "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-32.bmax",
         "bytes": 61320,
         "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-16.bmax",
         "bytes": 11982,
         "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
       },

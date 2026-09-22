@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
       "bytes": 11103072,
       "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.step",
       "bytes": 12667800,
       "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
       "bytes": 286777,
       "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-32.bmax",
       "bytes": 56310,
       "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-16.bmax",
       "bytes": 10332,
       "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
         "bytes": 286777,
         "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-32.bmax",
         "bytes": 56310,
         "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-16.bmax",
         "bytes": 10332,
         "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
       },

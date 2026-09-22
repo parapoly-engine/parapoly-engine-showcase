@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/21-baltsar-chair.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
       "bytes": 9766148,
       "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
     },
     {
-      "file": "dist/models/21-baltsar-chair.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step",
       "bytes": 1277682,
       "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
       "bytes": 199687,
       "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax",
       "bytes": 35362,
       "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax",
       "bytes": 7381,
       "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
         "bytes": 199687,
         "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax",
         "bytes": 35362,
         "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax",
         "bytes": 7381,
         "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
       },

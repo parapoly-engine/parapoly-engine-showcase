@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
       "bytes": 1752028,
       "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step",
       "bytes": 975289,
       "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
       "bytes": 172938,
       "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax",
       "bytes": 36628,
       "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax",
       "bytes": 7355,
       "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
         "bytes": 172938,
         "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax",
         "bytes": 36628,
         "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax",
         "bytes": 7355,
         "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
       },

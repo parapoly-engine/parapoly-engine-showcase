@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "generator": "parapoly-showcase-sync",
   "files": {
     "examples/1-boolean-cutout/main.code3d.js": {
@@ -26,38 +26,6 @@
         "sha256": "da0f111abc64fd2b9896e7fc5493d0c32f3d6b0e2298b5619575f10c95aec3de"
       }
     },
-    "examples/1-boolean-cutout/dist/models/main.glb": {
-      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e",
-      "bytes": 80060,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.glb",
-        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/main.step": {
-      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957",
-      "bytes": 55774,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.step",
-        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/main.bmax": {
-      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
-      "bytes": 545506,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/main.bmax",
-        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax": {
-      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
-      "bytes": 545506,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/64/main.bmax",
-        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
-      }
-    },
     "examples/1-boolean-cutout/bmax/64/preview.png": {
       "sha256": "b6636eea9ffdad063153bbf81818f62d90994b63fb92215e907125b3424e0959",
       "bytes": 14460,
@@ -74,14 +42,6 @@
         "sha256": "81a4c72e8abf2a8e74c56ca0c9ae4eb0082839699502fa76b60de30ea82d9a32"
       }
     },
-    "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax": {
-      "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
-      "bytes": 123684,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/32/main.bmax",
-        "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
-      }
-    },
     "examples/1-boolean-cutout/bmax/32/preview.png": {
       "sha256": "a0c70f79b41d3c5674359ffd9aa875bd8009af8b31c92eb3f0cab69ca3cca6d9",
       "bytes": 13499,
@@ -96,14 +56,6 @@
       "source": {
         "path": "1-boolean-cutout/bmax/32/preview-light.png",
         "sha256": "ce7303ac06b6618d9ad76faad2e954f27a653da4ed194d274bcc8319c9bad0a7"
-      }
-    },
-    "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax": {
-      "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
-      "bytes": 23891,
-      "source": {
-        "path": "1-boolean-cutout/dist/models/bmax/16/main.bmax",
-        "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
       }
     },
     "examples/1-boolean-cutout/bmax/16/preview.png": {
@@ -123,16 +75,16 @@
       }
     },
     "examples/1-boolean-cutout/model-info.json": {
-      "sha256": "2c03452cf5a0e75382a05d2b17fab4aa704f0b3a4be9406c9969582371b3480f",
-      "bytes": 4940
+      "sha256": "b00a4005a9110abbd2d3627f4f1de0f72ae8c9cbd9a6a3c92073bb489d5782ad",
+      "bytes": 5708
     },
     "examples/1-boolean-cutout/README.md": {
-      "sha256": "a41a967a0fea65e995b3e7b3318bc1642c0d5e04a2af5c8fc5cf78f58728f161",
-      "bytes": 2726
+      "sha256": "3cd84e0b832adaa143f1bd07f74874844573ea507ded2a9da7b5a7f26d0119d1",
+      "bytes": 3699
     },
     "examples/1-boolean-cutout/README.zh-CN.md": {
-      "sha256": "03a677903493dccbd91b842ab32153d668ca90d632c07a2835226596aa8ecca9",
-      "bytes": 2743
+      "sha256": "6b57f6a196c74e84b42d0733d7865387db3f0eef617ddc3104d6ebbb31067e85",
+      "bytes": 3695
     },
     "examples/2-woven-basket-block3d/main.code3d.js": {
       "sha256": "f6e5539f855d39df247ff295fb65aeafa59449277d77d100a407f7f3e04bf39f",
@@ -158,38 +110,6 @@
         "sha256": "af601fc8ddf4e21c53363e1e76563db1ead5e7da46fb5482b3729b425a65fa20"
       }
     },
-    "examples/2-woven-basket-block3d/dist/models/main.glb": {
-      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318",
-      "bytes": 1707972,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.glb",
-        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/main.step": {
-      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e",
-      "bytes": 4145131,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.step",
-        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/main.bmax": {
-      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
-      "bytes": 476722,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/main.bmax",
-        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
-      "bytes": 476722,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
-      }
-    },
     "examples/2-woven-basket-block3d/bmax/64/preview.png": {
       "sha256": "8308576800ab4e51689b47739099c77ab8b3038adacf07ae38f8d21e8b4a5a21",
       "bytes": 12743,
@@ -206,14 +126,6 @@
         "sha256": "9f7dde0cdca7ea5671a10d1b277aa11a327f27936ded95248d1c0145449a46ca"
       }
     },
-    "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
-      "bytes": 92100,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
-      }
-    },
     "examples/2-woven-basket-block3d/bmax/32/preview.png": {
       "sha256": "899a97c424ff2f2d9b2c7ec0de71a5331487927327ff44c41a0672371692d390",
       "bytes": 9591,
@@ -228,14 +140,6 @@
       "source": {
         "path": "2-woven-basket-block3d/bmax/32/preview-light.png",
         "sha256": "b401a40f14d184ea99e8307acfa887f65b56f9e9f4cad53a67c9829da87836f8"
-      }
-    },
-    "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
-      "bytes": 19891,
-      "source": {
-        "path": "2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
       }
     },
     "examples/2-woven-basket-block3d/bmax/16/preview.png": {
@@ -255,16 +159,16 @@
       }
     },
     "examples/2-woven-basket-block3d/model-info.json": {
-      "sha256": "3bdfc5ac974149a85b3353e661afdf96a99d16f75ddd61098ca17b01ae32ae8b",
-      "bytes": 4927
+      "sha256": "ed531d507a65ba9f5da51989448d4c6bb2158f937771875df20e5fd4ede464bd",
+      "bytes": 5743
     },
     "examples/2-woven-basket-block3d/README.md": {
-      "sha256": "d3bc121afdd1dfffe4f52513015a85a01ad2d2ef0dfee84e5235af6f5109a768",
-      "bytes": 2701
+      "sha256": "209b2d3fa1f83296d8fa8e726f324a974a2d1d791dd4e22e24a49019ee77b27a",
+      "bytes": 3734
     },
     "examples/2-woven-basket-block3d/README.zh-CN.md": {
-      "sha256": "3b6c224215ada5d1fde40b54cfb5243e3ce9872179276ab9cfd2bd6b3f7eb27c",
-      "bytes": 2689
+      "sha256": "09fe4e46f8ee49573a6ca799c8ffb415ce53cf906af7fc023adb9c7d6d35e192",
+      "bytes": 3701
     },
     "examples/3-billiards-single-file/main.code3d.js": {
       "sha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
@@ -290,38 +194,6 @@
         "sha256": "999ed58d061a4ac066bb6877fafaa7cd453e8f88a61d2fec5cc87b5082ea748e"
       }
     },
-    "examples/3-billiards-single-file/dist/models/main.glb": {
-      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675",
-      "bytes": 1121524,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.glb",
-        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/main.step": {
-      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1",
-      "bytes": 2539778,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.step",
-        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/main.bmax": {
-      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
-      "bytes": 173287,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/main.bmax",
-        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax": {
-      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
-      "bytes": 173287,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/64/main.bmax",
-        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
-      }
-    },
     "examples/3-billiards-single-file/bmax/64/preview.png": {
       "sha256": "320ec3aaaa3718754e786b5da4e39d20842f3a201ca434e6b68d087ea6c83cb1",
       "bytes": 11234,
@@ -338,14 +210,6 @@
         "sha256": "6cc957160cbfd9fdb49f151a91a0cdf3a633d6e43d5fae25c0d04c36444f5a4d"
       }
     },
-    "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax": {
-      "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
-      "bytes": 28644,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/32/main.bmax",
-        "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
-      }
-    },
     "examples/3-billiards-single-file/bmax/32/preview.png": {
       "sha256": "486cf1563537423cd204450890113aad44f52af69a19d02bcc20f073d4dafef3",
       "bytes": 12262,
@@ -360,14 +224,6 @@
       "source": {
         "path": "3-billiards-single-file/bmax/32/preview-light.png",
         "sha256": "b832680ab06f95bfb03769cdc40b2156386ca219c6f677ca99304400bf9ce34e"
-      }
-    },
-    "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax": {
-      "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
-      "bytes": 5589,
-      "source": {
-        "path": "3-billiards-single-file/dist/models/bmax/16/main.bmax",
-        "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
       }
     },
     "examples/3-billiards-single-file/bmax/16/preview.png": {
@@ -387,16 +243,16 @@
       }
     },
     "examples/3-billiards-single-file/model-info.json": {
-      "sha256": "84238696fbc432bdbee4cc8ccf805593fd5a91aa3bd5b296c9cefcd04f675424",
-      "bytes": 4936
+      "sha256": "6722b4c8197c808c27a35ad1df898f88d20f9f8ba0e0190c1989bc704c692db5",
+      "bytes": 5760
     },
     "examples/3-billiards-single-file/README.md": {
-      "sha256": "8b3c3bf424f9b1d4acb063847e443127d395222b3bb9b82fc8da1b813120cef6",
-      "bytes": 2747
+      "sha256": "ef10105d65c48a902050db997e4acf443636957fbe523ddad73e94223089e3f7",
+      "bytes": 3790
     },
     "examples/3-billiards-single-file/README.zh-CN.md": {
-      "sha256": "aed1edd49c57466d31f7d1561c620e43bcecd147459a8fe1b94586e5f0a34093",
-      "bytes": 2731
+      "sha256": "b21cd2e19d14f2a824d265ccf9c2a627774d5ac1f4713709324f4cfaf96991c8",
+      "bytes": 3753
     },
     "examples/4-coffee-cup-block3d/main.code3d.js": {
       "sha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
@@ -422,38 +278,6 @@
         "sha256": "3bc0d8b371d5ccbae546b6958fdc03f8089aa5622171da9715188db033294261"
       }
     },
-    "examples/4-coffee-cup-block3d/dist/models/main.glb": {
-      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926",
-      "bytes": 476664,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.glb",
-        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/main.step": {
-      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338",
-      "bytes": 162715,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.step",
-        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/main.bmax": {
-      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
-      "bytes": 279816,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/main.bmax",
-        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
-      "bytes": 279816,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
-      }
-    },
     "examples/4-coffee-cup-block3d/bmax/64/preview.png": {
       "sha256": "9d126ae35a62a609c23c1b9f5d8378ab656fb967047ab0314d5d10821c25a40e",
       "bytes": 12025,
@@ -470,14 +294,6 @@
         "sha256": "f813e6a2103407a2b83084c7a9c50c531a909dea0ec8379d5fcd42cca8c301ad"
       }
     },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
-      "bytes": 59488,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
-      }
-    },
     "examples/4-coffee-cup-block3d/bmax/32/preview.png": {
       "sha256": "d3435a8a89ca632e9c63d21e0eda928aa2d389d32bcccaeaeb2e7697bc125714",
       "bytes": 9792,
@@ -492,14 +308,6 @@
       "source": {
         "path": "4-coffee-cup-block3d/bmax/32/preview-light.png",
         "sha256": "9d772cf862e8ed353bd8c9cb972ebcb515db4b1ffac5a42ba970734097e31c68"
-      }
-    },
-    "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
-      "bytes": 11717,
-      "source": {
-        "path": "4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
       }
     },
     "examples/4-coffee-cup-block3d/bmax/16/preview.png": {
@@ -519,16 +327,16 @@
       }
     },
     "examples/4-coffee-cup-block3d/model-info.json": {
-      "sha256": "623c321e59452dc509dd1b03a8f3a9fe425e788ebeb6011e3281940d04d21957",
-      "bytes": 4958
+      "sha256": "10472c3563f53bffe8f258588dc2015dd9ba6c1a2d17c35482a55440f7144758",
+      "bytes": 5758
     },
     "examples/4-coffee-cup-block3d/README.md": {
-      "sha256": "cea269456b0b235aed91668e0489c9937272cbc55ccba3c8fbe28d890ae5cf2f",
-      "bytes": 2692
+      "sha256": "2281f2c3cec9d4e6272e540b2365ca2e9c4b9ec9956b0715974c95ef47950b74",
+      "bytes": 3705
     },
     "examples/4-coffee-cup-block3d/README.zh-CN.md": {
-      "sha256": "7d5ec90b719d152306ee18506c4e7b6a7f176a3e77a69ed10fce85c4ed1e9cd4",
-      "bytes": 2670
+      "sha256": "52724c5532ff20d6f3a572fce2d602f90b1540aca73806b2cf17221a91ef040f",
+      "bytes": 3662
     },
     "examples/5-round-bottom-wok/main.code3d.js": {
       "sha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
@@ -554,38 +362,6 @@
         "sha256": "84c566f872554d903da86e7afcfeca9bc968a051d840afee79cc254a8746b1bb"
       }
     },
-    "examples/5-round-bottom-wok/dist/models/main.glb": {
-      "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335",
-      "bytes": 704944,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.glb",
-        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/main.step": {
-      "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58",
-      "bytes": 486877,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.step",
-        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/main.bmax": {
-      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
-      "bytes": 57086,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/main.bmax",
-        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax": {
-      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
-      "bytes": 57086,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/64/main.bmax",
-        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
-      }
-    },
     "examples/5-round-bottom-wok/bmax/64/preview.png": {
       "sha256": "c20df8dc67912c5525b1791f4fc8ed80be477506038b6134c7a309c02c2dacae",
       "bytes": 10153,
@@ -602,14 +378,6 @@
         "sha256": "d2f53faea73e00e4de2af503248202eb704b652a33acfee5a5efccb58f2a6278"
       }
     },
-    "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax": {
-      "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
-      "bytes": 13078,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/32/main.bmax",
-        "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
-      }
-    },
     "examples/5-round-bottom-wok/bmax/32/preview.png": {
       "sha256": "a0213b5e90a655829f2fdc839ce24155c170062a310574f24e854a9ce0b4bc63",
       "bytes": 8829,
@@ -624,14 +392,6 @@
       "source": {
         "path": "5-round-bottom-wok/bmax/32/preview-light.png",
         "sha256": "fc0bb92c66a50046b6b64f135ae0dec4d5ca3eed9e59d6914723e5adf1c6b5da"
-      }
-    },
-    "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax": {
-      "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
-      "bytes": 3445,
-      "source": {
-        "path": "5-round-bottom-wok/dist/models/bmax/16/main.bmax",
-        "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
       }
     },
     "examples/5-round-bottom-wok/bmax/16/preview.png": {
@@ -651,16 +411,16 @@
       }
     },
     "examples/5-round-bottom-wok/model-info.json": {
-      "sha256": "b585d43de936f1bc6717f328bd59cb9af9e2d6aa7a0b63be23954cf7f2655c37",
-      "bytes": 4958
+      "sha256": "473a597c8f18fca1c10b72f59b295f7a850612e84b91fce1ad97b3f371aad149",
+      "bytes": 5742
     },
     "examples/5-round-bottom-wok/README.md": {
-      "sha256": "0409020ef9b54eee0709f666d96ffa69ba42dcd85e9f4e8cfbc5be03c87f5790",
-      "bytes": 2721
+      "sha256": "0e2d0d97ef3576ce0a1a6f9683e19260078df5b380f6d9c4d9fed36bd89e76ae",
+      "bytes": 3714
     },
     "examples/5-round-bottom-wok/README.zh-CN.md": {
-      "sha256": "5180d65ed910c354a478f6303e1a599d0ff032691a2b44655066f1c7d07d2b8a",
-      "bytes": 2697
+      "sha256": "5cad5293342a04f194c2ae3a23ee9b8e54c53ac2800dea95f3c58dd21c91129d",
+      "bytes": 3669
     },
     "examples/6-cast-iron-skillet/main.code3d.js": {
       "sha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2",
@@ -686,38 +446,6 @@
         "sha256": "df897f8c4a7014944d7473c7936a22ad3886c3f884f0003b4a8b21e4049c0c19"
       }
     },
-    "examples/6-cast-iron-skillet/dist/models/main.glb": {
-      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7",
-      "bytes": 106736,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.glb",
-        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/main.step": {
-      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72",
-      "bytes": 99667,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.step",
-        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/main.bmax": {
-      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
-      "bytes": 66045,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/main.bmax",
-        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax": {
-      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
-      "bytes": 66045,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
-        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
-      }
-    },
     "examples/6-cast-iron-skillet/bmax/64/preview.png": {
       "sha256": "311a8400d5153cffc344a5218cbbf3a777e7607274c0c07e3dc7121eb5a8ddb2",
       "bytes": 8885,
@@ -734,14 +462,6 @@
         "sha256": "3bed319119d969f1f014f2582630237855426c657543b9ab5e1c835bd82c37b0"
       }
     },
-    "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax": {
-      "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
-      "bytes": 13997,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
-        "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
-      }
-    },
     "examples/6-cast-iron-skillet/bmax/32/preview.png": {
       "sha256": "408aab5279d5c35f849a7a4b53cdb58691d85c8d53b59f98bc104492de98bcfb",
       "bytes": 7875,
@@ -756,14 +476,6 @@
       "source": {
         "path": "6-cast-iron-skillet/bmax/32/preview-light.png",
         "sha256": "8b0f6d961c32c2cc57d31af680d39e722d337dc827ed865c222bc1050dccf00a"
-      }
-    },
-    "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax": {
-      "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
-      "bytes": 3283,
-      "source": {
-        "path": "6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
-        "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
       }
     },
     "examples/6-cast-iron-skillet/bmax/16/preview.png": {
@@ -783,16 +495,16 @@
       }
     },
     "examples/6-cast-iron-skillet/model-info.json": {
-      "sha256": "46e402a9c81e6515585e73d957a1008c55335015c8d7b237b46780bd7bb3a946",
-      "bytes": 4955
+      "sha256": "016db69e7e5d85d22e88d3d8e104a5669bbaf7570b5ad8c79703127897b8750b",
+      "bytes": 5747
     },
     "examples/6-cast-iron-skillet/README.md": {
-      "sha256": "8c4a269370a04dc624e730637e8c9d40854233db6973bf8ae8cbba76f35f08e8",
-      "bytes": 2742
+      "sha256": "0533ed1b23ea75d475513a2687659ebca5e724ef4762f47fe0079e4f51706335",
+      "bytes": 3745
     },
     "examples/6-cast-iron-skillet/README.zh-CN.md": {
-      "sha256": "5fc48d02c8bb6e4c55e02ba9cea430cfbde8a4f90b21b2119476758b9c65ce3d",
-      "bytes": 2684
+      "sha256": "b87900dda96a734ea728faaf459c0da8c3ed4f8179a09c2eb2969505e1fbd335",
+      "bytes": 3666
     },
     "examples/7-lunar-rover-block3d/main.code3d.js": {
       "sha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6",
@@ -818,38 +530,6 @@
         "sha256": "2927225e8f61630380752fdf0dafc57687495b750ce9f2b9fc8e1b4559023d3f"
       }
     },
-    "examples/7-lunar-rover-block3d/dist/models/main.glb": {
-      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae",
-      "bytes": 1752028,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.glb",
-        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/main.step": {
-      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25",
-      "bytes": 975289,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.step",
-        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/main.bmax": {
-      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
-      "bytes": 172938,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/main.bmax",
-        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
-      "bytes": 172938,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
-      }
-    },
     "examples/7-lunar-rover-block3d/bmax/64/preview.png": {
       "sha256": "5acde812c3851004dc3b926de221cda38c6e43de573e7bb6285d7979de2ccecb",
       "bytes": 11727,
@@ -866,14 +546,6 @@
         "sha256": "f8c32bb7ca97458bedc2c55a1e654cd1a0ef29944b1f8c7132b7c3b5a5e1e929"
       }
     },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
-      "bytes": 36628,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
-      }
-    },
     "examples/7-lunar-rover-block3d/bmax/32/preview.png": {
       "sha256": "9b7de876feb12351742a94aef516f89f7c42bef2e747f603d5b6f286ae972755",
       "bytes": 10450,
@@ -888,14 +560,6 @@
       "source": {
         "path": "7-lunar-rover-block3d/bmax/32/preview-light.png",
         "sha256": "f9fb72863f741dc9807413f51ddeb1d6d2e531fde58cc879305fd8732fb5b26d"
-      }
-    },
-    "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
-      "bytes": 7355,
-      "source": {
-        "path": "7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
       }
     },
     "examples/7-lunar-rover-block3d/bmax/16/preview.png": {
@@ -915,16 +579,16 @@
       }
     },
     "examples/7-lunar-rover-block3d/model-info.json": {
-      "sha256": "6a59ec6926e70410698e6f3c87e8511f65923eb0904c117be70ae03afb54a0e5",
-      "bytes": 4960
+      "sha256": "af041ce820d45abb0907a81babcf135c90c85dd853727de74ada7de3ed701696",
+      "bytes": 5768
     },
     "examples/7-lunar-rover-block3d/README.md": {
-      "sha256": "f9d01f503a5bde89f348103d852ed232e35f29cafc7abb15f24a690d0120922b",
-      "bytes": 2719
+      "sha256": "00c3f2c1039447349973547f832314a5dcb0e6b1d006bdd63299adcd95fa426f",
+      "bytes": 3742
     },
     "examples/7-lunar-rover-block3d/README.zh-CN.md": {
-      "sha256": "ffcfe48d010fa2b2f10dd1d354341ebc5a9d8a15f6f93356bc7db679d225e2b1",
-      "bytes": 2684
+      "sha256": "48556fe3833e33a034d4deef19d365f902a2b28ecc3dd5f12f387952e2d943ba",
+      "bytes": 3686
     },
     "examples/8-microscope-block3d/main.code3d.js": {
       "sha256": "ecb5b32a2242540f016fbf6f33cc3252cf4f2b3d607d77f05d638fbfb4409aa9",
@@ -950,38 +614,6 @@
         "sha256": "17d1b6b7cf4f802fbf464b75fdad912ff6d5c53b3d618b3c7880790e6dcb86d6"
       }
     },
-    "examples/8-microscope-block3d/dist/models/main.glb": {
-      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344",
-      "bytes": 701944,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.glb",
-        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/main.step": {
-      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb",
-      "bytes": 1031969,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.step",
-        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/main.bmax": {
-      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
-      "bytes": 128008,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/main.bmax",
-        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
-      "bytes": 128008,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
-      }
-    },
     "examples/8-microscope-block3d/bmax/64/preview.png": {
       "sha256": "45b11354f2f78021c7e844c37c97e4a848ecd8762eb9583000e05546df3525fb",
       "bytes": 10719,
@@ -998,14 +630,6 @@
         "sha256": "6e268da7f0b2ea3aa06f0ffec882daad91a71191495d8e06ee832e803149f378"
       }
     },
-    "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
-      "bytes": 26697,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/32/main.bmax",
-        "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
-      }
-    },
     "examples/8-microscope-block3d/bmax/32/preview.png": {
       "sha256": "7e5003b3a457015cef9c07779ca927f38a7eb232be29db9336b94211ca712a7c",
       "bytes": 9723,
@@ -1020,14 +644,6 @@
       "source": {
         "path": "8-microscope-block3d/bmax/32/preview-light.png",
         "sha256": "194e8f062e73c8c602d67408a84b87196b6d55b82e0b1fe55bb7eb649b99f020"
-      }
-    },
-    "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
-      "bytes": 5413,
-      "source": {
-        "path": "8-microscope-block3d/dist/models/bmax/16/main.bmax",
-        "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
       }
     },
     "examples/8-microscope-block3d/bmax/16/preview.png": {
@@ -1047,16 +663,16 @@
       }
     },
     "examples/8-microscope-block3d/model-info.json": {
-      "sha256": "3c00f3f073e8e9fe39fe061981ff8a12c24fecf4e3ad5f7ab94a5e8df3f32a1e",
-      "bytes": 4952
+      "sha256": "7c606ddfcfd9f7af2d99c1ef8fcfba725c3b97e6d9fd3d2cf95c4e1e375d1e0b",
+      "bytes": 5752
     },
     "examples/8-microscope-block3d/README.md": {
-      "sha256": "69eefa83d883a79db2e83272cf2b18b441e4b1cc2d49923ea4b871e32ce3e44d",
-      "bytes": 2704
+      "sha256": "de0488c0fdbc0004f2d6274ae99cf3d1b282eefa9d537abfeb94d810b8c9c952",
+      "bytes": 3717
     },
     "examples/8-microscope-block3d/README.zh-CN.md": {
-      "sha256": "8af987eb14e051a75946cdaf2c51efae0aa59ff9ea109bcd735ebbb71d553aa4",
-      "bytes": 2674
+      "sha256": "0c7aaf881a0dc210d260712b300774509060ad942b41d936c0a6d235de977bb9",
+      "bytes": 3666
     },
     "examples/9-mario-kart-single-file/main.code3d.js": {
       "sha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6",
@@ -1082,38 +698,6 @@
         "sha256": "759db22bac474288159045199001b3e82f87edca03f28c9986b44dae06bb88e8"
       }
     },
-    "examples/9-mario-kart-single-file/dist/models/main.glb": {
-      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1",
-      "bytes": 11103072,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.glb",
-        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/main.step": {
-      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673",
-      "bytes": 12667800,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.step",
-        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/main.bmax": {
-      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
-      "bytes": 286777,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/main.bmax",
-        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax": {
-      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
-      "bytes": 286777,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
-        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
-      }
-    },
     "examples/9-mario-kart-single-file/bmax/64/preview.png": {
       "sha256": "afb8f1e061ae221b830a1b1ba3ccd5b57c3f8757d981f5704d139137ac177818",
       "bytes": 15989,
@@ -1130,14 +714,6 @@
         "sha256": "059ab2154b82874c5dfea0701cb21d549744997533cf65d61b3a104d5e8a03a4"
       }
     },
-    "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax": {
-      "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
-      "bytes": 56310,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
-        "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
-      }
-    },
     "examples/9-mario-kart-single-file/bmax/32/preview.png": {
       "sha256": "ecc0794284f59bf7ac8354af6333349dcc2488d10f0c56805cace1db6aa238f3",
       "bytes": 13039,
@@ -1152,14 +728,6 @@
       "source": {
         "path": "9-mario-kart-single-file/bmax/32/preview-light.png",
         "sha256": "2789a028428c471789ed10c4137e76dc4d3f977015b404060b7e1a6a5cc15204"
-      }
-    },
-    "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax": {
-      "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
-      "bytes": 10332,
-      "source": {
-        "path": "9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
-        "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
       }
     },
     "examples/9-mario-kart-single-file/bmax/16/preview.png": {
@@ -1179,16 +747,16 @@
       }
     },
     "examples/9-mario-kart-single-file/model-info.json": {
-      "sha256": "eca99c03b4700b06f6e5eea8db945c89e9b50e5eeb8afcdacf922bad10f93f1f",
-      "bytes": 4973
+      "sha256": "ee744d509ddde28edd07ab7a18c95041acf70158f3d9b23f4c7fb22bdaa42df0",
+      "bytes": 5805
     },
     "examples/9-mario-kart-single-file/README.md": {
-      "sha256": "1113662357c1e39258e169b303675e4f56008596955c7d887d673c467d4df76b",
-      "bytes": 2727
+      "sha256": "8b16777bc00fd7b8fc28c6126b2787907b8d302778dcf95def093adade9615d3",
+      "bytes": 3780
     },
     "examples/9-mario-kart-single-file/README.zh-CN.md": {
-      "sha256": "8c4aee811bbaadd198d64411e37bd0ee04dd6ed0438d8dfc01815b95db93c14a",
-      "bytes": 2763
+      "sha256": "d72367988a2885655c2f8d96cad238e42d23021d12cfbd7841e36a7c14cf2125",
+      "bytes": 3795
     },
     "examples/10-woven-bamboo-chair/main.code3d.js": {
       "sha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
@@ -1214,38 +782,6 @@
         "sha256": "ff33c5d9460323fd5ae2b0d345e80ce1da112986015f4b4a739236fceb8a6e9f"
       }
     },
-    "examples/10-woven-bamboo-chair/dist/models/main.glb": {
-      "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76",
-      "bytes": 399943968,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.glb",
-        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/main.step": {
-      "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f",
-      "bytes": 136674854,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.step",
-        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/main.bmax": {
-      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
-      "bytes": 110144,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/main.bmax",
-        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax": {
-      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
-      "bytes": 110144,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
-      }
-    },
     "examples/10-woven-bamboo-chair/bmax/64/preview.png": {
       "sha256": "9fb3c87019c4fc8cde655da8793bafdbf219bdab5fb9c77d88e19914a0189710",
       "bytes": 14588,
@@ -1262,14 +798,6 @@
         "sha256": "d715656837d47150e225ff0aef30f84b8faeaef999a9e99b5b47b19a24dfd27d"
       }
     },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax": {
-      "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
-      "bytes": 24444,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
-      }
-    },
     "examples/10-woven-bamboo-chair/bmax/32/preview.png": {
       "sha256": "4be17360c6e2877eb0bb8625e9d606b936ace447ecabd64eced6af3f692da305",
       "bytes": 12621,
@@ -1284,14 +812,6 @@
       "source": {
         "path": "10-woven-bamboo-chair/bmax/32/preview-light.png",
         "sha256": "c59247cb3c3393320940b07cf9dca20fd33fc6579850371c5d4fbf1dd67c60e9"
-      }
-    },
-    "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax": {
-      "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
-      "bytes": 5492,
-      "source": {
-        "path": "10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
       }
     },
     "examples/10-woven-bamboo-chair/bmax/16/preview.png": {
@@ -1311,16 +831,16 @@
       }
     },
     "examples/10-woven-bamboo-chair/model-info.json": {
-      "sha256": "ce6c7c6d0bf5971a465be8138c92207c611717cb84945ac0880b40e36405ea6e",
-      "bytes": 4965
+      "sha256": "1fd40bb06731067d5c89a892579c84f3139be1ee0e97b19928fd6c79b90ca0ef",
+      "bytes": 5773
     },
     "examples/10-woven-bamboo-chair/README.md": {
-      "sha256": "1821241652b0a50a86bc30f3712781dd435a5f3476754148e4d7f8c87d265076",
-      "bytes": 2783
+      "sha256": "d63ed39d4547ed76606f08cff7652472003ab7684d6b94df71c95e7c23db71dc",
+      "bytes": 3806
     },
     "examples/10-woven-bamboo-chair/README.zh-CN.md": {
-      "sha256": "52d064e7e49335f92c72b08d7fe6752a8cd75a816e9117214ab5d50406d4649c",
-      "bytes": 2730
+      "sha256": "7404c778bdbc06b905fa55bb59b6c811466286bba9205559e98fe95911d4ae15",
+      "bytes": 3732
     },
     "examples/11-spindle-back-chair/main.code3d.js": {
       "sha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900",
@@ -1346,38 +866,6 @@
         "sha256": "bb5e32ec131a136e29420b0f753b273d9b5c83a0b1535bfc635f3422e258ebe7"
       }
     },
-    "examples/11-spindle-back-chair/dist/models/main.glb": {
-      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618",
-      "bytes": 4947916,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.glb",
-        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/main.step": {
-      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692",
-      "bytes": 1114851,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.step",
-        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/main.bmax": {
-      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
-      "bytes": 89367,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/main.bmax",
-        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax": {
-      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
-      "bytes": 89367,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
-      }
-    },
     "examples/11-spindle-back-chair/bmax/64/preview.png": {
       "sha256": "a4d7a3dff5fcc11e3d8044d2ae32d80b2c3f54d79cfe5ef7671d4018aec23068",
       "bytes": 11701,
@@ -1394,14 +882,6 @@
         "sha256": "37ea8deec9faf7abab354f32d22d1d0955931d1ccab7080f403b791e9822ba4f"
       }
     },
-    "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax": {
-      "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
-      "bytes": 20851,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
-      }
-    },
     "examples/11-spindle-back-chair/bmax/32/preview.png": {
       "sha256": "d8fce2d68066520df8da6154171586e4f63c623e25e521a632b25c8da5f9ff56",
       "bytes": 9873,
@@ -1416,14 +896,6 @@
       "source": {
         "path": "11-spindle-back-chair/bmax/32/preview-light.png",
         "sha256": "bd04fea438426987b471cff076b43e821525f8e898b69e13ec53b90128056243"
-      }
-    },
-    "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax": {
-      "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
-      "bytes": 6116,
-      "source": {
-        "path": "11-spindle-back-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
       }
     },
     "examples/11-spindle-back-chair/bmax/16/preview.png": {
@@ -1443,16 +915,16 @@
       }
     },
     "examples/11-spindle-back-chair/model-info.json": {
-      "sha256": "e8bd53e3d14b94f52fb370925c10510afeb7e3aed2b4e1021925170095e51f26",
-      "bytes": 4934
+      "sha256": "b47d6fe85b39cd2c4539ae1d26865e5952851a80b76f76c3eab1be5bf515a408",
+      "bytes": 5742
     },
     "examples/11-spindle-back-chair/README.md": {
-      "sha256": "63cf2dc1f0e1180a27536e802391198f7ace013f3891654b4bc92e9f7b6d52f1",
-      "bytes": 2760
+      "sha256": "995191d4645834bbd146f6db6c15aac0a7ab29d89950a1a6d41574ad8e3147d2",
+      "bytes": 3783
     },
     "examples/11-spindle-back-chair/README.zh-CN.md": {
-      "sha256": "120b53480a10672e09cfba744b155d3e83eaa5f2101e6b437b9c621922d4daa7",
-      "bytes": 2739
+      "sha256": "257c65621d480cb205a764e2869b2a26d6949d7200aa3ff8a221235bc8475941",
+      "bytes": 3741
     },
     "examples/12-part3d-roundtrip/main.code3d.js": {
       "sha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
@@ -1478,38 +950,6 @@
         "sha256": "3a8600cf60f90e9d13a6b32bfff90ac98c4a9aff018bb65b09e61052bfafdbef"
       }
     },
-    "examples/12-part3d-roundtrip/dist/models/main.glb": {
-      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784",
-      "bytes": 239456,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.glb",
-        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/main.step": {
-      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8",
-      "bytes": 53234,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.step",
-        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/main.bmax": {
-      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
-      "bytes": 48025,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/main.bmax",
-        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax": {
-      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
-      "bytes": 48025,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
-        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
-      }
-    },
     "examples/12-part3d-roundtrip/bmax/64/preview.png": {
       "sha256": "c73394c990844ae19f8a3286f22e329fea23f21244116d5cea4be0ce764b40c5",
       "bytes": 6661,
@@ -1526,14 +966,6 @@
         "sha256": "f72770fc98ab435267393a5a601144dd1096db469b4459c46d0951e0080c9329"
       }
     },
-    "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax": {
-      "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
-      "bytes": 11126,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
-        "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
-      }
-    },
     "examples/12-part3d-roundtrip/bmax/32/preview.png": {
       "sha256": "e82885399f09c4a7a362f3e0df684ab155ffbca72fabe2d9e008c0f7af76c96d",
       "bytes": 5814,
@@ -1548,14 +980,6 @@
       "source": {
         "path": "12-part3d-roundtrip/bmax/32/preview-light.png",
         "sha256": "189fcaa03358f4b47f583dee2ad2a0f809724462fd9ec5a09d3c5b01a363e871"
-      }
-    },
-    "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax": {
-      "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
-      "bytes": 2764,
-      "source": {
-        "path": "12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
-        "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
       }
     },
     "examples/12-part3d-roundtrip/bmax/16/preview.png": {
@@ -1575,16 +999,16 @@
       }
     },
     "examples/12-part3d-roundtrip/model-info.json": {
-      "sha256": "a871a984f432708db1bc68bbe3a99510092ddbd303a158be2dbc928f7eaf103b",
-      "bytes": 4907
+      "sha256": "c316460bbc94b43fbe1054d944f2b9889be44d2282e3b681da19d23e8bab5951",
+      "bytes": 5699
     },
     "examples/12-part3d-roundtrip/README.md": {
-      "sha256": "dc181dd8a003d63205230c102d734290047bfcdba4da775fca3c706a904f0479",
-      "bytes": 2690
+      "sha256": "3256829c25fe27724aea981dc6c58daea108c8f9c484fb6143b150741adc9e04",
+      "bytes": 3693
     },
     "examples/12-part3d-roundtrip/README.zh-CN.md": {
-      "sha256": "8d209dbf198329aed3cf01fc2c8861a4a576ddc0512d04f2122288413f0d2b29",
-      "bytes": 2666
+      "sha256": "d5bed21d15dfebb6ad17a6a3d76e1f99fc057c8b52a5b6c0a255d154cdc1aad4",
+      "bytes": 3648
     },
     "examples/13-stepped-flange/main.code3d.js": {
       "sha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
@@ -1610,38 +1034,6 @@
         "sha256": "e452a2fcf82f2027c9bee8ca40a6fbadd22f8ac2efad350f71a809c8057ca0b2"
       }
     },
-    "examples/13-stepped-flange/dist/models/main.glb": {
-      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c",
-      "bytes": 137204,
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.glb",
-        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/main.step": {
-      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a",
-      "bytes": 81752,
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.step",
-        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/main.bmax": {
-      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
-      "bytes": 198475,
-      "source": {
-        "path": "13-stepped-flange/dist/models/main.bmax",
-        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/bmax/64/main.bmax": {
-      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
-      "bytes": 198475,
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/64/main.bmax",
-        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
-      }
-    },
     "examples/13-stepped-flange/bmax/64/preview.png": {
       "sha256": "d0ea977f3f2f19f98950282605e80c3ba2dcd91fca2208dd499ff889a20d29c6",
       "bytes": 6630,
@@ -1658,14 +1050,6 @@
         "sha256": "c7fb5df10de1b14dc0851eea4f4890eeb5a75e98e1b2f2f64d462d180eac436d"
       }
     },
-    "examples/13-stepped-flange/dist/models/bmax/32/main.bmax": {
-      "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
-      "bytes": 47433,
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/32/main.bmax",
-        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
-      }
-    },
     "examples/13-stepped-flange/bmax/32/preview.png": {
       "sha256": "a95e5f7cc0d878e0588cac3c5661991a4e73f7babf16bc6f64841bafe1535b8b",
       "bytes": 6435,
@@ -1680,14 +1064,6 @@
       "source": {
         "path": "13-stepped-flange/bmax/32/preview-light.png",
         "sha256": "2483a2a01c31bbedaee5b0eaa7fb941e4f4e8c4cdcb4306b9151fee4416f9a91"
-      }
-    },
-    "examples/13-stepped-flange/dist/models/bmax/16/main.bmax": {
-      "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
-      "bytes": 10111,
-      "source": {
-        "path": "13-stepped-flange/dist/models/bmax/16/main.bmax",
-        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
       }
     },
     "examples/13-stepped-flange/bmax/16/preview.png": {
@@ -1707,16 +1083,16 @@
       }
     },
     "examples/13-stepped-flange/model-info.json": {
-      "sha256": "be97997d66ae34b996e7823f8f0e532110e579f597a8047533374ac6d50f0038",
-      "bytes": 4921
+      "sha256": "69b5ac20a02ed04e4e4135730afe6a92b2b05bfb7f6a75a9414b820c19af644d",
+      "bytes": 5697
     },
     "examples/13-stepped-flange/README.md": {
-      "sha256": "be587db14b12e84dee6fdd8f641ae9f8cc0473054980db70d14cfb4f23907b15",
-      "bytes": 2721
+      "sha256": "6eee1dc24907371bff902dbe4755e3c322469ca51f095bfdb552ae0d046d5538",
+      "bytes": 3704
     },
     "examples/13-stepped-flange/README.zh-CN.md": {
-      "sha256": "f7bfdaedab0fd52308a3bbe07fa67fb778c9758c775ec0b22c410357dbd81bcb",
-      "bytes": 2704
+      "sha256": "92e910a40313cbb2602b3960f9be7bc8673913b93c8517e486fe2ae4d973f1e3",
+      "bytes": 3666
     },
     "examples/14-bearing-housing-part3d/main.code3d.js": {
       "sha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
@@ -1742,38 +1118,6 @@
         "sha256": "18fe6a4a3203a39bf4ae9b9ea7606f18b3be0fd27a8ce36cdce6d832b9b1e2b7"
       }
     },
-    "examples/14-bearing-housing-part3d/dist/models/main.glb": {
-      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739",
-      "bytes": 142536,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.glb",
-        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/main.step": {
-      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0",
-      "bytes": 208780,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.step",
-        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/main.bmax": {
-      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
-      "bytes": 183943,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/main.bmax",
-        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
-      "bytes": 183943,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
-      }
-    },
     "examples/14-bearing-housing-part3d/bmax/64/preview.png": {
       "sha256": "d6898302acc4f623f444e85fe5f9556c0b1646a4d05e641cbae87cd47a2dda45",
       "bytes": 9922,
@@ -1790,14 +1134,6 @@
         "sha256": "d87d27b2b2e02c4988ad3e94f2240151fc58884aa0dba6446dab9ed0d2b97c19"
       }
     },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
-      "bytes": 41858,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
-      }
-    },
     "examples/14-bearing-housing-part3d/bmax/32/preview.png": {
       "sha256": "6894bb0f0594b50390e70b4ce5f4e37d607a0b7ef26d0b8b12cf39fa38b78c83",
       "bytes": 8707,
@@ -1812,14 +1148,6 @@
       "source": {
         "path": "14-bearing-housing-part3d/bmax/32/preview-light.png",
         "sha256": "165b17fd8a6a7b480d1bd9e0902338001c4914d17f391d3665dacf8a6f47f21d"
-      }
-    },
-    "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
-      "bytes": 8801,
-      "source": {
-        "path": "14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
       }
     },
     "examples/14-bearing-housing-part3d/bmax/16/preview.png": {
@@ -1839,16 +1167,16 @@
       }
     },
     "examples/14-bearing-housing-part3d/model-info.json": {
-      "sha256": "514b0eee0fe95ddc5a66ce5037a34a00a7381eecaea715a8036f151ef4383c2a",
-      "bytes": 4922
+      "sha256": "3ae995864c9da38ad8f06620f9363399fe4f596e761a902b9fe53cfd3ccb8bf2",
+      "bytes": 5762
     },
     "examples/14-bearing-housing-part3d/README.md": {
-      "sha256": "18bf6d3759cd39a4d08ef4408a6074bc45e9970330a162202d4ea4340b1819d3",
-      "bytes": 2735
+      "sha256": "003ffb6d4d2d088b43d1b8ba53675473abc8ef809f795687bf56ae061fc32d6a",
+      "bytes": 3798
     },
     "examples/14-bearing-housing-part3d/README.zh-CN.md": {
-      "sha256": "aae5e769c82df3dd8070851cb29137c7f7ceeae8de8f367ef375652758978e33",
-      "bytes": 2678
+      "sha256": "2a3e168d63ef23d63c6f762a721fca4001b5c1940f7b513865cfedf63d98c303",
+      "bytes": 3720
     },
     "examples/15-high-speed-shaft-part3d/main.code3d.js": {
       "sha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
@@ -1874,38 +1202,6 @@
         "sha256": "ba46b9880969527dde44e200b34742c9ee224a11a27e9c4b8ab959e4274842cd"
       }
     },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.glb": {
-      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583",
-      "bytes": 79748,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.glb",
-        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.step": {
-      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871",
-      "bytes": 143142,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.step",
-        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/main.bmax": {
-      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
-      "bytes": 55370,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/main.bmax",
-        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
-      "bytes": 55370,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
-      }
-    },
     "examples/15-high-speed-shaft-part3d/bmax/64/preview.png": {
       "sha256": "cafe03ae283a9c4d84390d5b9b8514384a759c30d37f489e74553364c349dc2b",
       "bytes": 6222,
@@ -1922,14 +1218,6 @@
         "sha256": "4409a80375073a2f75af16455728542653c14b72817e87394e65a15afc1f9c9b"
       }
     },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
-      "bytes": 13805,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
-      }
-    },
     "examples/15-high-speed-shaft-part3d/bmax/32/preview.png": {
       "sha256": "5c1ed21cad84d2e1bc40689eca7ebed27e27dc0b48a97237518c240b8e0064b9",
       "bytes": 6044,
@@ -1944,14 +1232,6 @@
       "source": {
         "path": "15-high-speed-shaft-part3d/bmax/32/preview-light.png",
         "sha256": "3b194faf3edad90a459190d86e0b25bf6a4a1c9f15a7ff5b54ec038699d6cecd"
-      }
-    },
-    "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
-      "bytes": 3313,
-      "source": {
-        "path": "15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
       }
     },
     "examples/15-high-speed-shaft-part3d/bmax/16/preview.png": {
@@ -1971,16 +1251,16 @@
       }
     },
     "examples/15-high-speed-shaft-part3d/model-info.json": {
-      "sha256": "0093b98dde0bc1cc38836f13963568cd20b303b124e3e2f0fda8b893c143e640",
-      "bytes": 4912
+      "sha256": "818616117505aee6688ec12cdf5137ecedcdfd55f876ea33aba147ef19312d49",
+      "bytes": 5760
     },
     "examples/15-high-speed-shaft-part3d/README.md": {
-      "sha256": "ebaf0219847a8fc170e37d0d0d095cac9d5cae248d096b25d7588adfc332eba4",
-      "bytes": 2728
+      "sha256": "5bae6ba0f580f0467ac44bb65e0028b1d3469747e4f7122d683dc834a353758c",
+      "bytes": 3801
     },
     "examples/15-high-speed-shaft-part3d/README.zh-CN.md": {
-      "sha256": "e2beb799044806c0d7deade03e52007cba7b785819f7eebdcc498b6b79c416d0",
-      "bytes": 2667
+      "sha256": "61dac0030f8f20d992ae360e845799126d180e88f42344b397af6dbe344a5938",
+      "bytes": 3719
     },
     "examples/16-housing-part3d/main.code3d.js": {
       "sha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
@@ -2006,38 +1286,6 @@
         "sha256": "129a05198ac842f7c46edb344f465794ef3da87f82686b331c84e823ac272ed8"
       }
     },
-    "examples/16-housing-part3d/dist/models/main.glb": {
-      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff",
-      "bytes": 134584,
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.glb",
-        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/main.step": {
-      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef",
-      "bytes": 91099,
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.step",
-        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/main.bmax": {
-      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
-      "bytes": 440055,
-      "source": {
-        "path": "16-housing-part3d/dist/models/main.bmax",
-        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/bmax/64/main.bmax": {
-      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
-      "bytes": 440055,
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/64/main.bmax",
-        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
-      }
-    },
     "examples/16-housing-part3d/bmax/64/preview.png": {
       "sha256": "375cfd21bfbeff6c4f4e48b26072947ca0b919672d6e7927027f2748b51c9e60",
       "bytes": 7191,
@@ -2054,14 +1302,6 @@
         "sha256": "f71119d9612cfee1c897ea809e93779266e5b0e047ea28c37d3e25b6fc3acc69"
       }
     },
-    "examples/16-housing-part3d/dist/models/bmax/32/main.bmax": {
-      "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
-      "bytes": 96078,
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/32/main.bmax",
-        "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
-      }
-    },
     "examples/16-housing-part3d/bmax/32/preview.png": {
       "sha256": "4a28ccb33ee31534bcb1a014a063a84166fea4dcee4d6d8e47fe632533272ba5",
       "bytes": 6594,
@@ -2076,14 +1316,6 @@
       "source": {
         "path": "16-housing-part3d/bmax/32/preview-light.png",
         "sha256": "f65a0f745ef80f3b29cdc45f18a8b9300d1564f51d243d4c5e9351cac0f098f1"
-      }
-    },
-    "examples/16-housing-part3d/dist/models/bmax/16/main.bmax": {
-      "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
-      "bytes": 20747,
-      "source": {
-        "path": "16-housing-part3d/dist/models/bmax/16/main.bmax",
-        "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
       }
     },
     "examples/16-housing-part3d/bmax/16/preview.png": {
@@ -2103,16 +1335,16 @@
       }
     },
     "examples/16-housing-part3d/model-info.json": {
-      "sha256": "c3ffc3b81ae3e107e27a5fc23b1b5f711319aaa59a62ca953bd974f7675ada90",
-      "bytes": 4932
+      "sha256": "7913aa48c72e3d2a56489dd75a9d70f9d256d1b67ebaeb9241e4c6f8ad7133fd",
+      "bytes": 5708
     },
     "examples/16-housing-part3d/README.md": {
-      "sha256": "15b8bb8593c89989bc979052bdcd8cde56d7abd816d969be550f6a74d59201ea",
-      "bytes": 2751
+      "sha256": "5004afb468bd51e14cc7254f44f448e30c45099945c8a0b16823ba91fcdaf47c",
+      "bytes": 3734
     },
     "examples/16-housing-part3d/README.zh-CN.md": {
-      "sha256": "e34433ee845e12531bb8de33b62f21ed83d07f339e82906a8fc7687910065304",
-      "bytes": 2683
+      "sha256": "59d6aaef9c0570abe3ee646b3bbe35ea45f420d0e20d86130e488007302dad6e",
+      "bytes": 3645
     },
     "examples/17-stirling-d16-c/main.code3d.js": {
       "sha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051",
@@ -2138,38 +1370,6 @@
         "sha256": "da4f528067eeeba967c289e94b6b4533d3bd3193e737d75cba63ea8c27d69fde"
       }
     },
-    "examples/17-stirling-d16-c/dist/models/main.glb": {
-      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534",
-      "bytes": 4342240,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.glb",
-        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/main.step": {
-      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f",
-      "bytes": 11652444,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.step",
-        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/main.bmax": {
-      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
-      "bytes": 440173,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/main.bmax",
-        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax": {
-      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
-      "bytes": 440173,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/64/main.bmax",
-        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
-      }
-    },
     "examples/17-stirling-d16-c/bmax/64/preview.png": {
       "sha256": "3a1c5b5ef0916eb461cf9b8fa41ec055551b51ab11d481d929e95d53a4c9b77c",
       "bytes": 13973,
@@ -2186,14 +1386,6 @@
         "sha256": "c4936840de3eda4b7f43233088ab11bdd55e388ee40dad17dbfaa5a8f957175f"
       }
     },
-    "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax": {
-      "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
-      "bytes": 94312,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/32/main.bmax",
-        "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
-      }
-    },
     "examples/17-stirling-d16-c/bmax/32/preview.png": {
       "sha256": "1bcb664def74dc51d8ea7f887c6b27d625ee3dc28be2fd20455ffc9bd772c926",
       "bytes": 12737,
@@ -2208,14 +1400,6 @@
       "source": {
         "path": "17-stirling-d16-c/bmax/32/preview-light.png",
         "sha256": "1f0b0ad6ad1a927632aacb92522930c6baad2db0c758de56af77b2ae4ad229bf"
-      }
-    },
-    "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax": {
-      "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
-      "bytes": 16371,
-      "source": {
-        "path": "17-stirling-d16-c/dist/models/bmax/16/main.bmax",
-        "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
       }
     },
     "examples/17-stirling-d16-c/bmax/16/preview.png": {
@@ -2235,16 +1419,16 @@
       }
     },
     "examples/17-stirling-d16-c/model-info.json": {
-      "sha256": "4479a1cfa8935852d86e71ccf9c2339156f69b883acc5d596a0f4781636f4dc7",
-      "bytes": 4958
+      "sha256": "3ec88f3c4e3cf5355a13743b631c350048b09d31201227f7a4f7516215059d05",
+      "bytes": 5734
     },
     "examples/17-stirling-d16-c/README.md": {
-      "sha256": "ed6bfb2f96d909b680e01c4436bb7b31ec2f465d50b476d649b8357e3dbd3f98",
-      "bytes": 2826
+      "sha256": "1f103e5e3cdf629d0c4c312ca6d7fb280b76ee700cc71d5111d2287923f868ee",
+      "bytes": 3809
     },
     "examples/17-stirling-d16-c/README.zh-CN.md": {
-      "sha256": "23651c1bb05f052dc23518600f57d29114a0ec1d496e42e4e10451ede85be92f",
-      "bytes": 2795
+      "sha256": "99e961bf14b1c644215c10df6fd47d7caf559465ed96d4685452935640229de1",
+      "bytes": 3757
     },
     "examples/18-stirling-horizontal-quartz/main.code3d.js": {
       "sha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
@@ -2270,38 +1454,6 @@
         "sha256": "fd1899719228abb23fd9c410ab54e28305c73c844a306ac736bd09815d449aa2"
       }
     },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.glb": {
-      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d",
-      "bytes": 11924476,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.glb",
-        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.step": {
-      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae",
-      "bytes": 11427021,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.step",
-        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/main.bmax": {
-      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
-      "bytes": 226521,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/main.bmax",
-        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax": {
-      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
-      "bytes": 226521,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
-        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
-      }
-    },
     "examples/18-stirling-horizontal-quartz/bmax/64/preview.png": {
       "sha256": "a3000d79ffd783002dda551849229d4ee9b414fa7a6bedb798296bb5eac0a5a9",
       "bytes": 13053,
@@ -2318,14 +1470,6 @@
         "sha256": "cc144b290da7b624869ffae856045e0167e874d5fd5f5e991a7e245d25e156bb"
       }
     },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax": {
-      "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
-      "bytes": 40517,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
-        "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
-      }
-    },
     "examples/18-stirling-horizontal-quartz/bmax/32/preview.png": {
       "sha256": "3284c4be30285605e55c9d03319d38f6ce4841453ee219be07cb48e14b69dc78",
       "bytes": 12250,
@@ -2340,14 +1484,6 @@
       "source": {
         "path": "18-stirling-horizontal-quartz/bmax/32/preview-light.png",
         "sha256": "5c4472106b565bd51f96d7b6f5d5c4392b2c7c14b0dfed06aceab1a0ebe7bc08"
-      }
-    },
-    "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax": {
-      "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
-      "bytes": 9159,
-      "source": {
-        "path": "18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
-        "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
       }
     },
     "examples/18-stirling-horizontal-quartz/bmax/16/preview.png": {
@@ -2367,16 +1503,16 @@
       }
     },
     "examples/18-stirling-horizontal-quartz/model-info.json": {
-      "sha256": "5eb67f60d6968bcbb2441460e0cf1607ce76d2ca9a1910aa3cb52c0725ee0995",
-      "bytes": 4968
+      "sha256": "77a78693a47c10efd4e0ed4cc47c36f40e92d58ea15b8ba8824fb3c3037e12b0",
+      "bytes": 5840
     },
     "examples/18-stirling-horizontal-quartz/README.md": {
-      "sha256": "e1495fc5071b43758d524e312a91ceb69d850cc7203758b5dd015f66dc901364",
-      "bytes": 2821
+      "sha256": "13aac07441b663e46ecec38d3d5076f8975d7f347301290b93e35f05698e3f39",
+      "bytes": 3924
     },
     "examples/18-stirling-horizontal-quartz/README.zh-CN.md": {
-      "sha256": "d8c71436f111bdaa91b1540e9a88b109df3985c1cdf84dbdd9a553f4a570783f",
-      "bytes": 2845
+      "sha256": "f42c61b3bdecb3bff29a724797a95e74a3958427179b94eac3117b55c8ca7c4f",
+      "bytes": 3927
     },
     "examples/19-ge-e3-fan-module/main.code3d.js": {
       "sha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
@@ -2402,38 +1538,6 @@
         "sha256": "b13ee829b84a03939d97b9285b59702f34c4a3fc6e32416c58a672a8f710088c"
       }
     },
-    "examples/19-ge-e3-fan-module/dist/models/main.glb": {
-      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb",
-      "bytes": 47590720,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.glb",
-        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/main.step": {
-      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6",
-      "bytes": 75798858,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.step",
-        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/main.bmax": {
-      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
-      "bytes": 291830,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/main.bmax",
-        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax": {
-      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
-      "bytes": 291830,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
-        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
-      }
-    },
     "examples/19-ge-e3-fan-module/bmax/64/preview.png": {
       "sha256": "f0b9863306753eac0f5dc31e11abe47fdd5e80a0f9768219b9e35135c4ef06d4",
       "bytes": 18413,
@@ -2450,14 +1554,6 @@
         "sha256": "4fc11a5f3f82f7da4bee356b6531e014f14d62cea316dd49aaff28e3b2f21750"
       }
     },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax": {
-      "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
-      "bytes": 61320,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
-        "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
-      }
-    },
     "examples/19-ge-e3-fan-module/bmax/32/preview.png": {
       "sha256": "813f188162d3bf8ccf4b40128129e0e70f0b52455e6303d6da1a0f865b51ab43",
       "bytes": 12701,
@@ -2472,14 +1568,6 @@
       "source": {
         "path": "19-ge-e3-fan-module/bmax/32/preview-light.png",
         "sha256": "c2f802d7a612a2f3b1567348415694fae8f9557e5a22aec9818208f3c6345398"
-      }
-    },
-    "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax": {
-      "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
-      "bytes": 11982,
-      "source": {
-        "path": "19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
-        "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
       }
     },
     "examples/19-ge-e3-fan-module/bmax/16/preview.png": {
@@ -2499,16 +1587,16 @@
       }
     },
     "examples/19-ge-e3-fan-module/model-info.json": {
-      "sha256": "355b3bfaa452852da9976fa329cd28158533fe57ae1762dc3d07c7a0771227c6",
-      "bytes": 4965
+      "sha256": "a9803cd5478b0973aff54a3381df0af110fdf64dc318745dbfd3b21d2cc88679",
+      "bytes": 5757
     },
     "examples/19-ge-e3-fan-module/README.md": {
-      "sha256": "61ccb741936073eb125e863aeb84e247ca0a953476f1b3337891cfbc7da87a31",
-      "bytes": 2990
+      "sha256": "f1268f1731aa66560775e7c764b19519095a80d893229db9c5539d8e0ea2cde0",
+      "bytes": 3993
     },
     "examples/19-ge-e3-fan-module/README.zh-CN.md": {
-      "sha256": "db98eb9c330bfc8139d767c1aa4685a087572fd9bfa398836dd0358c7e695155",
-      "bytes": 2967
+      "sha256": "7436f6baba215dc0df1f1274259ab281ca92e29cb2dc1e59ce998635e33208eb",
+      "bytes": 3949
     },
     "examples/20-cargo-atv/main.code3d.js": {
       "sha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb",
@@ -2534,38 +1622,6 @@
         "sha256": "36093b60fae818db948c5789183077d2bdf4fe201dfca3e710c858eebfa9336f"
       }
     },
-    "examples/20-cargo-atv/dist/models/main.glb": {
-      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007",
-      "bytes": 28726572,
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.glb",
-        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/main.step": {
-      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a",
-      "bytes": 19200086,
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.step",
-        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/main.bmax": {
-      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
-      "bytes": 450562,
-      "source": {
-        "path": "20-cargo-atv/dist/models/main.bmax",
-        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/bmax/64/main.bmax": {
-      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
-      "bytes": 450562,
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/64/main.bmax",
-        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
-      }
-    },
     "examples/20-cargo-atv/bmax/64/preview.png": {
       "sha256": "483a31ad8294c701425b21260ab720fa1d6c9bdef717b78e9b0d0a30e4820596",
       "bytes": 20403,
@@ -2582,14 +1638,6 @@
         "sha256": "fbbad00f8a0e4c7494f634009fab400fe1e2b55fa7d4917877409065f1c32ad7"
       }
     },
-    "examples/20-cargo-atv/dist/models/bmax/32/main.bmax": {
-      "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
-      "bytes": 88160,
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/32/main.bmax",
-        "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
-      }
-    },
     "examples/20-cargo-atv/bmax/32/preview.png": {
       "sha256": "e29a8e7bdbe57a60fe9c074c6b3a591b7c00af24185f38367228e6ea44dc92a5",
       "bytes": 15774,
@@ -2604,14 +1652,6 @@
       "source": {
         "path": "20-cargo-atv/bmax/32/preview-light.png",
         "sha256": "fae6d1ba470ecaa55bf200eb2724513c474a87465aad00ffd6017d47b296507c"
-      }
-    },
-    "examples/20-cargo-atv/dist/models/bmax/16/main.bmax": {
-      "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
-      "bytes": 16947,
-      "source": {
-        "path": "20-cargo-atv/dist/models/bmax/16/main.bmax",
-        "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
       }
     },
     "examples/20-cargo-atv/bmax/16/preview.png": {
@@ -2787,16 +1827,16 @@
       "bytes": 1662
     },
     "examples/20-cargo-atv/model-info.json": {
-      "sha256": "e37a22932e79b96200845d278502900a2e17c79646bdac5c3099b1350f2a1bfc",
-      "bytes": 8317
+      "sha256": "e7a348cace29d89afb7eb997552f9de1908d2b1fc75b116cdd29559281aa0b72",
+      "bytes": 9053
     },
     "examples/20-cargo-atv/README.md": {
-      "sha256": "a4a099d590529fe014081e22b38379f83745facb22c8358277f1a51354279cb3",
-      "bytes": 2826
+      "sha256": "7a4a1c5edc3658872873ba6975ad1ee110b1d696f4a8067123b54ab310cef054",
+      "bytes": 3759
     },
     "examples/20-cargo-atv/README.zh-CN.md": {
-      "sha256": "63d4806513285f005adf6cc8df67f465de7c811562a75d50b41f50637058d58f",
-      "bytes": 2832
+      "sha256": "5e0c7f888dbfefc726779a30f2e5ba91fe1babb875fb52b68003abc4d4a3a95b",
+      "bytes": 3744
     },
     "examples/21-baltsar-chair/main.code3d.js": {
       "sha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
@@ -2822,38 +1862,6 @@
         "sha256": "f3daab19587c93e17f8cac6bd7d1a294683f35ba5933a39af6dc78099f4f302a"
       }
     },
-    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb": {
-      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f",
-      "bytes": 9766148,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.glb",
-        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step": {
-      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6",
-      "bytes": 1277682,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.step",
-        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/main.bmax": {
-      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
-      "bytes": 199687,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/main.bmax",
-        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax": {
-      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
-      "bytes": 199687,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/64/main.bmax",
-        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
-      }
-    },
     "examples/21-baltsar-chair/bmax/64/preview.png": {
       "sha256": "7909528533c0bf9c962a1c1f88c1dd30712ed1d0b24c14d01dc33d7cc05ab0be",
       "bytes": 12982,
@@ -2870,14 +1878,6 @@
         "sha256": "7e75ab785c1ae1ad7ec020a46cb87672c4c08827ef4c72cf3ee7e11588a20057"
       }
     },
-    "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax": {
-      "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
-      "bytes": 35362,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/32/main.bmax",
-        "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
-      }
-    },
     "examples/21-baltsar-chair/bmax/32/preview.png": {
       "sha256": "b5bf56b26b29e6d56c0dc22dcbf8909ab243a7233af1d79fcd2de30e54b69043",
       "bytes": 11956,
@@ -2892,14 +1892,6 @@
       "source": {
         "path": "21-baltsar-chair/bmax/32/preview-light.png",
         "sha256": "35df38e0124b1d7d1c7615c486cc0b226cb3e9b2da6d584f2f8f71a0485d6735"
-      }
-    },
-    "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax": {
-      "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
-      "bytes": 7381,
-      "source": {
-        "path": "21-baltsar-chair/dist/models/bmax/16/main.bmax",
-        "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
       }
     },
     "examples/21-baltsar-chair/bmax/16/preview.png": {
@@ -3100,32 +2092,1802 @@
       }
     },
     "examples/21-baltsar-chair/model-info.json": {
-      "sha256": "bcec93d8cb7490703fd9eb4c8465637ab6199969b812f71a60fd7dd1b6789575",
-      "bytes": 8314
+      "sha256": "419ed50dba13cfddeab3b8117db69c857643ae616afba2600014e87858bd0b51",
+      "bytes": 9058
     },
     "examples/21-baltsar-chair/README.md": {
-      "sha256": "e41fcce9f14155bac262eaaa57d272a433cb1e16de72295c3e171adc992d82dd",
-      "bytes": 3702
+      "sha256": "5c4b26dccee67fd9e0bbf77b87dcddee2f64912af4eae251982f7407ca995ca9",
+      "bytes": 4627
     },
     "examples/21-baltsar-chair/README.zh-CN.md": {
-      "sha256": "73bc31a96ba2ae97999249abbf9aeeb612bbe7745804c01f8c898bf10d86c2ad",
-      "bytes": 3697
+      "sha256": "85e52e711aff62952694ab2ecedd4184f693366ff3c4bafbf309c2e992f9ee2d",
+      "bytes": 4601
     },
     "README.md": {
-      "sha256": "0eb69688983045daf598c4e0831ce6001f249fc81b8d6703935d8ffcb1269e07",
-      "bytes": 50139
+      "sha256": "7fa6f4e8cd21b9256069d17b7bacd82f36532b10ea0f4b981c05c763f9944c53",
+      "bytes": 57299
     },
     "README.zh-CN.md": {
-      "sha256": "7e3eab2a9f63e20032d1cf6bb693958b036e955c1b9c287c69f612249e3cefc2",
-      "bytes": 49958
+      "sha256": "91f1ec681f69abe71d08dda06984f031b8e0c0f9686690efbc9936d9edcf2e45",
+      "bytes": 57154
     },
     ".gitattributes": {
-      "sha256": "26a04a9b44821a12e14be2558ea3402e0b751b157c243e2b50b681015e1392ef",
-      "bytes": 200
+      "sha256": "308a40fa1d89ae5ea4390b4c9b46a0108b09f171f07898f25d451fa0c69c4e9f",
+      "bytes": 72
     },
     "catalog.json": {
-      "sha256": "dbd328a4f1ee791f2b0ee9c9c099858bac003b0f6a3e555159e74c68473b79fe",
-      "bytes": 81403
+      "sha256": "d56cb4869ee420fc267e81f7f88c5ebbc8ba3959813cb5d2c8793ce35aa4a783",
+      "bytes": 93139
+    },
+    ".gitignore": {
+      "bytes": 2622,
+      "sha256": "938afe21c8c02730c74a0322c47458e6c2dd38c58ff38816bfd4adea6fbc9c05"
+    }
+  },
+  "attachments": {
+    "examples/1-boolean-cutout/dist/models/main.glb": {
+      "name": "1-boolean-cutout.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
+      "bytes": 80060,
+      "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.glb",
+        "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.step": {
+      "name": "1-boolean-cutout.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.step",
+      "bytes": 55774,
+      "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.step",
+        "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/main.bmax": {
+      "name": "1-boolean-cutout-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
+      "bytes": 545506,
+      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/main.bmax",
+        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/64/main.bmax": {
+      "name": "1-boolean-cutout-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
+      "bytes": 545506,
+      "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/64/main.bmax",
+        "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/32/main.bmax": {
+      "name": "1-boolean-cutout-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-32.bmax",
+      "bytes": 123684,
+      "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/32/main.bmax",
+        "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/bmax/16/main.bmax": {
+      "name": "1-boolean-cutout-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-16.bmax",
+      "bytes": 23891,
+      "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/bmax/16/main.bmax",
+        "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.glb": {
+      "name": "2-woven-basket-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.glb",
+      "bytes": 1707972,
+      "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.glb",
+        "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.step": {
+      "name": "2-woven-basket-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.step",
+      "bytes": 4145131,
+      "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.step",
+        "sha256": "15cb8ca0b76222f75355c2340c4524553e326bb37ed29b6904aade6eda5f055e"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
+      "bytes": 476722,
+      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/main.bmax",
+        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-64.bmax",
+      "bytes": 476722,
+      "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "2b13d4b4db5227329756e355dca91ab13957acc88ec11ffdce321c0ce4ba9559"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-32.bmax",
+      "bytes": 92100,
+      "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "78f694a838e15f7d960f928b76ed41c34fc3c4ee0b78a60b33d6576c1dea400d"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "2-woven-basket-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d-bmax-16.bmax",
+      "bytes": 19891,
+      "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "df61d75c6f8e520e89c2432e2b38bb1e6167096e9d9014d660ffd373ec4785d9"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.glb": {
+      "name": "3-billiards-single-file.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
+      "bytes": 1121524,
+      "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.glb",
+        "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.step": {
+      "name": "3-billiards-single-file.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.step",
+      "bytes": 2539778,
+      "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.step",
+        "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/main.bmax": {
+      "name": "3-billiards-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
+      "bytes": 173287,
+      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/main.bmax",
+        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/64/main.bmax": {
+      "name": "3-billiards-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
+      "bytes": 173287,
+      "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/64/main.bmax",
+        "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/32/main.bmax": {
+      "name": "3-billiards-single-file-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-32.bmax",
+      "bytes": 28644,
+      "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/32/main.bmax",
+        "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/bmax/16/main.bmax": {
+      "name": "3-billiards-single-file-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-16.bmax",
+      "bytes": 5589,
+      "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/bmax/16/main.bmax",
+        "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.glb": {
+      "name": "4-coffee-cup-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
+      "bytes": 476664,
+      "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.glb",
+        "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.step": {
+      "name": "4-coffee-cup-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.step",
+      "bytes": 162715,
+      "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.step",
+        "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
+      "bytes": 279816,
+      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/main.bmax",
+        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
+      "bytes": 279816,
+      "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-32.bmax",
+      "bytes": 59488,
+      "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "4-coffee-cup-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-16.bmax",
+      "bytes": 11717,
+      "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.glb": {
+      "name": "5-round-bottom-wok.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
+      "bytes": 704944,
+      "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.glb",
+        "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.step": {
+      "name": "5-round-bottom-wok.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.step",
+      "bytes": 486877,
+      "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.step",
+        "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
+      "bytes": 57086,
+      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/main.bmax",
+        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/64/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
+      "bytes": 57086,
+      "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/64/main.bmax",
+        "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/32/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-32.bmax",
+      "bytes": 13078,
+      "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/32/main.bmax",
+        "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/bmax/16/main.bmax": {
+      "name": "5-round-bottom-wok-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-16.bmax",
+      "bytes": 3445,
+      "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/bmax/16/main.bmax",
+        "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.glb": {
+      "name": "6-cast-iron-skillet.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
+      "bytes": 106736,
+      "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.glb",
+        "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.step": {
+      "name": "6-cast-iron-skillet.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.step",
+      "bytes": 99667,
+      "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.step",
+        "sha256": "e99d8cec3459bdd89ae89c1f7ea74781f842148da2801781982449fca91acc72"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
+      "bytes": 66045,
+      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/main.bmax",
+        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/64/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-64.bmax",
+      "bytes": 66045,
+      "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/64/main.bmax",
+        "sha256": "a754d6611ad4f4945f2fb40e6fd7c642861d5d0fa1715245657e7494a265751a"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/32/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-32.bmax",
+      "bytes": 13997,
+      "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/32/main.bmax",
+        "sha256": "2294bd1ebc75de5d098079924891219672557fbf040a10b1a2a3fc3b6bf614f2"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/bmax/16/main.bmax": {
+      "name": "6-cast-iron-skillet-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet-bmax-16.bmax",
+      "bytes": 3283,
+      "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/bmax/16/main.bmax",
+        "sha256": "8d4fb854e9d092447e4c9a1cab7307ecad31c9439fe4b99d8870c1d3f5f9441a"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.glb": {
+      "name": "7-lunar-rover-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
+      "bytes": 1752028,
+      "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.glb",
+        "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.step": {
+      "name": "7-lunar-rover-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step",
+      "bytes": 975289,
+      "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.step",
+        "sha256": "15a0a5f9a337d30e7cc83e49d67f61c7b2ddf7e9d725bca3e73b76694e9f9a25"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
+      "bytes": 172938,
+      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/main.bmax",
+        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax",
+      "bytes": 172938,
+      "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "9a2c2b833a31d7fabc4189b0b94afd2a1b7a5c99440d02c7ab293423dfc84cf1"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax",
+      "bytes": 36628,
+      "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "6c88e5f41fc01de82282a0df527ae01d7dbc3e6e555c373db0b24c069e2c26a6"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "7-lunar-rover-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax",
+      "bytes": 7355,
+      "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "baf24437a15ed42b4e76801170be3a6c901ca6b2edd9efe7d30c017b7c108c50"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.glb": {
+      "name": "8-microscope-block3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.glb",
+      "bytes": 701944,
+      "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.glb",
+        "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.step": {
+      "name": "8-microscope-block3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.step",
+      "bytes": 1031969,
+      "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.step",
+        "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/main.bmax": {
+      "name": "8-microscope-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
+      "bytes": 128008,
+      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/main.bmax",
+        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/64/main.bmax": {
+      "name": "8-microscope-block3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
+      "bytes": 128008,
+      "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/32/main.bmax": {
+      "name": "8-microscope-block3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-32.bmax",
+      "bytes": 26697,
+      "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/32/main.bmax",
+        "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/bmax/16/main.bmax": {
+      "name": "8-microscope-block3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-16.bmax",
+      "bytes": 5413,
+      "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/bmax/16/main.bmax",
+        "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.glb": {
+      "name": "9-mario-kart-single-file.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
+      "bytes": 11103072,
+      "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.glb",
+        "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.step": {
+      "name": "9-mario-kart-single-file.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.step",
+      "bytes": 12667800,
+      "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.step",
+        "sha256": "edb15fcccd2d0b9f0cc0f070ac40e6eca23be5e2d3d815a0d2845fc0a3104673"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
+      "bytes": 286777,
+      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/main.bmax",
+        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/64/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-64.bmax",
+      "bytes": 286777,
+      "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/64/main.bmax",
+        "sha256": "c416e9bc4be85cb8273381c633fdb296002689393e41598076dd6930c8ee8c48"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/32/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-32.bmax",
+      "bytes": 56310,
+      "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/32/main.bmax",
+        "sha256": "875363a55b05986e21b7df5f3f4849dccd11c3d33656041a75e25bc3f89db2c7"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/bmax/16/main.bmax": {
+      "name": "9-mario-kart-single-file-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file-bmax-16.bmax",
+      "bytes": 10332,
+      "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/bmax/16/main.bmax",
+        "sha256": "af909474044f0222617da7f469611dd16a1c580e01da29697558f2d53e5c4bce"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.glb": {
+      "name": "10-woven-bamboo-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
+      "bytes": 399943968,
+      "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.glb",
+        "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.step": {
+      "name": "10-woven-bamboo-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.step",
+      "bytes": 136674854,
+      "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.step",
+        "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
+      "bytes": 110144,
+      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/main.bmax",
+        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/64/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
+      "bytes": 110144,
+      "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/32/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-32.bmax",
+      "bytes": 24444,
+      "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/bmax/16/main.bmax": {
+      "name": "10-woven-bamboo-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-16.bmax",
+      "bytes": 5492,
+      "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.glb": {
+      "name": "11-spindle-back-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
+      "bytes": 4947916,
+      "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.glb",
+        "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.step": {
+      "name": "11-spindle-back-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step",
+      "bytes": 1114851,
+      "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.step",
+        "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
+      "bytes": 89367,
+      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/main.bmax",
+        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/64/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
+      "bytes": 89367,
+      "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/32/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax",
+      "bytes": 20851,
+      "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/bmax/16/main.bmax": {
+      "name": "11-spindle-back-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax",
+      "bytes": 6116,
+      "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.glb": {
+      "name": "12-part3d-roundtrip.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
+      "bytes": 239456,
+      "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.glb",
+        "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.step": {
+      "name": "12-part3d-roundtrip.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.step",
+      "bytes": 53234,
+      "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.step",
+        "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
+      "bytes": 48025,
+      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/main.bmax",
+        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/64/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
+      "bytes": 48025,
+      "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/64/main.bmax",
+        "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/32/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-32.bmax",
+      "bytes": 11126,
+      "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/32/main.bmax",
+        "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/bmax/16/main.bmax": {
+      "name": "12-part3d-roundtrip-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-16.bmax",
+      "bytes": 2764,
+      "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/bmax/16/main.bmax",
+        "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.glb": {
+      "name": "13-stepped-flange.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
+      "bytes": 137204,
+      "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.glb",
+        "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.step": {
+      "name": "13-stepped-flange.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.step",
+      "bytes": 81752,
+      "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.step",
+        "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/main.bmax": {
+      "name": "13-stepped-flange-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
+      "bytes": 198475,
+      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/main.bmax",
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/64/main.bmax": {
+      "name": "13-stepped-flange-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
+      "bytes": 198475,
+      "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/64/main.bmax",
+        "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/32/main.bmax": {
+      "name": "13-stepped-flange-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-32.bmax",
+      "bytes": 47433,
+      "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/32/main.bmax",
+        "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/bmax/16/main.bmax": {
+      "name": "13-stepped-flange-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-16.bmax",
+      "bytes": 10111,
+      "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/bmax/16/main.bmax",
+        "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.glb": {
+      "name": "14-bearing-housing-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
+      "bytes": 142536,
+      "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.glb",
+        "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.step": {
+      "name": "14-bearing-housing-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.step",
+      "bytes": 208780,
+      "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.step",
+        "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
+      "bytes": 183943,
+      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/main.bmax",
+        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
+      "bytes": 183943,
+      "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-32.bmax",
+      "bytes": 41858,
+      "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "14-bearing-housing-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-16.bmax",
+      "bytes": 8801,
+      "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.glb": {
+      "name": "15-high-speed-shaft-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.glb",
+      "bytes": 79748,
+      "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.glb",
+        "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.step": {
+      "name": "15-high-speed-shaft-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.step",
+      "bytes": 143142,
+      "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.step",
+        "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
+      "bytes": 55370,
+      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/main.bmax",
+        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
+      "bytes": 55370,
+      "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-32.bmax",
+      "bytes": 13805,
+      "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "15-high-speed-shaft-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-16.bmax",
+      "bytes": 3313,
+      "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.glb": {
+      "name": "16-housing-part3d.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
+      "bytes": 134584,
+      "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.glb",
+        "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.step": {
+      "name": "16-housing-part3d.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.step",
+      "bytes": 91099,
+      "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.step",
+        "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/main.bmax": {
+      "name": "16-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
+      "bytes": 440055,
+      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/main.bmax",
+        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/64/main.bmax": {
+      "name": "16-housing-part3d-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
+      "bytes": 440055,
+      "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/64/main.bmax",
+        "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/32/main.bmax": {
+      "name": "16-housing-part3d-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-32.bmax",
+      "bytes": 96078,
+      "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/32/main.bmax",
+        "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/bmax/16/main.bmax": {
+      "name": "16-housing-part3d-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-16.bmax",
+      "bytes": 20747,
+      "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/bmax/16/main.bmax",
+        "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.glb": {
+      "name": "17-stirling-d16-c.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
+      "bytes": 4342240,
+      "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.glb",
+        "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.step": {
+      "name": "17-stirling-d16-c.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.step",
+      "bytes": 11652444,
+      "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.step",
+        "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
+      "bytes": 440173,
+      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/main.bmax",
+        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/64/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
+      "bytes": 440173,
+      "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/64/main.bmax",
+        "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/32/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-32.bmax",
+      "bytes": 94312,
+      "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/32/main.bmax",
+        "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/bmax/16/main.bmax": {
+      "name": "17-stirling-d16-c-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-16.bmax",
+      "bytes": 16371,
+      "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/bmax/16/main.bmax",
+        "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.glb": {
+      "name": "18-stirling-horizontal-quartz.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
+      "bytes": 11924476,
+      "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.glb",
+        "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.step": {
+      "name": "18-stirling-horizontal-quartz.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.step",
+      "bytes": 11427021,
+      "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.step",
+        "sha256": "bcb448745646c8742743151a41dc3e23cef4e5550977700de81c49526e8b9eae"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
+      "bytes": 226521,
+      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/main.bmax",
+        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-64.bmax",
+      "bytes": 226521,
+      "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/64/main.bmax",
+        "sha256": "cdd5d1c23fad4452730abfa8922ffc351176fbb564cc71b907755f585d2054fa"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-32.bmax",
+      "bytes": 40517,
+      "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/32/main.bmax",
+        "sha256": "291a17895f7bb1b5d36912963b6bbe51ac3f65ecbee754dddfd0d870e7622230"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax": {
+      "name": "18-stirling-horizontal-quartz-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz-bmax-16.bmax",
+      "bytes": 9159,
+      "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/bmax/16/main.bmax",
+        "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.glb": {
+      "name": "19-ge-e3-fan-module.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
+      "bytes": 47590720,
+      "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.glb",
+        "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.step": {
+      "name": "19-ge-e3-fan-module.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.step",
+      "bytes": 75798858,
+      "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.step",
+        "sha256": "5ee2b096f051522faef62434dcbffdad65c6e67835b3741738159a7a373f8aa6"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
+      "bytes": 291830,
+      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/main.bmax",
+        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/64/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-64.bmax",
+      "bytes": 291830,
+      "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/64/main.bmax",
+        "sha256": "7481ec4c742d6cbe255c66ed310434f0003d715bf14198791630bc5c63923117"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/32/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-32.bmax",
+      "bytes": 61320,
+      "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/32/main.bmax",
+        "sha256": "c9490a1dfdb9bf27f3dbf798fea69c12f1da80acdfbd7c33dd5055e8ba123335"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/bmax/16/main.bmax": {
+      "name": "19-ge-e3-fan-module-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module-bmax-16.bmax",
+      "bytes": 11982,
+      "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/bmax/16/main.bmax",
+        "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.glb": {
+      "name": "20-cargo-atv.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
+      "bytes": 28726572,
+      "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.glb",
+        "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.step": {
+      "name": "20-cargo-atv.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.step",
+      "bytes": 19200086,
+      "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.step",
+        "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/main.bmax": {
+      "name": "20-cargo-atv-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
+      "bytes": 450562,
+      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/main.bmax",
+        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/64/main.bmax": {
+      "name": "20-cargo-atv-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
+      "bytes": 450562,
+      "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/64/main.bmax",
+        "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/32/main.bmax": {
+      "name": "20-cargo-atv-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-32.bmax",
+      "bytes": 88160,
+      "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/32/main.bmax",
+        "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/bmax/16/main.bmax": {
+      "name": "20-cargo-atv-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-16.bmax",
+      "bytes": 16947,
+      "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/bmax/16/main.bmax",
+        "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.glb": {
+      "name": "21-baltsar-chair.glb",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
+      "bytes": 9766148,
+      "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.glb",
+        "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/21-baltsar-chair.step": {
+      "name": "21-baltsar-chair.step",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step",
+      "bytes": 1277682,
+      "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/21-baltsar-chair.step",
+        "sha256": "de8796691f08d9b932721976483bf072f422155856ac5b26cba0d66e347e0ad6"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/main.bmax": {
+      "name": "21-baltsar-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
+      "bytes": 199687,
+      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/main.bmax",
+        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/64/main.bmax": {
+      "name": "21-baltsar-chair-bmax-64.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax",
+      "bytes": 199687,
+      "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/64/main.bmax",
+        "sha256": "451230ad7dcedabe4ac562165c7519c7f72d524f03c83712d3ddea0c7b1f6f00"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/32/main.bmax": {
+      "name": "21-baltsar-chair-bmax-32.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax",
+      "bytes": 35362,
+      "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/32/main.bmax",
+        "sha256": "a04bd5780e6497810b61a9427e2cb82fa0d84ea49e93b9ad69b4f114b5db7119"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/bmax/16/main.bmax": {
+      "name": "21-baltsar-chair-bmax-16.bmax",
+      "tag": "models-2026-09-22",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax",
+      "bytes": 7381,
+      "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
+      "sourceCommit": "5cb15a7223a4a37019b1644d8bd393c457fd49f8",
+      "status": "published",
+      "verifiedAt": "2026-09-22T11:20:16.866Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/bmax/16/main.bmax",
+        "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8"
+      }
     }
   }
 }

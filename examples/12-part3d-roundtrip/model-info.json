@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
       "bytes": 239456,
       "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.step",
       "bytes": 53234,
       "sha256": "8eaa99d4d5b56e9788e4ddc04f06d205b90d37c7618a4850e7b117d1035a87b8"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
       "bytes": 48025,
       "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-32.bmax",
       "bytes": 11126,
       "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-16.bmax",
       "bytes": 2764,
       "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-64.bmax",
         "bytes": 48025,
         "sha256": "444271de741960809a06bf3da74cf65c187534e1a02a8e4f348ddcf7b4637f23"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-32.bmax",
         "bytes": 11126,
         "sha256": "0a1cf1a78d352495c607591010a1c17c63385e10a9327fa1922c7a4e180766c6"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip-bmax-16.bmax",
         "bytes": 2764,
         "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce"
       },

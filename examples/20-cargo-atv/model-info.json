@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
       "bytes": 28726572,
       "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.step",
       "bytes": 19200086,
       "sha256": "4d0066c1f348ce7316a2820935d1dc808e03b869aa9a06a5fcfc1cba1601ba4a"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
       "bytes": 450562,
       "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-32.bmax",
       "bytes": 88160,
       "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-16.bmax",
       "bytes": 16947,
       "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-64.bmax",
         "bytes": 450562,
         "sha256": "c4182b29fd05c2609f82e760d00265da421e5c97afa3a2f3bde397e51a79d8af"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-32.bmax",
         "bytes": 88160,
         "sha256": "948a00c2a612c5012db42d215eccc3617b64593f68282a1aa49cc4a1e40d0882"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv-bmax-16.bmax",
         "bytes": 16947,
         "sha256": "b868ccff04b65e03ab699081b92419996f9f6403fe11cb43bca9a49f702fab70"
       },

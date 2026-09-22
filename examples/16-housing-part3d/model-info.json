@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
       "bytes": 134584,
       "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.step",
       "bytes": 91099,
       "sha256": "3e53f540111633d9f7aa3007bf4f90d559e5d632494fac70479c52345980e7ef"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
       "bytes": 440055,
       "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-32.bmax",
       "bytes": 96078,
       "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-16.bmax",
       "bytes": 20747,
       "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-64.bmax",
         "bytes": 440055,
         "sha256": "3ac560097f87a7ad7f46a91e2a9550aa2a240bb9087e70f388b64f8fb7dfd126"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-32.bmax",
         "bytes": 96078,
         "sha256": "382164d19ed6e6cafddb0eca7e2173c6a1d626aa04674204c1b7d9dc57683d6f"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d-bmax-16.bmax",
         "bytes": 20747,
         "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b"
       },

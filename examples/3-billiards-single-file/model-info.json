@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
       "bytes": 1121524,
       "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.step",
       "bytes": 2539778,
       "sha256": "dc9120426444b2eb01b664c43dfa276885bdb8c9a1053dcb291bb77a38b284d1"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
       "bytes": 173287,
       "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-32.bmax",
       "bytes": 28644,
       "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-16.bmax",
       "bytes": 5589,
       "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-64.bmax",
         "bytes": 173287,
         "sha256": "81fb137ae985f4a800226d07f69f7b0c1a6f15f554a3edbbafb28c865aa877c7"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-32.bmax",
         "bytes": 28644,
         "sha256": "fa47238dadd503743a09bea879729e1f46ac1038f852ea5f96f1fb7e8c2e0bce"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file-bmax-16.bmax",
         "bytes": 5589,
         "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752"
       },

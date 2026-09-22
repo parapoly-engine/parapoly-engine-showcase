@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
       "bytes": 476664,
       "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.step",
       "bytes": 162715,
       "sha256": "9f6ff0427fe31e9db5c4ae504e73d6433fd04929872d963fdb2cbdd0fe078338"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
       "bytes": 279816,
       "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-32.bmax",
       "bytes": 59488,
       "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-16.bmax",
       "bytes": 11717,
       "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-64.bmax",
         "bytes": 279816,
         "sha256": "3a9e0aaf0bc2bce93de9cf1a59acdc8e4fd648676a03054550bb0fd2e546a83f"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-32.bmax",
         "bytes": 59488,
         "sha256": "b53cbff91d8d0a29085511d11535a3249653815ebed7bff54f8829536c369c28"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d-bmax-16.bmax",
         "bytes": 11717,
         "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009"
       },

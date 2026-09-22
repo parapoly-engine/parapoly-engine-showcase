@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
       "bytes": 142536,
       "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.step",
       "bytes": 208780,
       "sha256": "8ac4cac38f771d352e84db4c4a8bbdf1001cd2d33ef936388c5afde4d9f01dd0"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
       "bytes": 183943,
       "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-32.bmax",
       "bytes": 41858,
       "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-16.bmax",
       "bytes": 8801,
       "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-64.bmax",
         "bytes": 183943,
         "sha256": "8658f3260e551346b34c7351a7f2e3514f8df99969595e602f644198e334d0c8"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-32.bmax",
         "bytes": 41858,
         "sha256": "4af0688420e93676808095e2a9bbf340eb23526e76bd785a1cfc6a7c04fd701d"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d-bmax-16.bmax",
         "bytes": 8801,
         "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744"
       },

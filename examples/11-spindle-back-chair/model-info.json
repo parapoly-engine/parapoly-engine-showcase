@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
       "bytes": 4947916,
       "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step",
       "bytes": 1114851,
       "sha256": "b5f7954233ecb987e3974adc235a51a4c835959121c7bdc96c3973812bf95692"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
       "bytes": 89367,
       "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax",
       "bytes": 20851,
       "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax",
       "bytes": 6116,
       "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax",
         "bytes": 89367,
         "sha256": "d644621f3efdf6c586fde9ae27f1310a3f0aa34f7c147701ea9ae341cbcbe0a0"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax",
         "bytes": 20851,
         "sha256": "40057fdb9068fb7da9d60e919c2e68cbddabd7b0fcda2bc491146f4699b0ec3c"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax",
         "bytes": 6116,
         "sha256": "b120134cd351a5beba7a2485cfe1f991644ac2d9d73acf788d078be7ca7c6028"
       },

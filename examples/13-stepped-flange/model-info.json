@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
       "bytes": 137204,
       "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.step",
       "bytes": 81752,
       "sha256": "fe4795356a6d42792fad13f065e1c16693766b9ac1c12bca93d92e6caf0df47a"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
       "bytes": 198475,
       "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-32.bmax",
       "bytes": 47433,
       "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-16.bmax",
       "bytes": 10111,
       "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-64.bmax",
         "bytes": 198475,
         "sha256": "31b4405f8379f8d148b1c130acbab65961ef17b48e3df082bf8389bcf91bfcb1"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-32.bmax",
         "bytes": 47433,
         "sha256": "fb5ccb8c036596693d54413e7b7782419e8fce6133c13423157100136d05b04f"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange-bmax-16.bmax",
         "bytes": 10111,
         "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc"
       },

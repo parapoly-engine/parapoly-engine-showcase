@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
       "bytes": 4342240,
       "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.step",
       "bytes": 11652444,
       "sha256": "4acbfea5fd26ea1704766daeec2690c85ddb36b77df09b740a28a8d9ce0d9e6f"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
       "bytes": 440173,
       "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-32.bmax",
       "bytes": 94312,
       "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-16.bmax",
       "bytes": 16371,
       "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-64.bmax",
         "bytes": 440173,
         "sha256": "8623cb248ac8e44ef717c438b255e24b6f13569630dec48fb6fd7c8765a0921b"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-32.bmax",
         "bytes": 94312,
         "sha256": "f646686e0bef2b1d40eee8aa4f2b9d071c6bfede2d5d73ee672813331a8b0262"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c-bmax-16.bmax",
         "bytes": 16371,
         "sha256": "8f8d254a73958301a4aa79f080dd29b7bf4b6d4d9198f2a9e3b3a4fa60e97604"
       },

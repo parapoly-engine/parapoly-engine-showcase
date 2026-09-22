@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
       "bytes": 704944,
       "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.step",
       "bytes": 486877,
       "sha256": "395aa2d348ce637ffd707bf1b9c3b0dcbef848bcc4fc44b3dc87d492167deb58"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
       "bytes": 57086,
       "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-32.bmax",
       "bytes": 13078,
       "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-16.bmax",
       "bytes": 3445,
       "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-64.bmax",
         "bytes": 57086,
         "sha256": "8a4d993399feaaf444354d85f7f761bb426d09abef0c5505fb295d55d5b6eb73"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-32.bmax",
         "bytes": 13078,
         "sha256": "de682f0cf801c964a7a2be3a11e5ee76d75909356e1fd4b43030f89a096041d9"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok-bmax-16.bmax",
         "bytes": 3445,
         "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae"
       },

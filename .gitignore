@@ -142,7 +142,7 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 
-# Prepared model downloads are part of the showcase (Git LFS).
+# Prepared model downloads are hosted as Release assets.
 !examples/*/dist/
 examples/*/dist/*
 !examples/*/dist/models/
@@ -154,3 +154,8 @@ examples/*/dist/models/*
 !examples/*/dist/models/bmax/*/
 !examples/*/dist/models/bmax/*/*.bmax
 generated/
+
+# Release assets are not tracked in the showcase.
+/examples/**/*.glb
+/examples/**/*.step
+/examples/**/*.bmax

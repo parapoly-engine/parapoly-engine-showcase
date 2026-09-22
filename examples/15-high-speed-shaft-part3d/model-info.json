@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.glb",
       "bytes": 79748,
       "sha256": "4aa046ae18d35e6850c1de3c9d4cdd006babcd7db014a70acbf2205520d06583"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.step",
       "bytes": 143142,
       "sha256": "656b446f52d6538933c32222900303f68c18f953060b7bade946249497523871"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
       "bytes": 55370,
       "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-32.bmax",
       "bytes": 13805,
       "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-16.bmax",
       "bytes": 3313,
       "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-64.bmax",
         "bytes": 55370,
         "sha256": "16fc7766f3acbec0b4d51d39da174bd471612a4debd75b4ad1cdbabe46f21de1"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-32.bmax",
         "bytes": 13805,
         "sha256": "7a9ce31c220958cec421b89759bb370cdc8338a5874b3261464c54fd98c4c02f"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d-bmax-16.bmax",
         "bytes": 3313,
         "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9"
       },

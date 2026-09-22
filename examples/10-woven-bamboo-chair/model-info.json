@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
       "bytes": 399943968,
       "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.step",
       "bytes": 136674854,
       "sha256": "512bfd763d0288c5d2afa782c37afbec1a9920e539d3118ca9a15e29fe1b021f"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
       "bytes": 110144,
       "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-32.bmax",
       "bytes": 24444,
       "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-16.bmax",
       "bytes": 5492,
       "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-64.bmax",
         "bytes": 110144,
         "sha256": "27d50e21a8dbe60621d480441f582c2f2dd75409a5b25157ebd9e214cfa61573"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-32.bmax",
         "bytes": 24444,
         "sha256": "28e9734e5a755398618effd1576761cfc09a6d25979bcfe80acc0a7b131373e4"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair-bmax-16.bmax",
         "bytes": 5492,
         "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6"
       },

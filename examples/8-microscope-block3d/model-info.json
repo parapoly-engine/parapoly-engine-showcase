@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.glb",
       "bytes": 701944,
       "sha256": "a5cdd557829c22711eda513bd0ecdc9b7ce37a4b368535ca501bd8ad0c759344"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.step",
       "bytes": 1031969,
       "sha256": "30ea66e9838f08ce0822ccb3e356e20d24a8da7bf74f868f50561953b9a732eb"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
       "bytes": 128008,
       "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-32.bmax",
       "bytes": 26697,
       "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-16.bmax",
       "bytes": 5413,
       "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-64.bmax",
         "bytes": 128008,
         "sha256": "3f33364a416d2e96295abd3869f23ad25fc0e0fbb1942ac934257ac09840b41f"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-32.bmax",
         "bytes": 26697,
         "sha256": "1ad4218d12e31ce4747a076bea48f48196d9bf4945e6f2fdae4f710ab2358f18"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d-bmax-16.bmax",
         "bytes": 5413,
         "sha256": "97146246fadafb0e88653286f3da4b3d1aed895767260da14f63ff461412b57b"
       },

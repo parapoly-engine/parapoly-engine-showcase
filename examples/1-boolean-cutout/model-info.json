@@ -15,29 +15,29 @@
   },
   "models": [
     {
-      "file": "dist/models/main.glb",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
       "bytes": 80060,
       "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
     },
     {
-      "file": "dist/models/main.step",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.step",
       "bytes": 55774,
       "sha256": "f4b749b359f67863322297c4d55aadd7568ea660c0ef305ac6e0d577e2c43957"
     },
     {
-      "file": "dist/models/bmax/64/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
       "bytes": 545506,
       "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84",
       "resolution": 64
     },
     {
-      "file": "dist/models/bmax/32/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-32.bmax",
       "bytes": 123684,
       "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28",
       "resolution": 32
     },
     {
-      "file": "dist/models/bmax/16/main.bmax",
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-16.bmax",
       "bytes": 23891,
       "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
       "resolution": 16
@@ -62,7 +62,7 @@
     {
       "resolution": 64,
       "model": {
-        "file": "dist/models/bmax/64/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-64.bmax",
         "bytes": 545506,
         "sha256": "55b155bff88a29a0bf73029a44220a7b46b7c42c4f51a356cd40bdee7d251e84"
       },
@@ -97,7 +97,7 @@
     {
       "resolution": 32,
       "model": {
-        "file": "dist/models/bmax/32/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-32.bmax",
         "bytes": 123684,
         "sha256": "f6d47d73c21487d383586d9b87f500a7ebaecbaf5313d00f573a278fddc95b28"
       },
@@ -132,7 +132,7 @@
     {
       "resolution": 16,
       "model": {
-        "file": "dist/models/bmax/16/main.bmax",
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout-bmax-16.bmax",
         "bytes": 23891,
         "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21"
       },
