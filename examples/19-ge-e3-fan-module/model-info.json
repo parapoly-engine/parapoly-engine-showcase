@@ -41,6 +41,27 @@
       "bytes": 11982,
       "sha256": "c96ce8635a0d64b28367673c9fdeac73a1933bf505bb0c8dfad5d4167e818790",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-64.glb",
+      "bytes": 4461808,
+      "sha256": "cb01283593f5067a1938c16623ff24021808defbccd5a367166b42aed514f619",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-32.glb",
+      "bytes": 715104,
+      "sha256": "18958cd3eb7fa1cdd202156dba797f9bb823533d0243550fffad673a5cebb256",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-16.glb",
+      "bytes": 176048,
+      "sha256": "e02a384b664ca9ff7288d818181f7413c01f3c3832ac400d72d9d5e53ad876ef",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,262 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-64.glb",
+        "bytes": 4461808,
+        "sha256": "cb01283593f5067a1938c16623ff24021808defbccd5a367166b42aed514f619",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:48.500Z",
+      "sourceSha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 20,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        }
+      },
+      "voxel": {
+        "voxelSize": 3.467754380756525,
+        "voxelCount": 14942,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 47496,
+        "parts": 85,
+        "bounds": {
+          "min": [
+            -0.1708984375,
+            0,
+            -0.5045572519302368
+          ],
+          "max": [
+            0.1708984375,
+            1.0416666269302368,
+            0.5045572519302368
+          ]
+        },
+        "materials": [
+          [
+            0.008568125776946545,
+            0.019382361322641373,
+            0.03071344457566738,
+            1
+          ],
+          [
+            0.019382361322641373,
+            0.040915198624134064,
+            0.061246052384376526,
+            1
+          ],
+          [
+            0.715693473815918,
+            0.7835378050804138,
+            0.8307698965072632,
+            1
+          ],
+          [
+            0.12743768095970154,
+            0.19120168685913086,
+            0.24228112399578094,
+            1
+          ],
+          [
+            0.48514994978904724,
+            0.5711248517036438,
+            0.6514056324958801,
+            1
+          ],
+          [
+            0.6038273572921753,
+            0.28744083642959595,
+            0.08865558356046677,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-32.glb",
+        "bytes": 715104,
+        "sha256": "18958cd3eb7fa1cdd202156dba797f9bb823533d0243550fffad673a5cebb256",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:45:21.477Z",
+      "sourceSha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 20,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        }
+      },
+      "voxel": {
+        "voxelSize": 6.93550876151305,
+        "voxelCount": 3342,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 6952,
+        "parts": 70,
+        "bounds": {
+          "min": [
+            -0.1790364533662796,
+            0,
+            -0.5045572519302368
+          ],
+          "max": [
+            0.1790364533662796,
+            1.0416666269302368,
+            0.5045572519302368
+          ]
+        },
+        "materials": [
+          [
+            0.008568125776946545,
+            0.019382361322641373,
+            0.03071344457566738,
+            1
+          ],
+          [
+            0.019382361322641373,
+            0.040915198624134064,
+            0.061246052384376526,
+            1
+          ],
+          [
+            0.715693473815918,
+            0.7835378050804138,
+            0.8307698965072632,
+            1
+          ],
+          [
+            0.12743768095970154,
+            0.19120168685913086,
+            0.24228112399578094,
+            1
+          ],
+          [
+            0.48514994978904724,
+            0.5711248517036438,
+            0.6514056324958801,
+            1
+          ],
+          [
+            0.6038273572921753,
+            0.28744083642959595,
+            0.08865558356046677,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-16.glb",
+        "bytes": 176048,
+        "sha256": "e02a384b664ca9ff7288d818181f7413c01f3c3832ac400d72d9d5e53ad876ef",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:45:35.705Z",
+      "sourceSha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 20,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        }
+      },
+      "voxel": {
+        "voxelSize": 13.8710175230261,
+        "voxelCount": 669,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1484,
+        "parts": 37,
+        "bounds": {
+          "min": [
+            -0.1953125,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.1953125,
+            1.0416666269302368,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            0.008568125776946545,
+            0.019382361322641373,
+            0.03071344457566738,
+            1
+          ],
+          [
+            0.019382361322641373,
+            0.040915198624134064,
+            0.061246052384376526,
+            1
+          ],
+          [
+            0.12743768095970154,
+            0.19120168685913086,
+            0.24228112399578094,
+            1
+          ],
+          [
+            0.48514994978904724,
+            0.5711248517036438,
+            0.6514056324958801,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

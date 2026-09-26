@@ -41,6 +41,27 @@
       "bytes": 5589,
       "sha256": "d157f0c31816afecce27484a64bc3273d6a31e32d2238123152c9b1fa1f59752",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-64.glb",
+      "bytes": 1953168,
+      "sha256": "f8cf5aaf36c19bec0a7b78b0d78aa8588ef8d04801c599cd4c0ef7198b0d07dd",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-32.glb",
+      "bytes": 436644,
+      "sha256": "a54a0efc184b07fee0d5984ccbc11d607e0e6b093b527f8a2192cdc28d89d65b",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-16.glb",
+      "bytes": 108512,
+      "sha256": "5f01bd4c2bff6c0d632b249fb9438395bb1a047258902b959f754c757eb33249",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,322 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-64.glb",
+        "bytes": 1953168,
+        "sha256": "f8cf5aaf36c19bec0a7b78b0d78aa8588ef8d04801c599cd4c0ef7198b0d07dd",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:39:02.959Z",
+      "sourceSha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 44.4375,
+        "voxelCount": 8940,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 20804,
+        "parts": 36,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.29296875
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3092447817325592,
+            0.29296875
+          ]
+        },
+        "materials": [
+          [
+            0.12477181851863861,
+            0.04817182570695877,
+            0.022173885256052017,
+            1
+          ],
+          [
+            0.05612849071621895,
+            0.0666259378194809,
+            0.06847816705703735,
+            1
+          ],
+          [
+            0.07036009430885315,
+            0.024157632142305374,
+            0.014443843625485897,
+            1
+          ],
+          [
+            0.3049873113632202,
+            0.16513219475746155,
+            0.05780543014407158,
+            1
+          ],
+          [
+            0.07036009430885315,
+            0.02955683507025242,
+            0.01850022003054619,
+            1
+          ],
+          [
+            0.015208514407277107,
+            0.19806931912899017,
+            0.10224173218011856,
+            1
+          ],
+          [
+            0.23839756846427917,
+            0.08650045841932297,
+            0.039546236395835876,
+            1
+          ],
+          [
+            0.006995410192757845,
+            0.109461709856987,
+            0.06480326503515244,
+            1
+          ],
+          [
+            0.12213877588510513,
+            0.052860647439956665,
+            0.026241222396492958,
+            1
+          ],
+          [
+            0.014443843625485897,
+            0.017641954123973846,
+            0.019382361322641373,
+            1
+          ],
+          [
+            0.2581828534603119,
+            0.14126329123973846,
+            0.04970656707882881,
+            1
+          ],
+          [
+            0.06847816705703735,
+            0.027320891618728638,
+            0.01599629409611225,
+            1
+          ],
+          [
+            0.177888423204422,
+            0.08650045841932297,
+            0.03560131415724754,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-32.glb",
+        "bytes": 436644,
+        "sha256": "a54a0efc184b07fee0d5984ccbc11d607e0e6b093b527f8a2192cdc28d89d65b",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:39:03.778Z",
+      "sourceSha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 88.875,
+        "voxelCount": 1574,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 4512,
+        "parts": 20,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.29296875
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3255208134651184,
+            0.29296875
+          ]
+        },
+        "materials": [
+          [
+            0.05612849071621895,
+            0.0666259378194809,
+            0.06847816705703735,
+            1
+          ],
+          [
+            0.12477181851863861,
+            0.04817182570695877,
+            0.022173885256052017,
+            1
+          ],
+          [
+            0.07036009430885315,
+            0.024157632142305374,
+            0.014443843625485897,
+            1
+          ],
+          [
+            0.3049873113632202,
+            0.16513219475746155,
+            0.05780543014407158,
+            1
+          ],
+          [
+            0.12213877588510513,
+            0.052860647439956665,
+            0.026241222396492958,
+            1
+          ],
+          [
+            0.006995410192757845,
+            0.109461709856987,
+            0.06480326503515244,
+            1
+          ],
+          [
+            0.2581828534603119,
+            0.14126329123973846,
+            0.04970656707882881,
+            1
+          ],
+          [
+            0.06847816705703735,
+            0.027320891618728638,
+            0.01599629409611225,
+            1
+          ],
+          [
+            0.177888423204422,
+            0.08650045841932297,
+            0.03560131415724754,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-16.glb",
+        "bytes": 108512,
+        "sha256": "5f01bd4c2bff6c0d632b249fb9438395bb1a047258902b959f754c757eb33249",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:39:04.538Z",
+      "sourceSha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 177.75,
+        "voxelCount": 308,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1096,
+        "parts": 7,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.29296875
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3255208134651184,
+            0.29296875
+          ]
+        },
+        "materials": [
+          [
+            0.07036009430885315,
+            0.024157632142305374,
+            0.014443843625485897,
+            1
+          ],
+          [
+            0.06847816705703735,
+            0.027320891618728638,
+            0.01599629409611225,
+            1
+          ],
+          [
+            0.177888423204422,
+            0.08650045841932297,
+            0.03560131415724754,
+            1
+          ],
+          [
+            0.05612849071621895,
+            0.0666259378194809,
+            0.06847816705703735,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

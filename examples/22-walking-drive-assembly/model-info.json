@@ -41,6 +41,27 @@
       "bytes": 15693,
       "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-64.glb",
+      "bytes": 5651308,
+      "sha256": "bd586067e28cb3f98dea015edb93399e3abe25ef6220e636c913a82ac19d4f5a",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-32.glb",
+      "bytes": 1129564,
+      "sha256": "e5c6b7752715e607cf830587407a3f3facbb35822d05776008b7615c97ff6e61",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-16.glb",
+      "bytes": 207100,
+      "sha256": "20ba19d81ebb381933b33344dede1c0ddf4c82b577867b19aebf086e01b6a996",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,256 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-64.glb",
+        "bytes": 5651308,
+        "sha256": "bd586067e28cb3f98dea015edb93399e3abe25ef6220e636c913a82ac19d4f5a",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:46:20.289Z",
+      "sourceSha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 2.390625,
+        "voxelCount": 19962,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 60988,
+        "parts": 37,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2766926884651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.6673176884651184,
+            0.2766926884651184
+          ]
+        },
+        "materials": [
+          [
+            0.2345505803823471,
+            0.30054378509521484,
+            0.34670406579971313,
+            1
+          ],
+          [
+            0.02955683507025242,
+            0.0423114113509655,
+            0.05612849071621895,
+            1
+          ],
+          [
+            0.01850022003054619,
+            0.024157632142305374,
+            0.02955683507025242,
+            1
+          ],
+          [
+            0.4793201684951782,
+            0.5711248517036438,
+            0.6307571530342102,
+            1
+          ],
+          [
+            0.13013647496700287,
+            0.4793201684951782,
+            0.6938717365264893,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-32.glb",
+        "bytes": 1129564,
+        "sha256": "e5c6b7752715e607cf830587407a3f3facbb35822d05776008b7615c97ff6e61",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:46:23.365Z",
+      "sourceSha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 4.78125,
+        "voxelCount": 4325,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 11948,
+        "parts": 28,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2766926884651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.68359375,
+            0.2766926884651184
+          ]
+        },
+        "materials": [
+          [
+            0.2345505803823471,
+            0.30054378509521484,
+            0.34670406579971313,
+            1
+          ],
+          [
+            0.01850022003054619,
+            0.024157632142305374,
+            0.02955683507025242,
+            1
+          ],
+          [
+            0.02955683507025242,
+            0.0423114113509655,
+            0.05612849071621895,
+            1
+          ],
+          [
+            0.4793201684951782,
+            0.5711248517036438,
+            0.6307571530342102,
+            1
+          ],
+          [
+            0.13013647496700287,
+            0.4793201684951782,
+            0.6938717365264893,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-16.glb",
+        "bytes": 207100,
+        "sha256": "20ba19d81ebb381933b33344dede1c0ddf4c82b577867b19aebf086e01b6a996",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:46:26.300Z",
+      "sourceSha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 9.5625,
+        "voxelCount": 906,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 2040,
+        "parts": 18,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.29296875
+          ],
+          "max": [
+            0.5208333134651184,
+            0.7161458134651184,
+            0.29296875
+          ]
+        },
+        "materials": [
+          [
+            0.2345505803823471,
+            0.30054378509521484,
+            0.34670406579971313,
+            1
+          ],
+          [
+            0.01850022003054619,
+            0.024157632142305374,
+            0.02955683507025242,
+            1
+          ],
+          [
+            0.02955683507025242,
+            0.0423114113509655,
+            0.05612849071621895,
+            1
+          ],
+          [
+            0.4793201684951782,
+            0.5711248517036438,
+            0.6307571530342102,
+            1
+          ],
+          [
+            0.13013647496700287,
+            0.4793201684951782,
+            0.6938717365264893,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

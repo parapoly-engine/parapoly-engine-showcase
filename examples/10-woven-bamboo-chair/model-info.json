@@ -41,6 +41,27 @@
       "bytes": 5492,
       "sha256": "9b80f71bbdeb66605b8cef0fdd1591d4cb4b498634ebc145ab0fde51142752d6",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-64.glb",
+      "bytes": 2043168,
+      "sha256": "bca83f454accbbbcd4fa7d0d990e9218f789be2baf455b5f3a81632de4db9fdb",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-32.glb",
+      "bytes": 535268,
+      "sha256": "30d526d6ea605744a7ed465fbfd82ab74de1b3007ab90f086462a0d887f6accf",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-16.glb",
+      "bytes": 152548,
+      "sha256": "1f16aad9ccc7b79caa569df276e0f9c96102383facaf8f1703f69b8a360d6095",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,220 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-64.glb",
+        "bytes": 2043168,
+        "sha256": "bca83f454accbbbcd4fa7d0d990e9218f789be2baf455b5f3a81632de4db9fdb",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:39:43.252Z",
+      "sourceSha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 45,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        }
+      },
+      "voxel": {
+        "voxelSize": 13.281363869716609,
+        "voxelCount": 5695,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 18772,
+        "parts": 293,
+        "bounds": {
+          "min": [
+            -0.2766926884651184,
+            0,
+            -0.3255208134651184
+          ],
+          "max": [
+            0.2766926884651184,
+            1.0416666269302368,
+            0.3255208134651184
+          ]
+        },
+        "materials": [
+          [
+            0.48514994978904724,
+            0.30054378509521484,
+            0.12743768095970154,
+            1
+          ],
+          [
+            0.6795424818992615,
+            0.4969329833984375,
+            0.28744083642959595,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.3967552185058594,
+            0.20507873594760895,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-32.glb",
+        "bytes": 535268,
+        "sha256": "30d526d6ea605744a7ed465fbfd82ab74de1b3007ab90f086462a0d887f6accf",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:39:54.921Z",
+      "sourceSha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 45,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        }
+      },
+      "voxel": {
+        "voxelSize": 26.562727739433218,
+        "voxelCount": 1276,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 4756,
+        "parts": 91,
+        "bounds": {
+          "min": [
+            -0.2766926884651184,
+            0,
+            -0.3255208134651184
+          ],
+          "max": [
+            0.2766926884651184,
+            1.0416666269302368,
+            0.3255208134651184
+          ]
+        },
+        "materials": [
+          [
+            0.48514994978904724,
+            0.30054378509521484,
+            0.12743768095970154,
+            1
+          ],
+          [
+            0.6795424818992615,
+            0.4969329833984375,
+            0.28744083642959595,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.3967552185058594,
+            0.20507873594760895,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-16.glb",
+        "bytes": 152548,
+        "sha256": "1f16aad9ccc7b79caa569df276e0f9c96102383facaf8f1703f69b8a360d6095",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:06.172Z",
+      "sourceSha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "linearDeflection": 1,
+        "angleDegrees": 45,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        }
+      },
+      "voxel": {
+        "voxelSize": 53.125455478866435,
+        "voxelCount": 302,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1356,
+        "parts": 26,
+        "bounds": {
+          "min": [
+            -0.29296875,
+            0,
+            -0.3255208134651184
+          ],
+          "max": [
+            0.29296875,
+            1.0416666269302368,
+            0.3255208134651184
+          ]
+        },
+        "materials": [
+          [
+            0.48514994978904724,
+            0.30054378509521484,
+            0.12743768095970154,
+            1
+          ],
+          [
+            0.6795424818992615,
+            0.4969329833984375,
+            0.28744083642959595,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.3967552185058594,
+            0.20507873594760895,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

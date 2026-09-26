@@ -6,10 +6,10 @@ A continuous transparent shell, upholstered seat and black four-leg support.
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="BALTSAR chair CAD" width="220" height="124"></picture><br><strong>21. BALTSAR chair</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="BALTSAR chair BMAX 64" width="220" height="124"></picture></a><br><strong>BMAX 64</strong><br>Longest edge 64 voxels<br>Voxel size ≈ 13.2819<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax">Download BMAX 64</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="BALTSAR chair BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 26.5638<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax">Download BMAX 32</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="BALTSAR chair BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 53.1277<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax">Download BMAX 16</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="BALTSAR chair CAD" width="220"></picture><br><strong>21. BALTSAR chair</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="BALTSAR chair BMAX 64" width="220"></picture></a><br><strong>BMAX 64</strong><br>Longest edge 64 voxels<br>Voxel size ≈ 13.2819<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-64.bmax">Download BMAX 64</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="BALTSAR chair BMAX 32" width="220"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 26.5638<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-32.bmax">Download BMAX 32</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="BALTSAR chair BMAX 16" width="220"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 53.1277<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair-bmax-16.bmax">Download BMAX 16</a></td>
   </tr>
 </table>
 
@@ -53,3 +53,13 @@ Ask your AI assistant to read these skills before modifying a similar model. The
 ## Reference and scope
 
 [Reference](https://www.ikea.cn/cn/zh/p/baltsar-bao-te-sai-yi-zi-hei-se-30532139/) — A photo-based study of IKEA BALTSAR. Curves, thickness and connections are approximations, not manufacturer CAD.
+
+<!-- voxel-downloads:start -->
+## Voxel GLB downloads
+
+Voxel surface meshes retain source base colors without BMAX RGB4 quantization. These GLB files use the same centering and display scale as standard BMAX loading. The existing BMAX thumbnails are not previews of these GLB files.
+
+- [Voxel GLB 64](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-64.glb) (1.94 MiB)
+- [Voxel GLB 32](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-32.glb) (0.48 MiB)
+- [Voxel GLB 16](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-16.glb) (0.14 MiB)
+<!-- voxel-downloads:end -->

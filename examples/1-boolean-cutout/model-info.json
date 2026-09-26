@@ -41,6 +41,27 @@
       "bytes": 23891,
       "sha256": "7c4711a09e59126747d85d6b6254a4fbf7f45dc1a0bc95095d6589b6592d3a21",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-64.glb",
+      "bytes": 10075028,
+      "sha256": "0b71ab3cd5680527942482c5d9e310dc12f8260844ed9635c09c738fbe78bc88",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-32.glb",
+      "bytes": 2157344,
+      "sha256": "cc2783cd9a6efcb0338d28d178c221864bea2b4c43ceb5b7f5761fd43624bf4d",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-16.glb",
+      "bytes": 416400,
+      "sha256": "98ab03b41881156a959bd64cce4426cff474b414aefcbe3695fcb67a6fc61e5b",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-64.glb",
+        "bytes": 10075028,
+        "sha256": "0b71ab3cd5680527942482c5d9e310dc12f8260844ed9635c09c738fbe78bc88",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:38:18.086Z",
+      "sourceSha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.015625,
+        "voxelCount": 28536,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 109440,
+        "parts": 6,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            1.0416666269302368,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            1,
+            0.5647115111351013,
+            0.09758734703063965,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-32.glb",
+        "bytes": 2157344,
+        "sha256": "cc2783cd9a6efcb0338d28d178c221864bea2b4c43ceb5b7f5761fd43624bf4d",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:38:18.448Z",
+      "sourceSha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.03125,
+        "voxelCount": 6592,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 23424,
+        "parts": 2,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            1.0416666269302368,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            1,
+            0.5647115111351013,
+            0.09758734703063965,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-16.glb",
+        "bytes": 416400,
+        "sha256": "98ab03b41881156a959bd64cce4426cff474b414aefcbe3695fcb67a6fc61e5b",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:38:18.612Z",
+      "sourceSha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.0625,
+        "voxelCount": 1288,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 4512,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            1.0416666269302368,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            1,
+            0.5647115111351013,
+            0.09758734703063965,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -41,6 +41,27 @@
       "bytes": 11717,
       "sha256": "8a75af372b089a6b80c6decf305c0a7f4b78ce6cb90e7f161cb5c33e13a17009",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-64.glb",
+      "bytes": 5126420,
+      "sha256": "6af1336fc0e6b773c7a33985a2cf0d3231286582d22282431ae8824fd076fe62",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-32.glb",
+      "bytes": 710840,
+      "sha256": "b7a467c9f92f3680a0842be44979e16d9452bc30aa998d48a7b6166c9f60c296",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-16.glb",
+      "bytes": 189740,
+      "sha256": "96938e6849df8b377691987c162fda37c27deddba896ae623afc7463d4421900",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-64.glb",
+        "bytes": 5126420,
+        "sha256": "6af1336fc0e6b773c7a33985a2cf0d3231286582d22282431ae8824fd076fe62",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:39:05.317Z",
+      "sourceSha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.12022641343414622,
+        "voxelCount": 14560,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 55684,
+        "parts": 3,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.4069010317325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.4882812201976776,
+            0.4069010317325592
+          ]
+        },
+        "materials": [
+          [
+            0.16513219475746155,
+            0.38642942905426025,
+            0.48514994978904724,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-32.glb",
+        "bytes": 710840,
+        "sha256": "b7a467c9f92f3680a0842be44979e16d9452bc30aa998d48a7b6166c9f60c296",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:39:05.609Z",
+      "sourceSha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.24045282686829245,
+        "voxelCount": 3199,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 7712,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.4069010317325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.4882812201976776,
+            0.4069010317325592
+          ]
+        },
+        "materials": [
+          [
+            0.16513219475746155,
+            0.38642942905426025,
+            0.48514994978904724,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-16.glb",
+        "bytes": 189740,
+        "sha256": "96938e6849df8b377691987c162fda37c27deddba896ae623afc7463d4421900",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:39:05.825Z",
+      "sourceSha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.4809056537365849,
+        "voxelCount": 655,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 2048,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.4231770634651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.5208333134651184,
+            0.4231770634651184
+          ]
+        },
+        "materials": [
+          [
+            0.16513219475746155,
+            0.38642942905426025,
+            0.48514994978904724,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

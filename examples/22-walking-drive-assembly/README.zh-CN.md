@@ -6,10 +6,10 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="行走组件 CAD" width="220" height="124"></picture><br><strong>22. 行走组件</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="main.code3d.js">源码</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="行走组件 BMAX 64" width="220" height="124"></picture></a><br><strong>BMAX 64</strong><br>最长边 64 格<br>体素边长 ≈ 2.39063<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax">下载 BMAX 64</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="行走组件 BMAX 32" width="220" height="124"></picture></a><br><strong>BMAX 32</strong><br>最长边 32 格<br>体素边长 ≈ 4.78125<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax">下载 BMAX 32</a></td>
-    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="行走组件 BMAX 16" width="220" height="124"></picture></a><br><strong>BMAX 16</strong><br>最长边 16 格<br>体素边长 ≈ 9.5625<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax">下载 BMAX 16</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="行走组件 CAD" width="220"></picture><br><strong>22. 行走组件</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="main.code3d.js">源码</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="行走组件 BMAX 64" width="220"></picture></a><br><strong>BMAX 64</strong><br>最长边 64 格<br>体素边长 ≈ 2.39063<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax">下载 BMAX 64</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="行走组件 BMAX 32" width="220"></picture></a><br><strong>BMAX 32</strong><br>最长边 32 格<br>体素边长 ≈ 4.78125<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax">下载 BMAX 32</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="行走组件 BMAX 16" width="220"></picture></a><br><strong>BMAX 16</strong><br>最长边 16 格<br>体素边长 ≈ 9.5625<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax">下载 BMAX 16</a></td>
   </tr>
 </table>
 
@@ -44,3 +44,13 @@ npx --no-install parapoly-engine export examples/22-walking-drive-assembly/main.
 ## 参考与范围
 
 [参考来源](https://www.jlc-jdgf.com/machine-detail/622695255533043715) — 依据嘉立创 FA 案例的用户提供总装与零件 STEP、BOM 和封面图重建；螺纹、带齿等细节经过简化。本例为结构展示模型，不是可直接制造的设计，也未完成载荷或运动仿真验证。
+
+<!-- voxel-downloads:start -->
+## Voxel GLB 下载
+
+体素表面网格保留源基本颜色，不经过 BMAX RGB4 量化；居中与显示尺度遵循标准 BMAX 加载规则。原有 BMAX 缩略图不是这些 GLB 文件的预览。
+
+- [Voxel GLB 64](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-64.glb) (5.39 MiB)
+- [Voxel GLB 32](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-32.glb) (1.08 MiB)
+- [Voxel GLB 16](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-16.glb) (0.20 MiB)
+<!-- voxel-downloads:end -->

@@ -1849,6 +1849,930 @@
         "path": "22-walking-drive-assembly/dist/models/bmax/16/main.bmax",
         "sha256": "a273a7556ece33a70022f3e9d8976e92ca396bacf88af9854c4d0aaa1ad609c6"
       }
+    },
+    "examples/1-boolean-cutout/dist/models/voxel/64/main.glb": {
+      "name": "1-boolean-cutout-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-64.glb",
+      "bytes": 10075028,
+      "sha256": "0b71ab3cd5680527942482c5d9e310dc12f8260844ed9635c09c738fbe78bc88",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/voxel/64/main.glb",
+        "sha256": "0b71ab3cd5680527942482c5d9e310dc12f8260844ed9635c09c738fbe78bc88"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/voxel/32/main.glb": {
+      "name": "1-boolean-cutout-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-32.glb",
+      "bytes": 2157344,
+      "sha256": "cc2783cd9a6efcb0338d28d178c221864bea2b4c43ceb5b7f5761fd43624bf4d",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/voxel/32/main.glb",
+        "sha256": "cc2783cd9a6efcb0338d28d178c221864bea2b4c43ceb5b7f5761fd43624bf4d"
+      }
+    },
+    "examples/1-boolean-cutout/dist/models/voxel/16/main.glb": {
+      "name": "1-boolean-cutout-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/1-boolean-cutout-voxel-16.glb",
+      "bytes": 416400,
+      "sha256": "98ab03b41881156a959bd64cce4426cff474b414aefcbe3695fcb67a6fc61e5b",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "1-boolean-cutout/dist/models/voxel/16/main.glb",
+        "sha256": "98ab03b41881156a959bd64cce4426cff474b414aefcbe3695fcb67a6fc61e5b"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/voxel/64/main.glb": {
+      "name": "2-woven-basket-block3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/2-woven-basket-block3d-voxel-64.glb",
+      "bytes": 6555596,
+      "sha256": "037c1e72b34d82797d34fa46082ba493a12aa7e1ec62be669d6a84630c5f2e74",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/voxel/64/main.glb",
+        "sha256": "037c1e72b34d82797d34fa46082ba493a12aa7e1ec62be669d6a84630c5f2e74"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/voxel/32/main.glb": {
+      "name": "2-woven-basket-block3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/2-woven-basket-block3d-voxel-32.glb",
+      "bytes": 1524460,
+      "sha256": "7b77e5fc4c858dd26367d3481da7e5dc2afb758ca9f8b206bd13aa5d10cf195d",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/voxel/32/main.glb",
+        "sha256": "7b77e5fc4c858dd26367d3481da7e5dc2afb758ca9f8b206bd13aa5d10cf195d"
+      }
+    },
+    "examples/2-woven-basket-block3d/dist/models/voxel/16/main.glb": {
+      "name": "2-woven-basket-block3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/2-woven-basket-block3d-voxel-16.glb",
+      "bytes": 382172,
+      "sha256": "e9f3d8f67916ab9d214eb7647d3ccd9ed6a0661b3fc9b8d134c379a932e2edc9",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "2-woven-basket-block3d/dist/models/voxel/16/main.glb",
+        "sha256": "e9f3d8f67916ab9d214eb7647d3ccd9ed6a0661b3fc9b8d134c379a932e2edc9"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/voxel/64/main.glb": {
+      "name": "3-billiards-single-file-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-64.glb",
+      "bytes": 1953168,
+      "sha256": "f8cf5aaf36c19bec0a7b78b0d78aa8588ef8d04801c599cd4c0ef7198b0d07dd",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/voxel/64/main.glb",
+        "sha256": "f8cf5aaf36c19bec0a7b78b0d78aa8588ef8d04801c599cd4c0ef7198b0d07dd"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/voxel/32/main.glb": {
+      "name": "3-billiards-single-file-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-32.glb",
+      "bytes": 436644,
+      "sha256": "a54a0efc184b07fee0d5984ccbc11d607e0e6b093b527f8a2192cdc28d89d65b",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/voxel/32/main.glb",
+        "sha256": "a54a0efc184b07fee0d5984ccbc11d607e0e6b093b527f8a2192cdc28d89d65b"
+      }
+    },
+    "examples/3-billiards-single-file/dist/models/voxel/16/main.glb": {
+      "name": "3-billiards-single-file-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/3-billiards-single-file-voxel-16.glb",
+      "bytes": 108512,
+      "sha256": "5f01bd4c2bff6c0d632b249fb9438395bb1a047258902b959f754c757eb33249",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "3-billiards-single-file/dist/models/voxel/16/main.glb",
+        "sha256": "5f01bd4c2bff6c0d632b249fb9438395bb1a047258902b959f754c757eb33249"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/voxel/64/main.glb": {
+      "name": "4-coffee-cup-block3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-64.glb",
+      "bytes": 5126420,
+      "sha256": "6af1336fc0e6b773c7a33985a2cf0d3231286582d22282431ae8824fd076fe62",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/voxel/64/main.glb",
+        "sha256": "6af1336fc0e6b773c7a33985a2cf0d3231286582d22282431ae8824fd076fe62"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/voxel/32/main.glb": {
+      "name": "4-coffee-cup-block3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-32.glb",
+      "bytes": 710840,
+      "sha256": "b7a467c9f92f3680a0842be44979e16d9452bc30aa998d48a7b6166c9f60c296",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/voxel/32/main.glb",
+        "sha256": "b7a467c9f92f3680a0842be44979e16d9452bc30aa998d48a7b6166c9f60c296"
+      }
+    },
+    "examples/4-coffee-cup-block3d/dist/models/voxel/16/main.glb": {
+      "name": "4-coffee-cup-block3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/4-coffee-cup-block3d-voxel-16.glb",
+      "bytes": 189740,
+      "sha256": "96938e6849df8b377691987c162fda37c27deddba896ae623afc7463d4421900",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "4-coffee-cup-block3d/dist/models/voxel/16/main.glb",
+        "sha256": "96938e6849df8b377691987c162fda37c27deddba896ae623afc7463d4421900"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/voxel/64/main.glb": {
+      "name": "5-round-bottom-wok-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-64.glb",
+      "bytes": 945920,
+      "sha256": "0f4a8cf164c0d1c4136b5b4ccfd665d8257f460197da9bb0a81983e554c0cc84",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/voxel/64/main.glb",
+        "sha256": "0f4a8cf164c0d1c4136b5b4ccfd665d8257f460197da9bb0a81983e554c0cc84"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/voxel/32/main.glb": {
+      "name": "5-round-bottom-wok-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-32.glb",
+      "bytes": 255128,
+      "sha256": "ec799cc5b9daf7e8729d5c19d0e4a53d065323b89ee340b7430a6e78d2cd5940",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/voxel/32/main.glb",
+        "sha256": "ec799cc5b9daf7e8729d5c19d0e4a53d065323b89ee340b7430a6e78d2cd5940"
+      }
+    },
+    "examples/5-round-bottom-wok/dist/models/voxel/16/main.glb": {
+      "name": "5-round-bottom-wok-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-16.glb",
+      "bytes": 78828,
+      "sha256": "cd20e94dbc8cd0c60661f86ae2b7394b7c999b27302d9fa994896e00a133fda5",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "5-round-bottom-wok/dist/models/voxel/16/main.glb",
+        "sha256": "cd20e94dbc8cd0c60661f86ae2b7394b7c999b27302d9fa994896e00a133fda5"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/voxel/64/main.glb": {
+      "name": "6-cast-iron-skillet-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/6-cast-iron-skillet-voxel-64.glb",
+      "bytes": 1023564,
+      "sha256": "cf8fd164439879950ba3bdce1c06b57c850d40016c19515484a51e9e0aa34fee",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/voxel/64/main.glb",
+        "sha256": "cf8fd164439879950ba3bdce1c06b57c850d40016c19515484a51e9e0aa34fee"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/voxel/32/main.glb": {
+      "name": "6-cast-iron-skillet-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/6-cast-iron-skillet-voxel-32.glb",
+      "bytes": 254780,
+      "sha256": "6abca81725ea188d00d41885a3e713cb5f6415c0b2fc4e4d23a404b56fe232f4",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/voxel/32/main.glb",
+        "sha256": "6abca81725ea188d00d41885a3e713cb5f6415c0b2fc4e4d23a404b56fe232f4"
+      }
+    },
+    "examples/6-cast-iron-skillet/dist/models/voxel/16/main.glb": {
+      "name": "6-cast-iron-skillet-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/6-cast-iron-skillet-voxel-16.glb",
+      "bytes": 73676,
+      "sha256": "d8193673fa13b5bb307cffec9a092e3db95e26b05460f295a818e316599f810c",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "6-cast-iron-skillet/dist/models/voxel/16/main.glb",
+        "sha256": "d8193673fa13b5bb307cffec9a092e3db95e26b05460f295a818e316599f810c"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/voxel/64/main.glb": {
+      "name": "7-lunar-rover-block3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/7-lunar-rover-block3d-voxel-64.glb",
+      "bytes": 2857200,
+      "sha256": "484b0fa888be553d8e6856efeb978719a2c8c6118d5179e7b73c0a9c0fc86810",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/voxel/64/main.glb",
+        "sha256": "484b0fa888be553d8e6856efeb978719a2c8c6118d5179e7b73c0a9c0fc86810"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/voxel/32/main.glb": {
+      "name": "7-lunar-rover-block3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/7-lunar-rover-block3d-voxel-32.glb",
+      "bytes": 567596,
+      "sha256": "b99ef9fd8fff8c2f35f1a37d0227403a33f9928eec38be6599bae78866da22b6",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/voxel/32/main.glb",
+        "sha256": "b99ef9fd8fff8c2f35f1a37d0227403a33f9928eec38be6599bae78866da22b6"
+      }
+    },
+    "examples/7-lunar-rover-block3d/dist/models/voxel/16/main.glb": {
+      "name": "7-lunar-rover-block3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/7-lunar-rover-block3d-voxel-16.glb",
+      "bytes": 136724,
+      "sha256": "27c883cd911ff78f4f40b5994b4c68d51b7faaa7406d4baea887fb5cfb7af798",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "7-lunar-rover-block3d/dist/models/voxel/16/main.glb",
+        "sha256": "27c883cd911ff78f4f40b5994b4c68d51b7faaa7406d4baea887fb5cfb7af798"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/voxel/64/main.glb": {
+      "name": "8-microscope-block3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/8-microscope-block3d-voxel-64.glb",
+      "bytes": 2016608,
+      "sha256": "633db645ded074964816b1d8763bac9704dc66940ce5e738af58546e5443374a",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/voxel/64/main.glb",
+        "sha256": "633db645ded074964816b1d8763bac9704dc66940ce5e738af58546e5443374a"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/voxel/32/main.glb": {
+      "name": "8-microscope-block3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/8-microscope-block3d-voxel-32.glb",
+      "bytes": 463472,
+      "sha256": "3969841d2f2c178733b62d6dd2437927ecbb3cf17d55d710c6256efc2358d76c",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/voxel/32/main.glb",
+        "sha256": "3969841d2f2c178733b62d6dd2437927ecbb3cf17d55d710c6256efc2358d76c"
+      }
+    },
+    "examples/8-microscope-block3d/dist/models/voxel/16/main.glb": {
+      "name": "8-microscope-block3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/8-microscope-block3d-voxel-16.glb",
+      "bytes": 124624,
+      "sha256": "9eeea0462eed00c844d321a528d8df22cfbbb7bbf3a3f83c7e3d8859a382e431",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "8-microscope-block3d/dist/models/voxel/16/main.glb",
+        "sha256": "9eeea0462eed00c844d321a528d8df22cfbbb7bbf3a3f83c7e3d8859a382e431"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/voxel/64/main.glb": {
+      "name": "9-mario-kart-single-file-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/9-mario-kart-single-file-voxel-64.glb",
+      "bytes": 4209888,
+      "sha256": "419b8cfc166df8f90bdaf5d9b3556d7896635a07ab818ed6cbb1cd6391fe60f1",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/voxel/64/main.glb",
+        "sha256": "419b8cfc166df8f90bdaf5d9b3556d7896635a07ab818ed6cbb1cd6391fe60f1"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/voxel/32/main.glb": {
+      "name": "9-mario-kart-single-file-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/9-mario-kart-single-file-voxel-32.glb",
+      "bytes": 736804,
+      "sha256": "5c28e29d309457a4026e7664b95a22191bfcc488e3398383cb62af3462191c08",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/voxel/32/main.glb",
+        "sha256": "5c28e29d309457a4026e7664b95a22191bfcc488e3398383cb62af3462191c08"
+      }
+    },
+    "examples/9-mario-kart-single-file/dist/models/voxel/16/main.glb": {
+      "name": "9-mario-kart-single-file-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/9-mario-kart-single-file-voxel-16.glb",
+      "bytes": 187716,
+      "sha256": "b35dbb0ccf06d07cfc3e1fc994b751ec2aed11b25b4c3c95f56e46acc0da831c",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "9-mario-kart-single-file/dist/models/voxel/16/main.glb",
+        "sha256": "b35dbb0ccf06d07cfc3e1fc994b751ec2aed11b25b4c3c95f56e46acc0da831c"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/voxel/64/main.glb": {
+      "name": "10-woven-bamboo-chair-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-64.glb",
+      "bytes": 2043168,
+      "sha256": "bca83f454accbbbcd4fa7d0d990e9218f789be2baf455b5f3a81632de4db9fdb",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/voxel/64/main.glb",
+        "sha256": "bca83f454accbbbcd4fa7d0d990e9218f789be2baf455b5f3a81632de4db9fdb"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/voxel/32/main.glb": {
+      "name": "10-woven-bamboo-chair-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-32.glb",
+      "bytes": 535268,
+      "sha256": "30d526d6ea605744a7ed465fbfd82ab74de1b3007ab90f086462a0d887f6accf",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/voxel/32/main.glb",
+        "sha256": "30d526d6ea605744a7ed465fbfd82ab74de1b3007ab90f086462a0d887f6accf"
+      }
+    },
+    "examples/10-woven-bamboo-chair/dist/models/voxel/16/main.glb": {
+      "name": "10-woven-bamboo-chair-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/10-woven-bamboo-chair-voxel-16.glb",
+      "bytes": 152548,
+      "sha256": "1f16aad9ccc7b79caa569df276e0f9c96102383facaf8f1703f69b8a360d6095",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "10-woven-bamboo-chair/dist/models/voxel/16/main.glb",
+        "sha256": "1f16aad9ccc7b79caa569df276e0f9c96102383facaf8f1703f69b8a360d6095"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/voxel/64/main.glb": {
+      "name": "11-spindle-back-chair-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/11-spindle-back-chair-voxel-64.glb",
+      "bytes": 1407408,
+      "sha256": "1884a802969d24681980cfa8eadd686ea383e0fa1f1f08a4dfad172352d23429",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/voxel/64/main.glb",
+        "sha256": "1884a802969d24681980cfa8eadd686ea383e0fa1f1f08a4dfad172352d23429"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/voxel/32/main.glb": {
+      "name": "11-spindle-back-chair-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/11-spindle-back-chair-voxel-32.glb",
+      "bytes": 402332,
+      "sha256": "87c484e3a4649a931dbf1ef69fc8250c3e5c2ad3b1dae15b9674041eb1263400",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/voxel/32/main.glb",
+        "sha256": "87c484e3a4649a931dbf1ef69fc8250c3e5c2ad3b1dae15b9674041eb1263400"
+      }
+    },
+    "examples/11-spindle-back-chair/dist/models/voxel/16/main.glb": {
+      "name": "11-spindle-back-chair-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/11-spindle-back-chair-voxel-16.glb",
+      "bytes": 130552,
+      "sha256": "fe85b7f9d7ca820c5a20cf42ebbb0ec8851906698568746359c1ecb50345c15c",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "11-spindle-back-chair/dist/models/voxel/16/main.glb",
+        "sha256": "fe85b7f9d7ca820c5a20cf42ebbb0ec8851906698568746359c1ecb50345c15c"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/voxel/64/main.glb": {
+      "name": "12-part3d-roundtrip-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-64.glb",
+      "bytes": 945992,
+      "sha256": "b6c926f62dbf6e0587d2be11b676b03ce5c0d28621a93a6ac9efa19816a77407",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/voxel/64/main.glb",
+        "sha256": "b6c926f62dbf6e0587d2be11b676b03ce5c0d28621a93a6ac9efa19816a77407"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/voxel/32/main.glb": {
+      "name": "12-part3d-roundtrip-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-32.glb",
+      "bytes": 229488,
+      "sha256": "7f6cfd884c1d45017024b02585315214db1970d292d5ff1e162fb8c6e1b07707",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/voxel/32/main.glb",
+        "sha256": "7f6cfd884c1d45017024b02585315214db1970d292d5ff1e162fb8c6e1b07707"
+      }
+    },
+    "examples/12-part3d-roundtrip/dist/models/voxel/16/main.glb": {
+      "name": "12-part3d-roundtrip-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-16.glb",
+      "bytes": 48424,
+      "sha256": "e8387a31bd9c65b1f0c9a7f2cf56895df0154694880bed5274ad74eccf92d833",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "12-part3d-roundtrip/dist/models/voxel/16/main.glb",
+        "sha256": "e8387a31bd9c65b1f0c9a7f2cf56895df0154694880bed5274ad74eccf92d833"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/voxel/64/main.glb": {
+      "name": "13-stepped-flange-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-64.glb",
+      "bytes": 3840984,
+      "sha256": "40d07a729e48a72ef33979e65c1e8925ad83e6ffd637a452552209ba605037e7",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/voxel/64/main.glb",
+        "sha256": "40d07a729e48a72ef33979e65c1e8925ad83e6ffd637a452552209ba605037e7"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/voxel/32/main.glb": {
+      "name": "13-stepped-flange-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-32.glb",
+      "bytes": 931636,
+      "sha256": "613d6718105a89a7064b7dc7aea871193d0f10cb6b5f3b6e1481e2f6e415df3e",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/voxel/32/main.glb",
+        "sha256": "613d6718105a89a7064b7dc7aea871193d0f10cb6b5f3b6e1481e2f6e415df3e"
+      }
+    },
+    "examples/13-stepped-flange/dist/models/voxel/16/main.glb": {
+      "name": "13-stepped-flange-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-16.glb",
+      "bytes": 147052,
+      "sha256": "8bc9767835d8095a41e50f68b588732117b29aa5ea61768241ef42c9b37837e1",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "13-stepped-flange/dist/models/voxel/16/main.glb",
+        "sha256": "8bc9767835d8095a41e50f68b588732117b29aa5ea61768241ef42c9b37837e1"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/voxel/64/main.glb": {
+      "name": "14-bearing-housing-part3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-64.glb",
+      "bytes": 3471548,
+      "sha256": "1ad403621d21e234c1295c58da91f57a4f5f13675dc71b3e1abf9b2da9b7713a",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/voxel/64/main.glb",
+        "sha256": "1ad403621d21e234c1295c58da91f57a4f5f13675dc71b3e1abf9b2da9b7713a"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/voxel/32/main.glb": {
+      "name": "14-bearing-housing-part3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-32.glb",
+      "bytes": 794008,
+      "sha256": "43c920eac7a31957b6d901d23b1d50890f05357f9611e306c094a36ff818c89b",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/voxel/32/main.glb",
+        "sha256": "43c920eac7a31957b6d901d23b1d50890f05357f9611e306c094a36ff818c89b"
+      }
+    },
+    "examples/14-bearing-housing-part3d/dist/models/voxel/16/main.glb": {
+      "name": "14-bearing-housing-part3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-16.glb",
+      "bytes": 140796,
+      "sha256": "0b90c0462f65ed7c87fe95e87c9a8ab00bab3a25aa82efa4144e2e270c69b319",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "14-bearing-housing-part3d/dist/models/voxel/16/main.glb",
+        "sha256": "0b90c0462f65ed7c87fe95e87c9a8ab00bab3a25aa82efa4144e2e270c69b319"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/voxel/64/main.glb": {
+      "name": "15-high-speed-shaft-part3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-64.glb",
+      "bytes": 1100188,
+      "sha256": "09da6e5c8ea50729a791938d7161555a64d42736437e4654511c757340de1547",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/voxel/64/main.glb",
+        "sha256": "09da6e5c8ea50729a791938d7161555a64d42736437e4654511c757340de1547"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/voxel/32/main.glb": {
+      "name": "15-high-speed-shaft-part3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-32.glb",
+      "bytes": 275852,
+      "sha256": "8bc295b2c0e546ad22fbb515d1cf1f49c670c62ea271edb7922f298738ea60da",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/voxel/32/main.glb",
+        "sha256": "8bc295b2c0e546ad22fbb515d1cf1f49c670c62ea271edb7922f298738ea60da"
+      }
+    },
+    "examples/15-high-speed-shaft-part3d/dist/models/voxel/16/main.glb": {
+      "name": "15-high-speed-shaft-part3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-16.glb",
+      "bytes": 62408,
+      "sha256": "a033bd70f5eb8f8e89df77c08ac94e777ac44cf65964bc6253f747eba15b279c",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "15-high-speed-shaft-part3d/dist/models/voxel/16/main.glb",
+        "sha256": "a033bd70f5eb8f8e89df77c08ac94e777ac44cf65964bc6253f747eba15b279c"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/voxel/64/main.glb": {
+      "name": "16-housing-part3d-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-64.glb",
+      "bytes": 6212008,
+      "sha256": "f277b91674868b66b9586afe8fe2f0bdde038525d6fce7def8ba0b977c3549ca",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/voxel/64/main.glb",
+        "sha256": "f277b91674868b66b9586afe8fe2f0bdde038525d6fce7def8ba0b977c3549ca"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/voxel/32/main.glb": {
+      "name": "16-housing-part3d-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-32.glb",
+      "bytes": 1538104,
+      "sha256": "a0a63c52f2179ceede1e5786f688b7a6e81105acd048a7c435d8dbee8f3b8ca5",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/voxel/32/main.glb",
+        "sha256": "a0a63c52f2179ceede1e5786f688b7a6e81105acd048a7c435d8dbee8f3b8ca5"
+      }
+    },
+    "examples/16-housing-part3d/dist/models/voxel/16/main.glb": {
+      "name": "16-housing-part3d-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-16.glb",
+      "bytes": 375952,
+      "sha256": "6582967aa34206db858e4d28d43bd6cd9445dcac4049e4147f59610c457b1468",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "16-housing-part3d/dist/models/voxel/16/main.glb",
+        "sha256": "6582967aa34206db858e4d28d43bd6cd9445dcac4049e4147f59610c457b1468"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/voxel/64/main.glb": {
+      "name": "17-stirling-d16-c-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/17-stirling-d16-c-voxel-64.glb",
+      "bytes": 6747708,
+      "sha256": "6eeb4657bf68df44eac1fcb617030e923ae4232547886cf43a1e7c65dcc89ed2",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/voxel/64/main.glb",
+        "sha256": "6eeb4657bf68df44eac1fcb617030e923ae4232547886cf43a1e7c65dcc89ed2"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/voxel/32/main.glb": {
+      "name": "17-stirling-d16-c-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/17-stirling-d16-c-voxel-32.glb",
+      "bytes": 967124,
+      "sha256": "f0a6b34c285ab92670b3d3e5c5a384759697d58ee7db88037310d14ce8dfbd81",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/voxel/32/main.glb",
+        "sha256": "f0a6b34c285ab92670b3d3e5c5a384759697d58ee7db88037310d14ce8dfbd81"
+      }
+    },
+    "examples/17-stirling-d16-c/dist/models/voxel/16/main.glb": {
+      "name": "17-stirling-d16-c-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/17-stirling-d16-c-voxel-16.glb",
+      "bytes": 194804,
+      "sha256": "76be4e16daf98dde17c6ac779b0fcc209f583d416b9da674f3c5b39e124d0a65",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "17-stirling-d16-c/dist/models/voxel/16/main.glb",
+        "sha256": "76be4e16daf98dde17c6ac779b0fcc209f583d416b9da674f3c5b39e124d0a65"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/voxel/64/main.glb": {
+      "name": "18-stirling-horizontal-quartz-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-64.glb",
+      "bytes": 3028024,
+      "sha256": "6b89b9c375565f387ca548b0e39aadeea2f4f8644541001a74ee5d2e8a210e17",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/voxel/64/main.glb",
+        "sha256": "6b89b9c375565f387ca548b0e39aadeea2f4f8644541001a74ee5d2e8a210e17"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/voxel/32/main.glb": {
+      "name": "18-stirling-horizontal-quartz-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-32.glb",
+      "bytes": 579244,
+      "sha256": "3315290276325c24ac8b2240736352967c1ed934b70d0a66ab852c0bf0e0e5d5",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/voxel/32/main.glb",
+        "sha256": "3315290276325c24ac8b2240736352967c1ed934b70d0a66ab852c0bf0e0e5d5"
+      }
+    },
+    "examples/18-stirling-horizontal-quartz/dist/models/voxel/16/main.glb": {
+      "name": "18-stirling-horizontal-quartz-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-16.glb",
+      "bytes": 163556,
+      "sha256": "9c1a7785f3292d463b27be80514618525ce9f335e0e22ebb507e8f51efa8e4be",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "18-stirling-horizontal-quartz/dist/models/voxel/16/main.glb",
+        "sha256": "9c1a7785f3292d463b27be80514618525ce9f335e0e22ebb507e8f51efa8e4be"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/voxel/64/main.glb": {
+      "name": "19-ge-e3-fan-module-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-64.glb",
+      "bytes": 4461808,
+      "sha256": "cb01283593f5067a1938c16623ff24021808defbccd5a367166b42aed514f619",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/voxel/64/main.glb",
+        "sha256": "cb01283593f5067a1938c16623ff24021808defbccd5a367166b42aed514f619"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/voxel/32/main.glb": {
+      "name": "19-ge-e3-fan-module-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-32.glb",
+      "bytes": 715104,
+      "sha256": "18958cd3eb7fa1cdd202156dba797f9bb823533d0243550fffad673a5cebb256",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/voxel/32/main.glb",
+        "sha256": "18958cd3eb7fa1cdd202156dba797f9bb823533d0243550fffad673a5cebb256"
+      }
+    },
+    "examples/19-ge-e3-fan-module/dist/models/voxel/16/main.glb": {
+      "name": "19-ge-e3-fan-module-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/19-ge-e3-fan-module-voxel-16.glb",
+      "bytes": 176048,
+      "sha256": "e02a384b664ca9ff7288d818181f7413c01f3c3832ac400d72d9d5e53ad876ef",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "19-ge-e3-fan-module/dist/models/voxel/16/main.glb",
+        "sha256": "e02a384b664ca9ff7288d818181f7413c01f3c3832ac400d72d9d5e53ad876ef"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/voxel/64/main.glb": {
+      "name": "20-cargo-atv-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/20-cargo-atv-voxel-64.glb",
+      "bytes": 6578304,
+      "sha256": "0f4f37b2de2e6f60f1153cf83fe3081687aa0bc740e699823221ab6bf7827941",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/voxel/64/main.glb",
+        "sha256": "0f4f37b2de2e6f60f1153cf83fe3081687aa0bc740e699823221ab6bf7827941"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/voxel/32/main.glb": {
+      "name": "20-cargo-atv-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/20-cargo-atv-voxel-32.glb",
+      "bytes": 1334652,
+      "sha256": "3f5be0b41f250b3486ccab514726e5f3b66719c98b8a4ee72ea460d3573c15ea",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/voxel/32/main.glb",
+        "sha256": "3f5be0b41f250b3486ccab514726e5f3b66719c98b8a4ee72ea460d3573c15ea"
+      }
+    },
+    "examples/20-cargo-atv/dist/models/voxel/16/main.glb": {
+      "name": "20-cargo-atv-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/20-cargo-atv-voxel-16.glb",
+      "bytes": 300788,
+      "sha256": "8e89aa10973f56ce5d74f258c580a9cfe6bd0178750ae1848b11d8db2f1a377f",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "20-cargo-atv/dist/models/voxel/16/main.glb",
+        "sha256": "8e89aa10973f56ce5d74f258c580a9cfe6bd0178750ae1848b11d8db2f1a377f"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/voxel/64/main.glb": {
+      "name": "21-baltsar-chair-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-64.glb",
+      "bytes": 2034188,
+      "sha256": "61ea9219d05ccd063f53266d6a0e387571855ceb64fc1c25b3f3fa56db696bf7",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/voxel/64/main.glb",
+        "sha256": "61ea9219d05ccd063f53266d6a0e387571855ceb64fc1c25b3f3fa56db696bf7"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/voxel/32/main.glb": {
+      "name": "21-baltsar-chair-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-32.glb",
+      "bytes": 507988,
+      "sha256": "cff4d32bc8721cf77c62a75336e1cab7b4a762050309e9b5fed44bdf28e70c4e",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/voxel/32/main.glb",
+        "sha256": "cff4d32bc8721cf77c62a75336e1cab7b4a762050309e9b5fed44bdf28e70c4e"
+      }
+    },
+    "examples/21-baltsar-chair/dist/models/voxel/16/main.glb": {
+      "name": "21-baltsar-chair-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-16.glb",
+      "bytes": 146952,
+      "sha256": "4c3626213f4a23d9047ef4425ecefe6823ebc748e1b552683ae23cf385d3a020",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "21-baltsar-chair/dist/models/voxel/16/main.glb",
+        "sha256": "4c3626213f4a23d9047ef4425ecefe6823ebc748e1b552683ae23cf385d3a020"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/voxel/64/main.glb": {
+      "name": "22-walking-drive-assembly-voxel-64.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-64.glb",
+      "bytes": 5651308,
+      "sha256": "bd586067e28cb3f98dea015edb93399e3abe25ef6220e636c913a82ac19d4f5a",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/voxel/64/main.glb",
+        "sha256": "bd586067e28cb3f98dea015edb93399e3abe25ef6220e636c913a82ac19d4f5a"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/voxel/32/main.glb": {
+      "name": "22-walking-drive-assembly-voxel-32.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-32.glb",
+      "bytes": 1129564,
+      "sha256": "e5c6b7752715e607cf830587407a3f3facbb35822d05776008b7615c97ff6e61",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/voxel/32/main.glb",
+        "sha256": "e5c6b7752715e607cf830587407a3f3facbb35822d05776008b7615c97ff6e61"
+      }
+    },
+    "examples/22-walking-drive-assembly/dist/models/voxel/16/main.glb": {
+      "name": "22-walking-drive-assembly-voxel-16.glb",
+      "tag": "voxel-models-2026-09-26",
+      "url": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-16.glb",
+      "bytes": 207100,
+      "sha256": "20ba19d81ebb381933b33344dede1c0ddf4c82b577867b19aebf086e01b6a996",
+      "sourceCommit": "2c1cd6dd5f27c437a97a17451dfbd298a8d0001d",
+      "status": "published",
+      "verifiedAt": "2026-09-26T08:07:55.055Z",
+      "source": {
+        "path": "22-walking-drive-assembly/dist/models/voxel/16/main.glb",
+        "sha256": "20ba19d81ebb381933b33344dede1c0ddf4c82b577867b19aebf086e01b6a996"
+      }
     }
   },
   "files": {
@@ -1925,16 +2849,16 @@
       }
     },
     "examples/1-boolean-cutout/model-info.json": {
-      "sha256": "b00a4005a9110abbd2d3627f4f1de0f72ae8c9cbd9a6a3c92073bb489d5782ad",
-      "bytes": 5708
+      "sha256": "402c1ea09022db7d2b97705792061951e23e94b68bf0606838e2ed731e8859c9",
+      "bytes": 11297
     },
     "examples/1-boolean-cutout/README.md": {
-      "sha256": "3cd84e0b832adaa143f1bd07f74874844573ea507ded2a9da7b5a7f26d0119d1",
-      "bytes": 3699
+      "sha256": "e8c61113b5f5e2520e2faeecaedd9286dae8f19cb6181c63fc514eff5c6c41ac",
+      "bytes": 4444
     },
     "examples/1-boolean-cutout/README.zh-CN.md": {
-      "sha256": "6b57f6a196c74e84b42d0733d7865387db3f0eef617ddc3104d6ebbb31067e85",
-      "bytes": 3695
+      "sha256": "fc3cbaf4e23bd3d0d5d864bfd9380438f6b934278f3d65a8f2772a4c31fec040",
+      "bytes": 4391
     },
     "examples/2-woven-basket-block3d/main.code3d.js": {
       "sha256": "f6e5539f855d39df247ff295fb65aeafa59449277d77d100a407f7f3e04bf39f",
@@ -2009,16 +2933,16 @@
       }
     },
     "examples/2-woven-basket-block3d/model-info.json": {
-      "sha256": "ed531d507a65ba9f5da51989448d4c6bb2158f937771875df20e5fd4ede464bd",
-      "bytes": 5743
+      "sha256": "329a37b5806810fe5c97047ac4ba04f7d365afa49ab0997c3171f219fec5ed44",
+      "bytes": 11359
     },
     "examples/2-woven-basket-block3d/README.md": {
-      "sha256": "209b2d3fa1f83296d8fa8e726f324a974a2d1d791dd4e22e24a49019ee77b27a",
-      "bytes": 3734
+      "sha256": "4ba62c05459625bb4cd9bc8f2ac6f73d0cbbf1fd9cf153155a4c4430e3886190",
+      "bytes": 4497
     },
     "examples/2-woven-basket-block3d/README.zh-CN.md": {
-      "sha256": "09fe4e46f8ee49573a6ca799c8ffb415ce53cf906af7fc023adb9c7d6d35e192",
-      "bytes": 3701
+      "sha256": "e7d59aae00aab5637c1516653c21296ed1656090507be9755b5a3b2c88c4b2a0",
+      "bytes": 4415
     },
     "examples/3-billiards-single-file/main.code3d.js": {
       "sha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
@@ -2093,16 +3017,16 @@
       }
     },
     "examples/3-billiards-single-file/model-info.json": {
-      "sha256": "6722b4c8197c808c27a35ad1df898f88d20f9f8ba0e0190c1989bc704c692db5",
-      "bytes": 5760
+      "sha256": "5c38bbc3414a7bf972cdf0237c5fb41dbaae29619b956a66a57afc1efe274a56",
+      "bytes": 14571
     },
     "examples/3-billiards-single-file/README.md": {
-      "sha256": "ef10105d65c48a902050db997e4acf443636957fbe523ddad73e94223089e3f7",
-      "bytes": 3790
+      "sha256": "24a2e891a1291157b6abeb751474f1e701d3b6b8c5feae58b7bde375885e2503",
+      "bytes": 4556
     },
     "examples/3-billiards-single-file/README.zh-CN.md": {
-      "sha256": "b21cd2e19d14f2a824d265ccf9c2a627774d5ac1f4713709324f4cfaf96991c8",
-      "bytes": 3753
+      "sha256": "f26c8c9f53931d52330e89447eb1067a859ac78c8f404f9256fa144a07c26779",
+      "bytes": 4470
     },
     "examples/4-coffee-cup-block3d/main.code3d.js": {
       "sha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
@@ -2177,16 +3101,16 @@
       }
     },
     "examples/4-coffee-cup-block3d/model-info.json": {
-      "sha256": "10472c3563f53bffe8f258588dc2015dd9ba6c1a2d17c35482a55440f7144758",
-      "bytes": 5758
+      "sha256": "1325a3ff9f7dcf88dcc8f4538e17a82d05e5567771975750cd0e6ba923a15431",
+      "bytes": 11456
     },
     "examples/4-coffee-cup-block3d/README.md": {
-      "sha256": "2281f2c3cec9d4e6272e540b2365ca2e9c4b9ec9956b0715974c95ef47950b74",
-      "bytes": 3705
+      "sha256": "e21a5fde7c59b915f4ccf23df0e9671c3d07a306385f51fa21f2b7b0fad04b09",
+      "bytes": 4462
     },
     "examples/4-coffee-cup-block3d/README.zh-CN.md": {
-      "sha256": "52724c5532ff20d6f3a572fce2d602f90b1540aca73806b2cf17221a91ef040f",
-      "bytes": 3662
+      "sha256": "f1b98ae0a0fcadda873d1b22d10e3ce44dce530eda84651957f355a9aa88806a",
+      "bytes": 4370
     },
     "examples/5-round-bottom-wok/main.code3d.js": {
       "sha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
@@ -2261,16 +3185,16 @@
       }
     },
     "examples/5-round-bottom-wok/model-info.json": {
-      "sha256": "473a597c8f18fca1c10b72f59b295f7a850612e84b91fce1ad97b3f371aad149",
-      "bytes": 5742
+      "sha256": "96fa8e2f251a5bd8d63a3b40b80a62b79cf9ecd5385abd8360618f9b5c049077",
+      "bytes": 12633
     },
     "examples/5-round-bottom-wok/README.md": {
-      "sha256": "0e2d0d97ef3576ce0a1a6f9683e19260078df5b380f6d9c4d9fed36bd89e76ae",
-      "bytes": 3714
+      "sha256": "0a2ed7e6fb77e2344a91e928016fbee4c338d18254336fd7586e0d14fce3014e",
+      "bytes": 4465
     },
     "examples/5-round-bottom-wok/README.zh-CN.md": {
-      "sha256": "5cad5293342a04f194c2ae3a23ee9b8e54c53ac2800dea95f3c58dd21c91129d",
-      "bytes": 3669
+      "sha256": "bd03a76aa9b2413f0aab9dcfdfb88fe401fbe8309d8e719509557a4ef331399f",
+      "bytes": 4371
     },
     "examples/6-cast-iron-skillet/main.code3d.js": {
       "sha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2",
@@ -2345,16 +3269,16 @@
       }
     },
     "examples/6-cast-iron-skillet/model-info.json": {
-      "sha256": "016db69e7e5d85d22e88d3d8e104a5669bbaf7570b5ad8c79703127897b8750b",
-      "bytes": 5747
+      "sha256": "ec9758ae3c53434ee7e144cfe438e636b17e606c8bbc40042fd0a89bc94f6d2a",
+      "bytes": 11400
     },
     "examples/6-cast-iron-skillet/README.md": {
-      "sha256": "0533ed1b23ea75d475513a2687659ebca5e724ef4762f47fe0079e4f51706335",
-      "bytes": 3745
+      "sha256": "c8585e871c9a22af325697cc535687da8f52e774d59cb7b8b7bb76669abeeb77",
+      "bytes": 4499
     },
     "examples/6-cast-iron-skillet/README.zh-CN.md": {
-      "sha256": "b87900dda96a734ea728faaf459c0da8c3ed4f8179a09c2eb2969505e1fbd335",
-      "bytes": 3666
+      "sha256": "840b75cee09ed587488b93c57691cbf11cb28b03a0f0899add5571923a22f6fb",
+      "bytes": 4371
     },
     "examples/7-lunar-rover-block3d/main.code3d.js": {
       "sha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6",
@@ -2429,16 +3353,16 @@
       }
     },
     "examples/7-lunar-rover-block3d/model-info.json": {
-      "sha256": "af041ce820d45abb0907a81babcf135c90c85dd853727de74ada7de3ed701696",
-      "bytes": 5768
+      "sha256": "c698b00caaf70eb92fef9b80cefb27453aab427d317adad092f79cf9eda1c531",
+      "bytes": 15522
     },
     "examples/7-lunar-rover-block3d/README.md": {
-      "sha256": "00c3f2c1039447349973547f832314a5dcb0e6b1d006bdd63299adcd95fa426f",
-      "bytes": 3742
+      "sha256": "2437310e2f44e24a54224f98c62074e3caeb2a38093c4a89a994281bae92f633",
+      "bytes": 4502
     },
     "examples/7-lunar-rover-block3d/README.zh-CN.md": {
-      "sha256": "48556fe3833e33a034d4deef19d365f902a2b28ecc3dd5f12f387952e2d943ba",
-      "bytes": 3686
+      "sha256": "752345b210766db707c8842fce90a57c0fd11f440e21f6d2240376725f4f2d9a",
+      "bytes": 4397
     },
     "examples/8-microscope-block3d/main.code3d.js": {
       "sha256": "ecb5b32a2242540f016fbf6f33cc3252cf4f2b3d607d77f05d638fbfb4409aa9",
@@ -2513,16 +3437,16 @@
       }
     },
     "examples/8-microscope-block3d/model-info.json": {
-      "sha256": "7c606ddfcfd9f7af2d99c1ef8fcfba725c3b97e6d9fd3d2cf95c4e1e375d1e0b",
-      "bytes": 5752
+      "sha256": "837037125bfdc96f662aa19f2f3142074d58cbec24c534aeb969f5c212607641",
+      "bytes": 16292
     },
     "examples/8-microscope-block3d/README.md": {
-      "sha256": "de0488c0fdbc0004f2d6274ae99cf3d1b282eefa9d537abfeb94d810b8c9c952",
-      "bytes": 3717
+      "sha256": "ca1af8f75e0d2e9fce78a60dac1c89b75761d9668400b88c07dfb380d13b07da",
+      "bytes": 4474
     },
     "examples/8-microscope-block3d/README.zh-CN.md": {
-      "sha256": "0c7aaf881a0dc210d260712b300774509060ad942b41d936c0a6d235de977bb9",
-      "bytes": 3666
+      "sha256": "87b83b3600bb77af7eb9156a0e393768ef2ae7016f502783bbe11255e3334967",
+      "bytes": 4374
     },
     "examples/9-mario-kart-single-file/main.code3d.js": {
       "sha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6",
@@ -2597,16 +3521,16 @@
       }
     },
     "examples/9-mario-kart-single-file/model-info.json": {
-      "sha256": "ee744d509ddde28edd07ab7a18c95041acf70158f3d9b23f4c7fb22bdaa42df0",
-      "bytes": 5805
+      "sha256": "85a7628400091ec115d0f698c29f476e24be07635a209f234b917f34d5dec366",
+      "bytes": 18337
     },
     "examples/9-mario-kart-single-file/README.md": {
-      "sha256": "8b16777bc00fd7b8fc28c6126b2787907b8d302778dcf95def093adade9615d3",
-      "bytes": 3780
+      "sha256": "11be9fcf5fafc47b74d3761ec90eadd15ac1f6d5641b1b5c2ab92acecb1f00ad",
+      "bytes": 4549
     },
     "examples/9-mario-kart-single-file/README.zh-CN.md": {
-      "sha256": "d72367988a2885655c2f8d96cad238e42d23021d12cfbd7841e36a7c14cf2125",
-      "bytes": 3795
+      "sha256": "e0ccf624a2cf6e4ae86977c95272a32ad9a024deadc9fd7a0176ff2bbc455402",
+      "bytes": 4515
     },
     "examples/10-woven-bamboo-chair/main.code3d.js": {
       "sha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
@@ -2681,16 +3605,16 @@
       }
     },
     "examples/10-woven-bamboo-chair/model-info.json": {
-      "sha256": "1fd40bb06731067d5c89a892579c84f3139be1ee0e97b19928fd6c79b90ca0ef",
-      "bytes": 5773
+      "sha256": "0688e04d556f2676a82669affad94c5e5cba3902e791c5fe69cbd151cd12d5b2",
+      "bytes": 12272
     },
     "examples/10-woven-bamboo-chair/README.md": {
-      "sha256": "d63ed39d4547ed76606f08cff7652472003ab7684d6b94df71c95e7c23db71dc",
-      "bytes": 3806
+      "sha256": "585dd0c474ad25e00609173b9cd29db9273ae215ccef853239b8dacab7b75c09",
+      "bytes": 4566
     },
     "examples/10-woven-bamboo-chair/README.zh-CN.md": {
-      "sha256": "7404c778bdbc06b905fa55bb59b6c811466286bba9205559e98fe95911d4ae15",
-      "bytes": 3732
+      "sha256": "36a3743593dbf22270ee41c5eacd1bcbcc5aa876e8f596db3d98f9d029c9bca0",
+      "bytes": 4443
     },
     "examples/11-spindle-back-chair/main.code3d.js": {
       "sha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900",
@@ -2765,16 +3689,16 @@
       }
     },
     "examples/11-spindle-back-chair/model-info.json": {
-      "sha256": "b47d6fe85b39cd2c4539ae1d26865e5952851a80b76f76c3eab1be5bf515a408",
-      "bytes": 5742
+      "sha256": "1f08682d3cd968b66dfc4143f221f9423b10bbdbbc4b3e1566e72d33639bb86b",
+      "bytes": 11796
     },
     "examples/11-spindle-back-chair/README.md": {
-      "sha256": "995191d4645834bbd146f6db6c15aac0a7ab29d89950a1a6d41574ad8e3147d2",
-      "bytes": 3783
+      "sha256": "0609fb1ccbcd6028622ff776ea7d9a2a051d5a854e13d59c9ec5dfecf4a66a45",
+      "bytes": 4543
     },
     "examples/11-spindle-back-chair/README.zh-CN.md": {
-      "sha256": "257c65621d480cb205a764e2869b2a26d6949d7200aa3ff8a221235bc8475941",
-      "bytes": 3741
+      "sha256": "c0faf13b41c538d5df55553bc5bb50f4e89ffc3fdf5b2821107d44cb84a7541c",
+      "bytes": 4452
     },
     "examples/12-part3d-roundtrip/main.code3d.js": {
       "sha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
@@ -2849,16 +3773,16 @@
       }
     },
     "examples/12-part3d-roundtrip/model-info.json": {
-      "sha256": "c316460bbc94b43fbe1054d944f2b9889be44d2282e3b681da19d23e8bab5951",
-      "bytes": 5699
+      "sha256": "320022ff093af45c9526355a25352aab367dc8d08a1cfb1ec08f983d5caceb7c",
+      "bytes": 11318
     },
     "examples/12-part3d-roundtrip/README.md": {
-      "sha256": "3256829c25fe27724aea981dc6c58daea108c8f9c484fb6143b150741adc9e04",
-      "bytes": 3693
+      "sha256": "27cb897dab0e5abec684fb2065f46f6affa02e7dfbee574abebb4670c2582f6b",
+      "bytes": 4447
     },
     "examples/12-part3d-roundtrip/README.zh-CN.md": {
-      "sha256": "d5bed21d15dfebb6ad17a6a3d76e1f99fc057c8b52a5b6c0a255d154cdc1aad4",
-      "bytes": 3648
+      "sha256": "977d4702ebfd58ee592d18ba26ac1c81160a4762163bcd2b2794aefcf4f95a44",
+      "bytes": 4353
     },
     "examples/13-stepped-flange/main.code3d.js": {
       "sha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
@@ -2933,16 +3857,16 @@
       }
     },
     "examples/13-stepped-flange/model-info.json": {
-      "sha256": "69b5ac20a02ed04e4e4135730afe6a92b2b05bfb7f6a75a9414b820c19af644d",
-      "bytes": 5697
+      "sha256": "7c51b3478b4d6b99cb96c1e8100e19a50e8b75f922bbdc4be5ea8497438678c4",
+      "bytes": 11337
     },
     "examples/13-stepped-flange/README.md": {
-      "sha256": "6eee1dc24907371bff902dbe4755e3c322469ca51f095bfdb552ae0d046d5538",
-      "bytes": 3704
+      "sha256": "b88eba1bb3a6c8bb5a97b67a33d192f174dfc940ac63219ccc7bb3dabc95727a",
+      "bytes": 4452
     },
     "examples/13-stepped-flange/README.zh-CN.md": {
-      "sha256": "92e910a40313cbb2602b3960f9be7bc8673913b93c8517e486fe2ae4d973f1e3",
-      "bytes": 3666
+      "sha256": "106ceaa847590014fbfee5e2729625c6c1de2d777ec8949c32f7d6a2a11de203",
+      "bytes": 4365
     },
     "examples/14-bearing-housing-part3d/main.code3d.js": {
       "sha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
@@ -3017,16 +3941,16 @@
       }
     },
     "examples/14-bearing-housing-part3d/model-info.json": {
-      "sha256": "3ae995864c9da38ad8f06620f9363399fe4f596e761a902b9fe53cfd3ccb8bf2",
-      "bytes": 5762
+      "sha256": "09a685f6403221be2272db4f7c1793e91461d16c6707fb6074ea45841b2a2988",
+      "bytes": 11430
     },
     "examples/14-bearing-housing-part3d/README.md": {
-      "sha256": "003ffb6d4d2d088b43d1b8ba53675473abc8ef809f795687bf56ae061fc32d6a",
-      "bytes": 3798
+      "sha256": "55a0bfc3fc4cb7bb7aa8abdb8424b686a80ec5154dd20f73998aa446a8de5a48",
+      "bytes": 4570
     },
     "examples/14-bearing-housing-part3d/README.zh-CN.md": {
-      "sha256": "2a3e168d63ef23d63c6f762a721fca4001b5c1940f7b513865cfedf63d98c303",
-      "bytes": 3720
+      "sha256": "cdee6fd7e5d62d75540062f710ed4b2b650dfa9acfc01e779994a078407c479f",
+      "bytes": 4443
     },
     "examples/15-high-speed-shaft-part3d/main.code3d.js": {
       "sha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
@@ -3101,16 +4025,16 @@
       }
     },
     "examples/15-high-speed-shaft-part3d/model-info.json": {
-      "sha256": "818616117505aee6688ec12cdf5137ecedcdfd55f876ea33aba147ef19312d49",
-      "bytes": 5760
+      "sha256": "d4d32af5cf8c76c2a144bb5138630a72812ae90459f73f14fd12058c478f9653",
+      "bytes": 11441
     },
     "examples/15-high-speed-shaft-part3d/README.md": {
-      "sha256": "5bae6ba0f580f0467ac44bb65e0028b1d3469747e4f7122d683dc834a353758c",
-      "bytes": 3801
+      "sha256": "1d6f7e4ee0174b9af14076bc538920f7188f61d42f09d88ad7354bfe944e73e4",
+      "bytes": 4576
     },
     "examples/15-high-speed-shaft-part3d/README.zh-CN.md": {
-      "sha256": "61dac0030f8f20d992ae360e845799126d180e88f42344b397af6dbe344a5938",
-      "bytes": 3719
+      "sha256": "609550b8e739e33610f00c1f3cb376406f885acea4e3caa135c2edb34301b174",
+      "bytes": 4445
     },
     "examples/16-housing-part3d/main.code3d.js": {
       "sha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
@@ -3185,16 +4109,16 @@
       }
     },
     "examples/16-housing-part3d/model-info.json": {
-      "sha256": "7913aa48c72e3d2a56489dd75a9d70f9d256d1b67ebaeb9241e4c6f8ad7133fd",
-      "bytes": 5708
+      "sha256": "8f3d397c4622e1cba509825330aa2e0c6d21b07bc65f69901d51c9ea48c073c4",
+      "bytes": 11360
     },
     "examples/16-housing-part3d/README.md": {
-      "sha256": "5004afb468bd51e14cc7254f44f448e30c45099945c8a0b16823ba91fcdaf47c",
-      "bytes": 3734
+      "sha256": "de0ed1101b2a67674466e53e4c24486a55bda44bf8a9b04b223df3b2142f4f2d",
+      "bytes": 4482
     },
     "examples/16-housing-part3d/README.zh-CN.md": {
-      "sha256": "59d6aaef9c0570abe3ee646b3bbe35ea45f420d0e20d86130e488007302dad6e",
-      "bytes": 3645
+      "sha256": "11ffc5f1b798894560623a064c770de2d997be02b00d83e12ce54c0b578bfbe6",
+      "bytes": 4344
     },
     "examples/17-stirling-d16-c/main.code3d.js": {
       "sha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051",
@@ -3269,16 +4193,16 @@
       }
     },
     "examples/17-stirling-d16-c/model-info.json": {
-      "sha256": "3ec88f3c4e3cf5355a13743b631c350048b09d31201227f7a4f7516215059d05",
-      "bytes": 5734
+      "sha256": "26e17a07ec5b49e927771381053a7be8bcc2e2aed26e2d76b0920696cf93525f",
+      "bytes": 13166
     },
     "examples/17-stirling-d16-c/README.md": {
-      "sha256": "1f103e5e3cdf629d0c4c312ca6d7fb280b76ee700cc71d5111d2287923f868ee",
-      "bytes": 3809
+      "sha256": "2f7abb554077129586ad961c1343ddeb0b8de84668b427843ef94e3638e01040",
+      "bytes": 4557
     },
     "examples/17-stirling-d16-c/README.zh-CN.md": {
-      "sha256": "99e961bf14b1c644215c10df6fd47d7caf559465ed96d4685452935640229de1",
-      "bytes": 3757
+      "sha256": "ee208eedab65e13bca4f3f4d9df0e003c3441b93613d686e84e1cdf8f7daa051",
+      "bytes": 4456
     },
     "examples/18-stirling-horizontal-quartz/main.code3d.js": {
       "sha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
@@ -3353,16 +4277,16 @@
       }
     },
     "examples/18-stirling-horizontal-quartz/model-info.json": {
-      "sha256": "77a78693a47c10efd4e0ed4cc47c36f40e92d58ea15b8ba8824fb3c3037e12b0",
-      "bytes": 5840
+      "sha256": "65d1fc7cf8f58c8ae5dad7e77c0deb812d557433ad2c5d5db23f6a6fce49443c",
+      "bytes": 14794
     },
     "examples/18-stirling-horizontal-quartz/README.md": {
-      "sha256": "13aac07441b663e46ecec38d3d5076f8975d7f347301290b93e35f05698e3f39",
-      "bytes": 3924
+      "sha256": "c4152103e184505469eef0daa737c28ed9c72c7a48694ab194c7da6b171b4367",
+      "bytes": 4708
     },
     "examples/18-stirling-horizontal-quartz/README.zh-CN.md": {
-      "sha256": "f42c61b3bdecb3bff29a724797a95e74a3958427179b94eac3117b55c8ca7c4f",
-      "bytes": 3927
+      "sha256": "eec4dddd6202208037e370d3080cab47575b78d950459d560e43943385a058c6",
+      "bytes": 4662
     },
     "examples/19-ge-e3-fan-module/main.code3d.js": {
       "sha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
@@ -3437,16 +4361,16 @@
       }
     },
     "examples/19-ge-e3-fan-module/model-info.json": {
-      "sha256": "a9803cd5478b0973aff54a3381df0af110fdf64dc318745dbfd3b21d2cc88679",
-      "bytes": 5757
+      "sha256": "d52ecd6e9461975e930a885f879c21e7cf81a6a255054fc6577924d6d2a1ad72",
+      "bytes": 13202
     },
     "examples/19-ge-e3-fan-module/README.md": {
-      "sha256": "f1268f1731aa66560775e7c764b19519095a80d893229db9c5539d8e0ea2cde0",
-      "bytes": 3993
+      "sha256": "d4970e649de1897eddc3b6a5db7fc58db0bd593ac0e822af89d733244342c2bd",
+      "bytes": 4747
     },
     "examples/19-ge-e3-fan-module/README.zh-CN.md": {
-      "sha256": "7436f6baba215dc0df1f1274259ab281ca92e29cb2dc1e59ce998635e33208eb",
-      "bytes": 3949
+      "sha256": "d57ea4d2dafd5cbc268a9d69a906553177643285313cd15487bd9131611e3e25",
+      "bytes": 4654
     },
     "examples/20-cargo-atv/main.code3d.js": {
       "sha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb",
@@ -3677,16 +4601,16 @@
       "bytes": 1662
     },
     "examples/20-cargo-atv/model-info.json": {
-      "sha256": "e7a348cace29d89afb7eb997552f9de1908d2b1fc75b116cdd29559281aa0b72",
-      "bytes": 9053
+      "sha256": "b3d811f8951892e32b14118a64a7ef6b4ad4f025a4f8d40c4217c34044085b40",
+      "bytes": 22918
     },
     "examples/20-cargo-atv/README.md": {
-      "sha256": "7a4a1c5edc3658872873ba6975ad1ee110b1d696f4a8067123b54ab310cef054",
-      "bytes": 3759
+      "sha256": "d2fb24b6ead5ada3a21ad3443fdb575f0c3eb7e1317b8c07adc1a2c04f5ae5bc",
+      "bytes": 4492
     },
     "examples/20-cargo-atv/README.zh-CN.md": {
-      "sha256": "5e0c7f888dbfefc726779a30f2e5ba91fe1babb875fb52b68003abc4d4a3a95b",
-      "bytes": 3744
+      "sha256": "862c23f10e5cf2b0f0a4d9eb486e11582294a23c4e5df9f78eeffd773beffca6",
+      "bytes": 4428
     },
     "examples/21-baltsar-chair/main.code3d.js": {
       "sha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
@@ -3942,16 +4866,16 @@
       }
     },
     "examples/21-baltsar-chair/model-info.json": {
-      "sha256": "419ed50dba13cfddeab3b8117db69c857643ae616afba2600014e87858bd0b51",
-      "bytes": 9058
+      "sha256": "2953ee7835ae52279279a380fb5b2f319d128a294dd3c387516d839fbc7ba014",
+      "bytes": 15621
     },
     "examples/21-baltsar-chair/README.md": {
-      "sha256": "5c4b26dccee67fd9e0bbf77b87dcddee2f64912af4eae251982f7407ca995ca9",
-      "bytes": 4627
+      "sha256": "8e442462a47779b32a0f01f88b0254e5c376192db10c80c897a038541c50b6b0",
+      "bytes": 5372
     },
     "examples/21-baltsar-chair/README.zh-CN.md": {
-      "sha256": "85e52e711aff62952694ab2ecedd4184f693366ff3c4bafbf309c2e992f9ee2d",
-      "bytes": 4601
+      "sha256": "37fe57114f88d41b30f7035fdb1c6331a8809eff4001607e4995c1af87d04438",
+      "bytes": 5297
     },
     "examples/22-walking-drive-assembly/main.code3d.js": {
       "sha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
@@ -4035,24 +4959,24 @@
       }
     },
     "examples/22-walking-drive-assembly/model-info.json": {
-      "sha256": "b4f5fd18ef208fa8b85f7d5704bb34c600daabadbc612f1d20ecd20ee849ac32",
-      "bytes": 5901
+      "sha256": "440bd9c303acfd13ef1e2f5822ecd711fb1c7f21443c4472d0495281b11626ec",
+      "bytes": 13214
     },
     "examples/22-walking-drive-assembly/README.md": {
-      "sha256": "225310379381cefba29e26d3f293ead975ced7a7317c5b822cc374cbef317bb5",
-      "bytes": 4644
+      "sha256": "367d962e84937e1ea042d485bb2aaa741a7438c6232bcf2b861b7256d2b30e93",
+      "bytes": 5416
     },
     "examples/22-walking-drive-assembly/README.zh-CN.md": {
-      "sha256": "8f0e8e92e775f1f937ad56e825c7608a4a53a43b9f55e94f82d37b6f99b045e2",
-      "bytes": 4482
+      "sha256": "3868135018a77ee833101a79f2858c09ec7ad8b1b1dedd2d610b21e2c1237245",
+      "bytes": 5205
     },
     "README.md": {
-      "sha256": "d10c9f49380eca22e3f9aaf5ccffec12d0dee7f1451d13710dcd9fe68bb4b23a",
-      "bytes": 60198
+      "sha256": "45cf8059283ae91882078b2693464857252a19cfcdb08911714f18a8a4598cd1",
+      "bytes": 70887
     },
     "README.zh-CN.md": {
-      "sha256": "8d7226852818b73c7d3f6ecde2ad873ecac6f2bfcc127694861034e64b8f2cb4",
-      "bytes": 59975
+      "sha256": "e04174de9804d291e80c03297050294466652d598f89af617e5fcf81f2a12401",
+      "bytes": 70792
     },
     ".gitattributes": {
       "sha256": "308a40fa1d89ae5ea4390b4c9b46a0108b09f171f07898f25d451fa0c69c4e9f",
@@ -4063,8 +4987,8 @@
       "bytes": 2622
     },
     "catalog.json": {
-      "sha256": "b752412d5e2409c5da866d8d8f70d8e4531da1bcc5584855559179192b2a05e8",
-      "bytes": 97968
+      "sha256": "97e7fac02d6ebc701766b4291aaae113ec9cb20c6c7270f8946d7991e0f0a59e",
+      "bytes": 273741
     }
   }
 }

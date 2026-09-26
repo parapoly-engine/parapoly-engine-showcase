@@ -41,6 +41,27 @@
       "bytes": 3313,
       "sha256": "a919d3b0c3fb01c25303743787cb3137c263b997573900dfc78929c145a6eaa9",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-64.glb",
+      "bytes": 1100188,
+      "sha256": "09da6e5c8ea50729a791938d7161555a64d42736437e4654511c757340de1547",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-32.glb",
+      "bytes": 275852,
+      "sha256": "8bc295b2c0e546ad22fbb515d1cf1f49c670c62ea271edb7922f298738ea60da",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-16.glb",
+      "bytes": 62408,
+      "sha256": "a033bd70f5eb8f8e89df77c08ac94e777ac44cf65964bc6253f747eba15b279c",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-64.glb",
+        "bytes": 1100188,
+        "sha256": "09da6e5c8ea50729a791938d7161555a64d42736437e4654511c757340de1547",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:12.049Z",
+      "sourceSha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 1.25,
+        "voxelCount": 2982,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 11944,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1220703050494194
+          ],
+          "max": [
+            0.5208333134651184,
+            0.2441406100988388,
+            0.1220703050494194
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-32.glb",
+        "bytes": 275852,
+        "sha256": "8bc295b2c0e546ad22fbb515d1cf1f49c670c62ea271edb7922f298738ea60da",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:12.558Z",
+      "sourceSha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 2.5,
+        "voxelCount": 768,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 2984,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1302083283662796
+          ],
+          "max": [
+            0.5208333134651184,
+            0.2604166567325592,
+            0.1302083283662796
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/15-high-speed-shaft-part3d-voxel-16.glb",
+        "bytes": 62408,
+        "sha256": "a033bd70f5eb8f8e89df77c08ac94e777ac44cf65964bc6253f747eba15b279c",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:13.047Z",
+      "sourceSha256": "e9629ed43ee14ed046b9ae3386c7ac543203fa403bb1e12964c3b41894f63c67",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 5,
+        "voxelCount": 176,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 664,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1302083283662796
+          ],
+          "max": [
+            0.5208333134651184,
+            0.2604166567325592,
+            0.1302083283662796
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

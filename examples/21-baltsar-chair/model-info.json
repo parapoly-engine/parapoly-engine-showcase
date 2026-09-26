@@ -41,6 +41,27 @@
       "bytes": 7381,
       "sha256": "99327f5fb0893e895eae3bd9f29a7e5ed6847712bfb342b0689dd021c2d207d8",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-64.glb",
+      "bytes": 2034188,
+      "sha256": "61ea9219d05ccd063f53266d6a0e387571855ceb64fc1c25b3f3fa56db696bf7",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-32.glb",
+      "bytes": 507988,
+      "sha256": "cff4d32bc8721cf77c62a75336e1cab7b4a762050309e9b5fed44bdf28e70c4e",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-16.glb",
+      "bytes": 146952,
+      "sha256": "4c3626213f4a23d9047ef4425ecefe6823ebc748e1b552683ae23cf385d3a020",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -260,6 +281,221 @@
       "file": "multiview/rim-comparison.png",
       "bytes": 355391,
       "sha256": "b491cf5ed86a279ecab686037365f9e303fa31eec5a0cc8f06e714bb4ff13b1f"
+    }
+  ],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-64.glb",
+        "bytes": 2034188,
+        "sha256": "61ea9219d05ccd063f53266d6a0e387571855ceb64fc1c25b3f3fa56db696bf7",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:46:09.383Z",
+      "sourceSha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 13.281924627955298,
+        "voxelCount": 10571,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": true
+        }
+      },
+      "stats": {
+        "triangles": 22024,
+        "parts": 7,
+        "bounds": {
+          "min": [
+            -0.3580729067325592,
+            0,
+            -0.3499348759651184
+          ],
+          "max": [
+            0.3580729067325592,
+            1.0416666269302368,
+            0.3499348759651184
+          ]
+        },
+        "materials": [
+          [
+            0.30946892499923706,
+            0.37123769521713257,
+            0.3915724754333496,
+            0.2800000011920929
+          ],
+          [
+            0.009721217676997185,
+            0.011612244881689548,
+            0.012286487966775894,
+            1
+          ],
+          [
+            0.022173885256052017,
+            0.023153366521000862,
+            0.022173885256052017,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-32.glb",
+        "bytes": 507988,
+        "sha256": "cff4d32bc8721cf77c62a75336e1cab7b4a762050309e9b5fed44bdf28e70c4e",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:46:13.012Z",
+      "sourceSha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 26.563849255910597,
+        "voxelCount": 1905,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": true
+        }
+      },
+      "stats": {
+        "triangles": 5436,
+        "parts": 7,
+        "bounds": {
+          "min": [
+            -0.3580729067325592,
+            0,
+            -0.3580729067325592
+          ],
+          "max": [
+            0.3580729067325592,
+            1.0416666269302368,
+            0.3580729067325592
+          ]
+        },
+        "materials": [
+          [
+            0.30946892499923706,
+            0.37123769521713257,
+            0.3915724754333496,
+            0.2800000011920929
+          ],
+          [
+            0.009721217676997185,
+            0.011612244881689548,
+            0.012286487966775894,
+            1
+          ],
+          [
+            0.022173885256052017,
+            0.023153366521000862,
+            0.022173885256052017,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/21-baltsar-chair-voxel-16.glb",
+        "bytes": 146952,
+        "sha256": "4c3626213f4a23d9047ef4425ecefe6823ebc748e1b552683ae23cf385d3a020",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:46:16.608Z",
+      "sourceSha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 53.127698511821194,
+        "voxelCount": 426,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": true
+        }
+      },
+      "stats": {
+        "triangles": 1512,
+        "parts": 7,
+        "bounds": {
+          "min": [
+            -0.3580729067325592,
+            0,
+            -0.3580729067325592
+          ],
+          "max": [
+            0.3580729067325592,
+            1.0416666269302368,
+            0.3580729067325592
+          ]
+        },
+        "materials": [
+          [
+            0.009721217676997185,
+            0.011612244881689548,
+            0.012286487966775894,
+            1
+          ],
+          [
+            0.30946892499923706,
+            0.37123769521713257,
+            0.3915724754333496,
+            0.2800000011920929
+          ],
+          [
+            0.022173885256052017,
+            0.023153366521000862,
+            0.022173885256052017,
+            1
+          ]
+        ]
+      }
     }
   ]
 }

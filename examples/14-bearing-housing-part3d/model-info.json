@@ -41,6 +41,27 @@
       "bytes": 8801,
       "sha256": "1e0ac80748e0e81d50913bf6799518cc675909025b8230501abda5d9e157d744",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-64.glb",
+      "bytes": 3471548,
+      "sha256": "1ad403621d21e234c1295c58da91f57a4f5f13675dc71b3e1abf9b2da9b7713a",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-32.glb",
+      "bytes": 794008,
+      "sha256": "43c920eac7a31957b6d901d23b1d50890f05357f9611e306c094a36ff818c89b",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-16.glb",
+      "bytes": 140796,
+      "sha256": "0b90c0462f65ed7c87fe95e87c9a8ab00bab3a25aa82efa4144e2e270c69b319",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-64.glb",
+        "bytes": 3471548,
+        "sha256": "1ad403621d21e234c1295c58da91f57a4f5f13675dc71b3e1abf9b2da9b7713a",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:10.938Z",
+      "sourceSha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 1.5625,
+        "voxelCount": 9616,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 37708,
+        "parts": 2,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.732421875,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-32.glb",
+        "bytes": 794008,
+        "sha256": "43c920eac7a31957b6d901d23b1d50890f05357f9611e306c094a36ff818c89b",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:11.209Z",
+      "sourceSha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 3.125,
+        "voxelCount": 2241,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 8616,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.7486978769302368,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/14-bearing-housing-part3d-voxel-16.glb",
+        "bytes": 140796,
+        "sha256": "0b90c0462f65ed7c87fe95e87c9a8ab00bab3a25aa82efa4144e2e270c69b319",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:11.394Z",
+      "sourceSha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 6.25,
+        "voxelCount": 491,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1516,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.78125,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

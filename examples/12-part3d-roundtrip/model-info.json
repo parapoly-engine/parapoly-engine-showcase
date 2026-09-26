@@ -41,6 +41,27 @@
       "bytes": 2764,
       "sha256": "96f8e9c0c16479eb605ec925582bc35370b18f791d8a2da88cfa6923d516d3ce",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-64.glb",
+      "bytes": 945992,
+      "sha256": "b6c926f62dbf6e0587d2be11b676b03ce5c0d28621a93a6ac9efa19816a77407",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-32.glb",
+      "bytes": 229488,
+      "sha256": "7f6cfd884c1d45017024b02585315214db1970d292d5ff1e162fb8c6e1b07707",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-16.glb",
+      "bytes": 48424,
+      "sha256": "e8387a31bd9c65b1f0c9a7f2cf56895df0154694880bed5274ad74eccf92d833",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-64.glb",
+        "bytes": 945992,
+        "sha256": "b6c926f62dbf6e0587d2be11b676b03ce5c0d28621a93a6ac9efa19816a77407",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:09.101Z",
+      "sourceSha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 2.34375,
+        "voxelCount": 2572,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 10268,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1790364533662796
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3580729067325592,
+            0.1790364533662796
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-32.glb",
+        "bytes": 229488,
+        "sha256": "7f6cfd884c1d45017024b02585315214db1970d292d5ff1e162fb8c6e1b07707",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:09.244Z",
+      "sourceSha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 4.6875,
+        "voxelCount": 626,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 2480,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1790364533662796
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3580729067325592,
+            0.1790364533662796
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/12-part3d-roundtrip-voxel-16.glb",
+        "bytes": 48424,
+        "sha256": "e8387a31bd9c65b1f0c9a7f2cf56895df0154694880bed5274ad74eccf92d833",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:09.359Z",
+      "sourceSha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 9.375,
+        "voxelCount": 148,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 512,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.1953125
+          ],
+          "max": [
+            0.5208333134651184,
+            0.390625,
+            0.1953125
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

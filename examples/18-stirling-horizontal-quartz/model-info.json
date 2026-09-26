@@ -41,6 +41,27 @@
       "bytes": 9159,
       "sha256": "306765a86ad69046a18a14d8d048f2370a34a390bb3714e5a85b872b3c00c16d",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-64.glb",
+      "bytes": 3028024,
+      "sha256": "6b89b9c375565f387ca548b0e39aadeea2f4f8644541001a74ee5d2e8a210e17",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-32.glb",
+      "bytes": 579244,
+      "sha256": "3315290276325c24ac8b2240736352967c1ed934b70d0a66ab852c0bf0e0e5d5",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-16.glb",
+      "bytes": 163556,
+      "sha256": "9c1a7785f3292d463b27be80514618525ce9f335e0e22ebb507e8f51efa8e4be",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,328 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-64.glb",
+        "bytes": 3028024,
+        "sha256": "6b89b9c375565f387ca548b0e39aadeea2f4f8644541001a74ee5d2e8a210e17",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:28.517Z",
+      "sourceSha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 3.125,
+        "voxelCount": 11939,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 32300,
+        "parts": 52,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.5533853769302368,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.672443151473999,
+            0.40724021196365356,
+            0.13013647496700287,
+            1
+          ],
+          [
+            0.7605245113372803,
+            0.7835378050804138,
+            0.8148465752601624,
+            1
+          ],
+          [
+            0.8227857351303101,
+            0.6444796919822693,
+            0.35153260827064514,
+            1
+          ],
+          [
+            0.4969329833984375,
+            0.28314873576164246,
+            0.04817182570695877,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.7454041838645935,
+            0.7991027235984802,
+            1
+          ],
+          [
+            0.6938717365264893,
+            0.7605245113372803,
+            0.7230551242828369,
+            1
+          ],
+          [
+            0.8468732237815857,
+            0.7681511640548706,
+            0.577580451965332,
+            1
+          ],
+          [
+            0.22322796285152435,
+            0.2462013214826584,
+            0.28314873576164246,
+            1
+          ],
+          [
+            0.577580451965332,
+            0.6104955673217773,
+            0.6514056324958801,
+            1
+          ],
+          [
+            0.38642942905426025,
+            0.03560131415724754,
+            0.009134058840572834,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-32.glb",
+        "bytes": 579244,
+        "sha256": "3315290276325c24ac8b2240736352967c1ed934b70d0a66ab852c0bf0e0e5d5",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:31.103Z",
+      "sourceSha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 6.25,
+        "voxelCount": 2189,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 5784,
+        "parts": 44,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.5533853769302368,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.7605245113372803,
+            0.7835378050804138,
+            0.8148465752601624,
+            1
+          ],
+          [
+            0.672443151473999,
+            0.40724021196365356,
+            0.13013647496700287,
+            1
+          ],
+          [
+            0.4969329833984375,
+            0.28314873576164246,
+            0.04817182570695877,
+            1
+          ],
+          [
+            0.6938717365264893,
+            0.7605245113372803,
+            0.7230551242828369,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.7454041838645935,
+            0.7991027235984802,
+            1
+          ],
+          [
+            0.8468732237815857,
+            0.7681511640548706,
+            0.577580451965332,
+            1
+          ],
+          [
+            0.22322796285152435,
+            0.2462013214826584,
+            0.28314873576164246,
+            1
+          ],
+          [
+            0.577580451965332,
+            0.6104955673217773,
+            0.6514056324958801,
+            1
+          ],
+          [
+            0.38642942905426025,
+            0.03560131415724754,
+            0.009134058840572834,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/18-stirling-horizontal-quartz-voxel-16.glb",
+        "bytes": 163556,
+        "sha256": "9c1a7785f3292d463b27be80514618525ce9f335e0e22ebb507e8f51efa8e4be",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:33.616Z",
+      "sourceSha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 12.5,
+        "voxelCount": 514,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1512,
+        "parts": 23,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.2604166567325592
+          ],
+          "max": [
+            0.5208333134651184,
+            0.5859375,
+            0.2604166567325592
+          ]
+        },
+        "materials": [
+          [
+            0.672443151473999,
+            0.40724021196365356,
+            0.13013647496700287,
+            1
+          ],
+          [
+            0.6938717365264893,
+            0.7605245113372803,
+            0.7230551242828369,
+            1
+          ],
+          [
+            0.5840784311294556,
+            0.7454041838645935,
+            0.7991027235984802,
+            1
+          ],
+          [
+            0.8468732237815857,
+            0.7681511640548706,
+            0.577580451965332,
+            1
+          ],
+          [
+            0.22322796285152435,
+            0.2462013214826584,
+            0.28314873576164246,
+            1
+          ],
+          [
+            0.7605245113372803,
+            0.7835378050804138,
+            0.8148465752601624,
+            1
+          ],
+          [
+            0.577580451965332,
+            0.6104955673217773,
+            0.6514056324958801,
+            1
+          ],
+          [
+            0.38642942905426025,
+            0.03560131415724754,
+            0.009134058840572834,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -41,6 +41,27 @@
       "bytes": 10111,
       "sha256": "cda12f38c7c414ad9f099221d8abcdc2911f99b566f9ec456a72bdd7e62c25dc",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-64.glb",
+      "bytes": 3840984,
+      "sha256": "40d07a729e48a72ef33979e65c1e8925ad83e6ffd637a452552209ba605037e7",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-32.glb",
+      "bytes": 931636,
+      "sha256": "613d6718105a89a7064b7dc7aea871193d0f10cb6b5f3b6e1481e2f6e415df3e",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-16.glb",
+      "bytes": 147052,
+      "sha256": "8bc9767835d8095a41e50f68b588732117b29aa5ea61768241ef42c9b37837e1",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-64.glb",
+        "bytes": 3840984,
+        "sha256": "40d07a729e48a72ef33979e65c1e8925ad83e6ffd637a452552209ba605037e7",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:09.963Z",
+      "sourceSha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 1.5625,
+        "voxelCount": 10452,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 41712,
+        "parts": 3,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3255208134651184,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-32.glb",
+        "bytes": 931636,
+        "sha256": "613d6718105a89a7064b7dc7aea871193d0f10cb6b5f3b6e1481e2f6e415df3e",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:10.204Z",
+      "sourceSha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 3.125,
+        "voxelCount": 2552,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 10112,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3255208134651184,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/13-stepped-flange-voxel-16.glb",
+        "bytes": 147052,
+        "sha256": "8bc9767835d8095a41e50f68b588732117b29aa5ea61768241ef42c9b37837e1",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:10.344Z",
+      "sourceSha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 6.25,
+        "voxelCount": 560,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 1584,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.3255208134651184,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

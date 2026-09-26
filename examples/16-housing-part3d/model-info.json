@@ -41,6 +41,27 @@
       "bytes": 20747,
       "sha256": "51f1dabd8aef9fd3c73e3e8bb8e90e1a24bd3cee1bb55320c401e4eb5ecc9f2b",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-64.glb",
+      "bytes": 6212008,
+      "sha256": "f277b91674868b66b9586afe8fe2f0bdde038525d6fce7def8ba0b977c3549ca",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-32.glb",
+      "bytes": 1538104,
+      "sha256": "a0a63c52f2179ceede1e5786f688b7a6e81105acd048a7c435d8dbee8f3b8ca5",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-16.glb",
+      "bytes": 375952,
+      "sha256": "6582967aa34206db858e4d28d43bd6cd9445dcac4049e4147f59610c457b1468",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,184 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-64.glb",
+        "bytes": 6212008,
+        "sha256": "f277b91674868b66b9586afe8fe2f0bdde038525d6fce7def8ba0b977c3549ca",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:40:13.877Z",
+      "sourceSha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 1.8984375,
+        "voxelCount": 22524,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 67472,
+        "parts": 4,
+        "bounds": {
+          "min": [
+            -0.4964192509651184,
+            0,
+            -0.4964192509651184
+          ],
+          "max": [
+            0.4964192509651184,
+            1.0416666269302368,
+            0.4964192509651184
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-32.glb",
+        "bytes": 1538104,
+        "sha256": "a0a63c52f2179ceede1e5786f688b7a6e81105acd048a7c435d8dbee8f3b8ca5",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:40:14.203Z",
+      "sourceSha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 3.796875,
+        "voxelCount": 5021,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 16704,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5045572519302368,
+            0,
+            -0.5045572519302368
+          ],
+          "max": [
+            0.5045572519302368,
+            1.0416666269302368,
+            0.5045572519302368
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/16-housing-part3d-voxel-16.glb",
+        "bytes": 375952,
+        "sha256": "6582967aa34206db858e4d28d43bd6cd9445dcac4049e4147f59610c457b1468",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:40:14.383Z",
+      "sourceSha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 7.59375,
+        "voxelCount": 1134,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 4072,
+        "parts": 1,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.5208333134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            1.0416666269302368,
+            0.5208333134651184
+          ]
+        },
+        "materials": [
+          [
+            0.43415364623069763,
+            0.43415364623069763,
+            0.43415364623069763,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }

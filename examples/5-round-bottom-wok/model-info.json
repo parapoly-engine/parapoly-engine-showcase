@@ -41,6 +41,27 @@
       "bytes": 3445,
       "sha256": "1493980326855a0f5009e229313a0e56e551f063ed61f23fff35a9ea973118ae",
       "resolution": 16
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-64.glb",
+      "bytes": 945920,
+      "sha256": "0f4a8cf164c0d1c4136b5b4ccfd665d8257f460197da9bb0a81983e554c0cc84",
+      "style": "voxel",
+      "resolution": 64
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-32.glb",
+      "bytes": 255128,
+      "sha256": "ec799cc5b9daf7e8729d5c19d0e4a53d065323b89ee340b7430a6e78d2cd5940",
+      "style": "voxel",
+      "resolution": 32
+    },
+    {
+      "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-16.glb",
+      "bytes": 78828,
+      "sha256": "cd20e94dbc8cd0c60661f86ae2b7394b7c999b27302d9fa994896e00a133fda5",
+      "style": "voxel",
+      "resolution": 16
     }
   ],
   "bmaxExport": {
@@ -165,5 +186,238 @@
       }
     }
   ],
-  "multiview": []
+  "multiview": [],
+  "voxelVariants": [
+    {
+      "resolution": 64,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-64.glb",
+        "bytes": 945920,
+        "sha256": "0f4a8cf164c0d1c4136b5b4ccfd665d8257f460197da9bb0a81983e554c0cc84",
+        "style": "voxel",
+        "resolution": 64
+      },
+      "checkedAt": "2026-09-26T07:39:06.305Z",
+      "sourceSha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 64
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 0.6921816730682138,
+        "voxelCount": 3168,
+        "displayScale": 0.01627604104578495,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 10232,
+        "parts": 4,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.3173828125
+          ],
+          "max": [
+            0.5208333134651184,
+            0.1627604067325592,
+            0.3173828125
+          ]
+        },
+        "materials": [
+          [
+            0.10702310502529144,
+            0.03310476616024971,
+            0.008568125776946545,
+            1
+          ],
+          [
+            0.3915724754333496,
+            0.3915724754333496,
+            0.3915724754333496,
+            1
+          ],
+          [
+            0.5271151065826416,
+            0.5271151065826416,
+            0.5271151065826416,
+            1
+          ],
+          [
+            0.026241222396492958,
+            0.026241222396492958,
+            0.026241222396492958,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 32,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-32.glb",
+        "bytes": 255128,
+        "sha256": "ec799cc5b9daf7e8729d5c19d0e4a53d065323b89ee340b7430a6e78d2cd5940",
+        "style": "voxel",
+        "resolution": 32
+      },
+      "checkedAt": "2026-09-26T07:39:06.681Z",
+      "sourceSha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 32
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 1.3843633461364275,
+        "voxelCount": 727,
+        "displayScale": 0.0325520820915699,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 2724,
+        "parts": 4,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.3255208134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.1627604067325592,
+            0.3255208134651184
+          ]
+        },
+        "materials": [
+          [
+            0.10702310502529144,
+            0.03310476616024971,
+            0.008568125776946545,
+            1
+          ],
+          [
+            0.3915724754333496,
+            0.3915724754333496,
+            0.3915724754333496,
+            1
+          ],
+          [
+            0.5271151065826416,
+            0.5271151065826416,
+            0.5271151065826416,
+            1
+          ],
+          [
+            0.026241222396492958,
+            0.026241222396492958,
+            0.026241222396492958,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "resolution": 16,
+      "model": {
+        "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/5-round-bottom-wok-voxel-16.glb",
+        "bytes": 78828,
+        "sha256": "cd20e94dbc8cd0c60661f86ae2b7394b7c999b27302d9fa994896e00a133fda5",
+        "style": "voxel",
+        "resolution": 16
+      },
+      "checkedAt": "2026-09-26T07:39:07.033Z",
+      "sourceSha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
+      "engineVersion": "3.0.5",
+      "options": {
+        "timeoutMs": 600000,
+        "mode": "voxel",
+        "formats": [
+          "glb"
+        ],
+        "voxel": {
+          "fillMode": "surface",
+          "maxVoxels": 500000,
+          "resolution": 16
+        },
+        "linearDeflection": 0.3,
+        "angleDegrees": 10
+      },
+      "voxel": {
+        "voxelSize": 2.768726692272855,
+        "voxelCount": 189,
+        "displayScale": 0.0651041641831398,
+        "materialLoss": {
+          "glb": false
+        }
+      },
+      "stats": {
+        "triangles": 808,
+        "parts": 4,
+        "bounds": {
+          "min": [
+            -0.5208333134651184,
+            0,
+            -0.3255208134651184
+          ],
+          "max": [
+            0.5208333134651184,
+            0.1953125,
+            0.3255208134651184
+          ]
+        },
+        "materials": [
+          [
+            0.10702310502529144,
+            0.03310476616024971,
+            0.008568125776946545,
+            1
+          ],
+          [
+            0.3915724754333496,
+            0.3915724754333496,
+            0.3915724754333496,
+            1
+          ],
+          [
+            0.026241222396492958,
+            0.026241222396492958,
+            0.026241222396492958,
+            1
+          ],
+          [
+            0.5271151065826416,
+            0.5271151065826416,
+            0.5271151065826416,
+            1
+          ]
+        ]
+      }
+    }
+  ]
 }
