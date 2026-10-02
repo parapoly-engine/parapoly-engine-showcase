@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 1143583,
+      "sha256": "c33aa739f86c7bfcd0b1e9db04b73307324726cfd524708a01bcdd7bfc0b2ad7",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
       "bytes": 1121524,
       "sha256": "9d588c67bf1150ab08dac1511b1729d05a949730315ed9317e81eff990786675"
@@ -503,5 +510,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:11.289Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "720e8eade6ae9e23a8d4b067d4efdbdee88f37d303c1989fdf5eeac0c6f1150d",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 43,
+      "triangles": 19756,
+      "bounds": {
+        "min": [
+          -1422,
+          0,
+          -787
+        ],
+        "max": [
+          1422,
+          823,
+          787
+        ]
+      }
+    }
+  }
 }

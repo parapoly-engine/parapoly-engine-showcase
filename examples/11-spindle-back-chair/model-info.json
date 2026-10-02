@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 6391502,
+      "sha256": "16760603b8d599bb348eeba3894a2ad9271d90383fbddd185bfb572ea4a4b681",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
       "bytes": 4947916,
       "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
@@ -383,5 +390,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:47.151Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "43796e33a619cda31037a47e9536873a96f27ce91136d46b42b5e539e0081900",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 18,
+      "triangles": 142296,
+      "bounds": {
+        "min": [
+          -224.99435424804688,
+          0,
+          -298.862979888916
+        ],
+        "max": [
+          224.9942626953125,
+          860,
+          208.7171173095703
+        ]
+      }
+    }
+  }
 }

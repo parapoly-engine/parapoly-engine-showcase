@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 640833,
+      "sha256": "6913bdf780a0e759df8e1adc41ef9da31e9e700a7f936eb7ca0e1e9c4a6b6caf",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
       "bytes": 476664,
       "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:12.230Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "e7d3fd80837cd1e1fffde4f68b1b4e5688182adbc19cd37dd2154a9ea581382e",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 10130,
+      "bounds": {
+        "min": [
+          -2.9945266246795654,
+          -2.5,
+          -3
+        ],
+        "max": [
+          4.699963569641113,
+          1,
+          3
+        ]
+      }
+    }
+  }
 }

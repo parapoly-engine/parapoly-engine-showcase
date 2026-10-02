@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 130092,
+      "sha256": "12e313a3f50a454aae31dc9453c9d13dc2829417a5180af202df34f96b05a5c7",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
       "bytes": 80060,
       "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:26:24.970Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "6e2a4e2a5b833622c93d6933c18018d6b6e87a6baca331a4e611114afcc92882",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 1914,
+      "bounds": {
+        "min": [
+          -0.5,
+          -0.5,
+          -0.5
+        ],
+        "max": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    }
+  }
 }

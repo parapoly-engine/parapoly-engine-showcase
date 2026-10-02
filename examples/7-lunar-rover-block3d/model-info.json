@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 2116993,
+      "sha256": "ba61901bd35b82c1f43f3d9475ba95e5c464593e12f992dc41789fabe55c7fff",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
       "bytes": 1752028,
       "sha256": "cdb74ee957026dd79ac9f4512928bb8571280f92d0e22cbbba4de5867945f9ae"
@@ -563,5 +570,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:16.155Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "04390038030160bcbc9ac494e5d8f2544222a02083c39946f8b5bc4012a8e6c6",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 18,
+      "triangles": 45646,
+      "bounds": {
+        "min": [
+          -3.4000000953674316,
+          -1,
+          -1
+        ],
+        "max": [
+          0.4000000059604645,
+          4.799452304840088,
+          6.872288233412476
+        ]
+      }
+    }
+  }
 }

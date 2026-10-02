@@ -6,7 +6,7 @@ A curved top rail, seven back spindles, a sculpted seat and tapered legs.
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="Spindle-back chair CAD" width="220"></picture><br><strong>11. Spindle-back chair</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="Spindle-back chair CAD" width="220"></picture><br><strong>11. Spindle-back chair</strong></a><br>CAD<br><a href="dist/models/main.three.js">.three.js</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="Spindle-back chair BMAX 64" width="220"></picture></a><br><strong>BMAX 64</strong><br>Longest edge 64 voxels<br>Voxel size ≈ 13.4375<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax">Download BMAX 64</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="Spindle-back chair BMAX 32" width="220"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 26.875<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-32.bmax">Download BMAX 32</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="Spindle-back chair BMAX 16" width="220"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 53.75<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-16.bmax">Download BMAX 16</a></td>
@@ -19,6 +19,7 @@ Designed with [parapoly-engine](https://www.npmjs.com/package/parapoly-engine).
 
 | File / 文件 | Size / 大小 |
 | --- | --- |
+| [.three.js](dist/models/main.three.js) | 6.10 MiB |
 | [GLB](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb) | 4.72 MiB |
 | [STEP](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.step) | 1.06 MiB |
 | [BMAX 64](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair-bmax-64.bmax) | 0.09 MiB |
@@ -27,7 +28,7 @@ Designed with [parapoly-engine](https://www.npmjs.com/package/parapoly-engine).
 
 [main.code3d.js](main.code3d.js) · [Model information](model-info.json)
 
-Use GLB for 3D viewing, STEP for CAD, and BMAX for static colored voxel models in Paracraft. BMAX does not retain exact surfaces or transparency. Download models on demand from versioned Release assets; cloning does not download them.
+Use GLB for 3D viewing, STEP for CAD, and BMAX for static colored voxel models in Paracraft. BMAX does not retain exact surfaces or transparency. GLB, STEP and BMAX are downloaded on demand from versioned Release assets; Three.js models use Git LFS.
 
 After installing the npm package, run from the repository root:
 
@@ -44,3 +45,9 @@ Voxel surface meshes retain source base colors without BMAX RGB4 quantization. T
 - [Voxel GLB 32](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/11-spindle-back-chair-voxel-32.glb) (0.38 MiB)
 - [Voxel GLB 16](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/11-spindle-back-chair-voxel-16.glb) (0.12 MiB)
 <!-- voxel-downloads:end -->
+
+<!-- three-model:start -->
+## Three.js models
+
+Each `.three.js` is a readable standalone ES module built directly from original nodes, shapes and materials. Import its default factory and call `scene.add(createModel(THREE))`. Files are stored with Git LFS; run `git lfs install` before cloning, or `git lfs pull` in an existing clone. GLB/STEP/BMAX remain versioned Release downloads.
+<!-- three-model:end -->

@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 178255,
+      "sha256": "a0bc76cf090c5fec2751dd678911f089dcd1cb4ff6cf8e31604c5e9b7235e1e5",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
       "bytes": 137204,
       "sha256": "2f6f8d7e379662f87e1ff9f942cdef2f7e73c2219b61af0998e6d2e6324bbc3c"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:47.784Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "abaab6c6049dd05d30655c4cf07cc5b32a5b614fd086dc27de276100bf91d9cb",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 2616,
+      "bounds": {
+        "min": [
+          -50,
+          0,
+          -50
+        ],
+        "max": [
+          50,
+          30,
+          50
+        ]
+      }
+    }
+  }
 }

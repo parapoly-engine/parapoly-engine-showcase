@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 2766849,
+      "sha256": "bc4d6fe619ef0fe9d3adac7b27466bed4f5ca39b64ce212dfbd892e4d2412064",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
       "bytes": 4342240,
       "sha256": "a64c3260d765781f7b9b1075f9d36119b47519ea5cf2c63911184079ddc86534"
@@ -449,5 +456,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:52.648Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "e34ac3d1834d69184311a4fcc0778031c2cb06f77a915d878a26b2f6e6fcf051",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 56,
+      "triangles": 86512,
+      "bounds": {
+        "min": [
+          -52.5,
+          0,
+          -52.5
+        ],
+        "max": [
+          52.5,
+          140.00000043316044,
+          52.5
+        ]
+      }
+    }
+  }
 }

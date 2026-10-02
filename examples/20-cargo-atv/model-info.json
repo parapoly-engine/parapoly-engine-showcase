@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 14841851,
+      "sha256": "39bca0e52a207875dc14a7b24554d2e2f1ca80a8db7b05fd26c9ef1a88e0bf15",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
       "bytes": 28726572,
       "sha256": "eae1689d9a10491089976ab278fac48ecba4134eee98d6e84755ad71242ed007"
@@ -821,5 +828,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:18:23.824Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "a5807622002601f1000c10b28b6c5193c0ea48471b9b1e6654e0f3cffdbef1fb",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 225,
+      "triangles": 594668,
+      "bounds": {
+        "min": [
+          -71.10000038146973,
+          0.5483341217040945,
+          -115.5
+        ],
+        "max": [
+          71.10000038146973,
+          187.3080592801494,
+          103.16498614389978
+        ]
+      }
+    }
+  }
 }

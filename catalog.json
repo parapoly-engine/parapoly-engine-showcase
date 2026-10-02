@@ -13,6 +13,13 @@
     "readme": "examples/1-boolean-cutout/README.md",
     "models": [
       {
+        "file": "examples/1-boolean-cutout/dist/models/main.three.js",
+        "bytes": 130092,
+        "sha256": "12e313a3f50a454aae31dc9453c9d13dc2829417a5180af202df34f96b05a5c7",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/1-boolean-cutout.glb",
         "bytes": 80060,
         "sha256": "efd647aa7277ec9746de3ffc1d3dd2ab64353a2e8023e5967bc4418eecf9419e"
@@ -320,6 +327,13 @@
     "readme": "examples/2-woven-basket-block3d/README.md",
     "models": [
       {
+        "file": "examples/2-woven-basket-block3d/dist/models/main.three.js",
+        "bytes": 3183566,
+        "sha256": "fe3f83be7e6d332a2cad32b16135d7c7f287081e67db5e59a782b1082d03ffe2",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/2-woven-basket-block3d.glb",
         "bytes": 1707972,
         "sha256": "ae40b17ae0660d3e09267c2813bb8c69fd0f5619ba70c7a40961261c58cb7318"
@@ -626,6 +640,13 @@
     "source": "examples/3-billiards-single-file/main.code3d.js",
     "readme": "examples/3-billiards-single-file/README.md",
     "models": [
+      {
+        "file": "examples/3-billiards-single-file/dist/models/main.three.js",
+        "bytes": 1143583,
+        "sha256": "c33aa739f86c7bfcd0b1e9db04b73307324726cfd524708a01bcdd7bfc0b2ad7",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/3-billiards-single-file.glb",
         "bytes": 1121524,
@@ -1072,6 +1093,13 @@
     "readme": "examples/4-coffee-cup-block3d/README.md",
     "models": [
       {
+        "file": "examples/4-coffee-cup-block3d/dist/models/main.three.js",
+        "bytes": 640833,
+        "sha256": "6913bdf780a0e759df8e1adc41ef9da31e9e700a7f936eb7ca0e1e9c4a6b6caf",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/4-coffee-cup-block3d.glb",
         "bytes": 476664,
         "sha256": "7cc0275d0ba120d9b68c23d320bf150b97392c7a87d9ff09a6e1f71806d63926"
@@ -1378,6 +1406,13 @@
     "source": "examples/5-round-bottom-wok/main.code3d.js",
     "readme": "examples/5-round-bottom-wok/README.md",
     "models": [
+      {
+        "file": "examples/5-round-bottom-wok/dist/models/main.three.js",
+        "bytes": 1207887,
+        "sha256": "06718e842e5661c2141d43dfa2fbb80ad3aa8703305bb84ae0796db1dc374a04",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
         "bytes": 704944,
@@ -1740,6 +1775,13 @@
     "readme": "examples/6-cast-iron-skillet/README.md",
     "models": [
       {
+        "file": "examples/6-cast-iron-skillet/dist/models/main.three.js",
+        "bytes": 136772,
+        "sha256": "9dbfd36d384b3c95a3f0c05d9bb23bdb7cdc2956c2924b3e9368dd16aa50160b",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
         "bytes": 106736,
         "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
@@ -2046,6 +2088,13 @@
     "source": "examples/7-lunar-rover-block3d/main.code3d.js",
     "readme": "examples/7-lunar-rover-block3d/README.md",
     "models": [
+      {
+        "file": "examples/7-lunar-rover-block3d/dist/models/main.three.js",
+        "bytes": 2116993,
+        "sha256": "ba61901bd35b82c1f43f3d9475ba95e5c464593e12f992dc41789fabe55c7fff",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb",
         "bytes": 1752028,
@@ -2551,6 +2600,13 @@
     "source": "examples/8-microscope-block3d/main.code3d.js",
     "readme": "examples/8-microscope-block3d/README.md",
     "models": [
+      {
+        "file": "examples/8-microscope-block3d/dist/models/main.three.js",
+        "bytes": 710077,
+        "sha256": "fcd54b45b6277d0c0fe34f219c1e8a289722ca93a2430ed838ca0804d632ccab",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/8-microscope-block3d.glb",
         "bytes": 701944,
@@ -3092,6 +3148,13 @@
     "source": "examples/9-mario-kart-single-file/main.code3d.js",
     "readme": "examples/9-mario-kart-single-file/README.md",
     "models": [
+      {
+        "file": "examples/9-mario-kart-single-file/dist/models/main.three.js",
+        "bytes": 9852195,
+        "sha256": "0597e5ba4103dcc2267bec9b79354c12f0aed2a6dc74bcd7e9c9d4ab125516da",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
         "bytes": 11103072,
@@ -3700,6 +3763,13 @@
     "readme": "examples/10-woven-bamboo-chair/README.md",
     "models": [
       {
+        "file": "examples/10-woven-bamboo-chair/dist/models/main.three.js",
+        "bytes": 229998632,
+        "sha256": "88224e8892e82af13721f9085736374b5306a418dbd21f8f8aaeafb1024c1578",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
         "bytes": 399943968,
         "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
@@ -4043,6 +4113,13 @@
     "readme": "examples/11-spindle-back-chair/README.md",
     "models": [
       {
+        "file": "examples/11-spindle-back-chair/dist/models/main.three.js",
+        "bytes": 6391502,
+        "sha256": "16760603b8d599bb348eeba3894a2ad9271d90383fbddd185bfb572ea4a4b681",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/11-spindle-back-chair.glb",
         "bytes": 4947916,
         "sha256": "3f45bf1738500d5b917e74ccb74d55c17bbf09a359bbef983cbfcf83ee0b3618"
@@ -4368,6 +4445,13 @@
     "readme": "examples/12-part3d-roundtrip/README.md",
     "models": [
       {
+        "file": "examples/12-part3d-roundtrip/dist/models/main.three.js",
+        "bytes": 402846,
+        "sha256": "27f66072ab1c2f67c1463ffda709a86e4d58682f8328a71963b0c3f4542b6363",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
         "bytes": 239456,
         "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
@@ -4674,6 +4758,13 @@
     "source": "examples/13-stepped-flange/main.code3d.js",
     "readme": "examples/13-stepped-flange/README.md",
     "models": [
+      {
+        "file": "examples/13-stepped-flange/dist/models/main.three.js",
+        "bytes": 178255,
+        "sha256": "a0bc76cf090c5fec2751dd678911f089dcd1cb4ff6cf8e31604c5e9b7235e1e5",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/13-stepped-flange.glb",
         "bytes": 137204,
@@ -4982,6 +5073,13 @@
     "readme": "examples/14-bearing-housing-part3d/README.md",
     "models": [
       {
+        "file": "examples/14-bearing-housing-part3d/dist/models/main.three.js",
+        "bytes": 202252,
+        "sha256": "14de8114d783df6a64e91655d8486323bb040a2a0617ee363eb73b5da64b2b5e",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
         "bytes": 142536,
         "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
@@ -5288,6 +5386,13 @@
     "source": "examples/15-high-speed-shaft-part3d/main.code3d.js",
     "readme": "examples/15-high-speed-shaft-part3d/README.md",
     "models": [
+      {
+        "file": "examples/15-high-speed-shaft-part3d/dist/models/main.three.js",
+        "bytes": 128891,
+        "sha256": "8f76e3bb4a1905f2cc4f8614867aec1a5ff1c4d0c80544db5f984fe154f33fd2",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/15-high-speed-shaft-part3d.glb",
         "bytes": 79748,
@@ -5596,6 +5701,13 @@
     "readme": "examples/16-housing-part3d/README.md",
     "models": [
       {
+        "file": "examples/16-housing-part3d/dist/models/main.three.js",
+        "bytes": 189094,
+        "sha256": "a17521819e281cde918c01cd62aa3da0cf52bebb837c76289fb553f29e8826c1",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
         "bytes": 134584,
         "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
@@ -5902,6 +6014,13 @@
     "source": "examples/17-stirling-d16-c/main.code3d.js",
     "readme": "examples/17-stirling-d16-c/README.md",
     "models": [
+      {
+        "file": "examples/17-stirling-d16-c/dist/models/main.three.js",
+        "bytes": 2766849,
+        "sha256": "bc4d6fe619ef0fe9d3adac7b27466bed4f5ca39b64ce212dfbd892e4d2412064",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/17-stirling-d16-c.glb",
         "bytes": 4342240,
@@ -6293,6 +6412,13 @@
     "source": "examples/18-stirling-horizontal-quartz/main.code3d.js",
     "readme": "examples/18-stirling-horizontal-quartz/README.md",
     "models": [
+      {
+        "file": "examples/18-stirling-horizontal-quartz/dist/models/main.three.js",
+        "bytes": 19535361,
+        "sha256": "d18c806c95565427efc85aaa939ea36dddce56c989ff4b71184ca6b23d98e4c0",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
         "bytes": 11924476,
@@ -6745,6 +6871,13 @@
     "readme": "examples/19-ge-e3-fan-module/README.md",
     "models": [
       {
+        "file": "examples/19-ge-e3-fan-module/dist/models/main.three.js",
+        "bytes": 6565527,
+        "sha256": "5405d190fbc1a002344075bd3febf8aa4a5eee4ca72bdedda0f1ac8147c94c14",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
         "bytes": 47590720,
         "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
@@ -7129,6 +7262,13 @@
     "source": "examples/20-cargo-atv/main.code3d.js",
     "readme": "examples/20-cargo-atv/README.md",
     "models": [
+      {
+        "file": "examples/20-cargo-atv/dist/models/main.three.js",
+        "bytes": 14841851,
+        "sha256": "39bca0e52a207875dc14a7b24554d2e2f1ca80a8db7b05fd26c9ef1a88e0bf15",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/20-cargo-atv.glb",
         "bytes": 28726572,
@@ -7797,6 +7937,13 @@
     "readme": "examples/21-baltsar-chair/README.md",
     "models": [
       {
+        "file": "examples/21-baltsar-chair/dist/models/main.three.js",
+        "bytes": 18586459,
+        "sha256": "5849324966dda9af4654860bc13cbc87ab954fd5cf2bcabba13011f7255b80ec",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
+      {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
         "bytes": 9766148,
         "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
@@ -8142,6 +8289,13 @@
     "source": "examples/22-walking-drive-assembly/main.code3d.js",
     "readme": "examples/22-walking-drive-assembly/README.md",
     "models": [
+      {
+        "file": "examples/22-walking-drive-assembly/dist/models/main.three.js",
+        "bytes": 4758501,
+        "sha256": "bec503b7b41856c4d0e187894a35f50e40ee2da740c55a14fbaf9b3e7ed6139c",
+        "format": "three.js",
+        "storage": "git-lfs"
+      },
       {
         "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb",
         "bytes": 4784764,

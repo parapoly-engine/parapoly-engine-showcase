@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 9852195,
+      "sha256": "0597e5ba4103dcc2267bec9b79354c12f0aed2a6dc74bcd7e9c9d4ab125516da",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/9-mario-kart-single-file.glb",
       "bytes": 11103072,
       "sha256": "28f2387a4dc7a640c4c3fb612de8cf84fa0a1f85988e26455e4ba7e21163a8d1"
@@ -665,5 +672,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:35.284Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "bf5e8fbc4277326b83d412f2fbc7ddd393a15ba3281b8013367aef6ae6408bc6",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 76,
+      "triangles": 248246,
+      "bounds": {
+        "min": [
+          -74.19999980926514,
+          -7.105427357601002e-15,
+          -118.06683738057686
+        ],
+        "max": [
+          74.19999980926514,
+          123,
+          111.05000002384186
+        ]
+      }
+    }
+  }
 }

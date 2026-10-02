@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 18586459,
+      "sha256": "5849324966dda9af4654860bc13cbc87ab954fd5cf2bcabba13011f7255b80ec",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/21-baltsar-chair.glb",
       "bytes": 9766148,
       "sha256": "bc6c9695e1eb6475aae015395d274fd5663c9bd1acb23271b3b180e15d86e35f"
@@ -497,5 +504,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:18:28.343Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "832e7b8be5d6f3a44fd46dabe881c6864727c20553ade68a4f599e3a9ed80a90",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 7,
+      "triangles": 302976,
+      "bounds": {
+        "min": [
+          -290.1748046875,
+          0,
+          -285.1612854003906
+        ],
+        "max": [
+          290,
+          850.0431518554688,
+          284.99462890625
+        ]
+      }
+    }
+  }
 }

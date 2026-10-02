@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 1207887,
+      "sha256": "06718e842e5661c2141d43dfa2fbb80ad3aa8703305bb84ae0796db1dc374a04",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/5-round-bottom-wok.glb",
       "bytes": 704944,
       "sha256": "16098c56587ec7a8b5f532893f6becb4930eb13fca969673b338da29f86d1335"
@@ -419,5 +426,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:13.890Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "b28097ba26fc365082e7fd31f9c79aec8973c25cfda99b5d768d4608f8b5bdb8",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 6,
+      "triangles": 19820,
+      "bounds": {
+        "min": [
+          -31,
+          0,
+          -13.299627304077148
+        ],
+        "max": [
+          13.299627304077148,
+          6.698914885520935,
+          13.299627304077148
+        ]
+      }
+    }
+  }
 }

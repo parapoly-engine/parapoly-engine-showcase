@@ -6,7 +6,7 @@ A 61-part spring-loaded drive assembly with a 36ZY motor, timing-belt transmissi
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="Walking drive assembly CAD" width="220"></picture><br><strong>22. Walking drive assembly</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="Walking drive assembly CAD" width="220"></picture><br><strong>22. Walking drive assembly</strong></a><br>CAD<br><a href="dist/models/main.three.js">.three.js</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step">STEP</a> · <a href="main.code3d.js">Code</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="Walking drive assembly BMAX 64" width="220"></picture></a><br><strong>BMAX 64</strong><br>Longest edge 64 voxels<br>Voxel size ≈ 2.39063<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax">Download BMAX 64</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="Walking drive assembly BMAX 32" width="220"></picture></a><br><strong>BMAX 32</strong><br>Longest edge 32 voxels<br>Voxel size ≈ 4.78125<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-32.bmax">Download BMAX 32</a></td>
     <td width="25%" valign="top" align="center"><a href="README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="Walking drive assembly BMAX 16" width="220"></picture></a><br><strong>BMAX 16</strong><br>Longest edge 16 voxels<br>Voxel size ≈ 9.5625<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-16.bmax">Download BMAX 16</a></td>
@@ -19,6 +19,7 @@ Designed with [parapoly-engine](https://www.npmjs.com/package/parapoly-engine).
 
 | File / 文件 | Size / 大小 |
 | --- | --- |
+| [.three.js](dist/models/main.three.js) | 4.54 MiB |
 | [GLB](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb) | 4.56 MiB |
 | [STEP](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.step) | 5.95 MiB |
 | [BMAX 64](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly-bmax-64.bmax) | 0.36 MiB |
@@ -27,7 +28,7 @@ Designed with [parapoly-engine](https://www.npmjs.com/package/parapoly-engine).
 
 [main.code3d.js](main.code3d.js) · [Model information](model-info.json)
 
-Use GLB for 3D viewing, STEP for CAD, and BMAX for static colored voxel models in Paracraft. BMAX does not retain exact surfaces or transparency. Download models on demand from versioned Release assets; cloning does not download them.
+Use GLB for 3D viewing, STEP for CAD, and BMAX for static colored voxel models in Paracraft. BMAX does not retain exact surfaces or transparency. GLB, STEP and BMAX are downloaded on demand from versioned Release assets; Three.js models use Git LFS.
 
 After installing the npm package, run from the repository root:
 
@@ -54,3 +55,9 @@ Voxel surface meshes retain source base colors without BMAX RGB4 quantization. T
 - [Voxel GLB 32](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-32.glb) (1.08 MiB)
 - [Voxel GLB 16](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/22-walking-drive-assembly-voxel-16.glb) (0.20 MiB)
 <!-- voxel-downloads:end -->
+
+<!-- three-model:start -->
+## Three.js models
+
+Each `.three.js` is a readable standalone ES module built directly from original nodes, shapes and materials. Import its default factory and call `scene.add(createModel(THREE))`. Files are stored with Git LFS; run `git lfs install` before cloning, or `git lfs pull` in an existing clone. GLB/STEP/BMAX remain versioned Release downloads.
+<!-- three-model:end -->

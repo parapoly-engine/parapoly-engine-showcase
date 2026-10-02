@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="月球车 CAD" width="220"></picture><br><strong>7. 月球车</strong></a><br>CAD<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step">STEP</a> · <a href="main.code3d.js">源码</a></td>
+    <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="preview.png"><img src="preview-light.png" alt="月球车 CAD" width="220"></picture><br><strong>7. 月球车</strong></a><br>CAD<br><a href="dist/models/main.three.js">.three.js</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb">GLB</a> · <a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step">STEP</a> · <a href="main.code3d.js">源码</a></td>
     <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/64/preview.png"><img src="bmax/64/preview-light.png" alt="月球车 BMAX 64" width="220"></picture></a><br><strong>BMAX 64</strong><br>最长边 64 格<br>体素边长 ≈ 0.123005<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax">下载 BMAX 64</a></td>
     <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/32/preview.png"><img src="bmax/32/preview-light.png" alt="月球车 BMAX 32" width="220"></picture></a><br><strong>BMAX 32</strong><br>最长边 32 格<br>体素边长 ≈ 0.246009<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-32.bmax">下载 BMAX 32</a></td>
     <td width="25%" valign="top" align="center"><a href="README.zh-CN.md"><picture><source media="(prefers-color-scheme: dark)" srcset="bmax/16/preview.png"><img src="bmax/16/preview-light.png" alt="月球车 BMAX 16" width="220"></picture></a><br><strong>BMAX 16</strong><br>最长边 16 格<br>体素边长 ≈ 0.492018<br><a href="https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-16.bmax">下载 BMAX 16</a></td>
@@ -19,6 +19,7 @@
 
 | File / 文件 | Size / 大小 |
 | --- | --- |
+| [.three.js](dist/models/main.three.js) | 2.02 MiB |
 | [GLB](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.glb) | 1.67 MiB |
 | [STEP](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d.step) | 0.93 MiB |
 | [BMAX 64](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/7-lunar-rover-block3d-bmax-64.bmax) | 0.16 MiB |
@@ -27,7 +28,7 @@
 
 [main.code3d.js](main.code3d.js) · [模型资料](model-info.json)
 
-GLB 用于三维查看，STEP 用于 CAD，BMAX 用于 Paracraft 静态彩色体素模型。BMAX 不保留精确曲面或透明材质。模型从固定版本的 Release 附件按需下载，不随仓库克隆下载。
+GLB 用于三维查看，STEP 用于 CAD，BMAX 用于 Paracraft 静态彩色体素模型。BMAX 不保留精确曲面或透明材质。GLB、STEP 和 BMAX 从固定版本的 Release 附件按需下载；Three.js 模型使用 Git LFS。
 
 在仓库根目录安装 npm 包后，可运行：
 
@@ -44,3 +45,9 @@ npx --no-install parapoly-engine export examples/7-lunar-rover-block3d/main.code
 - [Voxel GLB 32](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/7-lunar-rover-block3d-voxel-32.glb) (0.54 MiB)
 - [Voxel GLB 16](https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/voxel-models-2026-09-26/7-lunar-rover-block3d-voxel-16.glb) (0.13 MiB)
 <!-- voxel-downloads:end -->
+
+<!-- three-model:start -->
+## Three.js 模型
+
+每份 `.three.js` 都是从原始节点、形状与材质直接生成的可读 ES 模块。导入默认工厂后调用 `scene.add(createModel(THREE))`。文件使用 Git LFS：克隆前运行 `git lfs install`，已有仓库运行 `git lfs pull`。GLB/STEP/BMAX 继续使用固定版本的 Release 下载。
+<!-- three-model:end -->

@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 229998632,
+      "sha256": "88224e8892e82af13721f9085736374b5306a418dbd21f8f8aaeafb1024c1578",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/10-woven-bamboo-chair.glb",
       "bytes": 399943968,
       "sha256": "15665113acf77281e1a36c0c96e6aed582e5d48d0d2145f38b9764569f42eb76"
@@ -401,5 +408,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:45.679Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "7c98e84c6cba81aaf5cb476dbd2f05c87560cb70e61f3bc925eaa352323c7a85",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1037,
+      "triangles": 10831364,
+      "bounds": {
+        "min": [
+          -224.9999996185303,
+          -2.7119258976902218e-15,
+          -286.00000000000006
+        ],
+        "max": [
+          224.9999996185303,
+          850.0011991414342,
+          238.8419799804688
+        ]
+      }
+    }
+  }
 }

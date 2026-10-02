@@ -159,3 +159,6 @@ generated/
 /examples/**/*.glb
 /examples/**/*.step
 /examples/**/*.bmax
+
+# Three.js model source files (Git LFS).
+!examples/*/dist/models/*.three.js

@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 4758501,
+      "sha256": "bec503b7b41856c4d0e187894a35f50e40ee2da740c55a14fbaf9b3e7ed6139c",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22-walking-drive/22-walking-drive-assembly.glb",
       "bytes": 4784764,
       "sha256": "1967cf86991bb6b810fe269a9741c4928488a627f2fbbeb9fab61f63a7d3b876"
@@ -437,5 +444,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:18:31.849Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "864ac3633a503bf8346e7e8942c9a62aa81f0b86acc2e98f116bf5b8c942a9e2",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 61,
+      "triangles": 88834,
+      "bounds": {
+        "min": [
+          -85.50000004768371,
+          -19,
+          -74
+        ],
+        "max": [
+          67.5,
+          78.5,
+          7.25
+        ]
+      }
+    }
+  }
 }

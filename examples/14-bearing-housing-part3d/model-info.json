@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 202252,
+      "sha256": "14de8114d783df6a64e91655d8486323bb040a2a0617ee363eb73b5da64b2b5e",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/14-bearing-housing-part3d.glb",
       "bytes": 142536,
       "sha256": "3a2f4d41fa65661e8e269db00a3fcd6288f632bfe5f27586a1e1c6c068afc739"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:48.061Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "ca8a585a396357fe5d376dfbe8e4ad05d0c02e3bee2f94f2c8b81d631b98e3bd",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 2650,
+      "bounds": {
+        "min": [
+          -50,
+          0,
+          -25
+        ],
+        "max": [
+          50,
+          70,
+          25
+        ]
+      }
+    }
+  }
 }

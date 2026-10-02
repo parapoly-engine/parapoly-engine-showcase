@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 6565527,
+      "sha256": "5405d190fbc1a002344075bd3febf8aa4a5eee4ca72bdedda0f1ac8147c94c14",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/19-ge-e3-fan-module.glb",
       "bytes": 47590720,
       "sha256": "4a2db2537da918a34d702e519e0ee8535174d1c060bac98bd1dd70115a917bcb"
@@ -443,5 +450,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:18:12.802Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "a493fcb7584b19a425284676690922be15f20dae81c704fa8e677773e1655222",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 215,
+      "triangles": 1345524,
+      "bounds": {
+        "min": [
+          -48,
+          0,
+          -105.93628399824037
+        ],
+        "max": [
+          22,
+          221.93628399824036,
+          105.93628399824037
+        ]
+      }
+    }
+  }
 }

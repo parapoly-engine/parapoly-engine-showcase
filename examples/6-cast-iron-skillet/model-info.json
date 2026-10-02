@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 136772,
+      "sha256": "9dbfd36d384b3c95a3f0c05d9bb23bdb7cdc2956c2924b3e9368dd16aa50160b",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/6-cast-iron-skillet.glb",
       "bytes": 106736,
       "sha256": "98eee4f2d8c41dee04d6f363446edf4b8cf03fe38dd67d185248eee8ba95c0a7"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:16:14.462Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "395179a796bce2c641a5ad914be5a15e654b85c24d99a48de2303783e72530c2",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 4,
+      "triangles": 2040,
+      "bounds": {
+        "min": [
+          -27.69899559020996,
+          0,
+          -12.2
+        ],
+        "max": [
+          11,
+          6.300000023841858,
+          12.2
+        ]
+      }
+    }
+  }
 }

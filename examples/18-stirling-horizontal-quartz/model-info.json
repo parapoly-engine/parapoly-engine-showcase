@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 19535361,
+      "sha256": "d18c806c95565427efc85aaa939ea36dddce56c989ff4b71184ca6b23d98e4c0",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/18-stirling-horizontal-quartz.glb",
       "bytes": 11924476,
       "sha256": "c5a0e2247e98609ecf4cbdc41234ef62c7323431e285dd24712da5db03dd523d"
@@ -509,5 +516,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:56.280Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "a6011bccb15a3ba69c1abd992ea4c1af44bdd4e597a57d49cbb5223b404265f2",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 70,
+      "triangles": 264314,
+      "bounds": {
+        "min": [
+          -100,
+          0,
+          -50
+        ],
+        "max": [
+          100,
+          104.98355242678649,
+          50
+        ]
+      }
+    }
+  }
 }

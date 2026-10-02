@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 402846,
+      "sha256": "27f66072ab1c2f67c1463ffda709a86e4d58682f8328a71963b0c3f4542b6363",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/12-part3d-roundtrip.glb",
       "bytes": 239456,
       "sha256": "f804939c2699ddbe4faa8d702ad44de1631bef7b112b205f969d4780eeb14784"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:47.540Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "0eee3c04554ff9f3b7fa93a4b8bef7cb4f689a038c6d42e7e5c299e4e3adff87",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 6476,
+      "bounds": {
+        "min": [
+          0,
+          -25,
+          -25
+        ],
+        "max": [
+          150,
+          25,
+          25
+        ]
+      }
+    }
+  }
 }

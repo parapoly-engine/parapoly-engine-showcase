@@ -15,6 +15,13 @@
   },
   "models": [
     {
+      "file": "dist/models/main.three.js",
+      "bytes": 189094,
+      "sha256": "a17521819e281cde918c01cd62aa3da0cf52bebb837c76289fb553f29e8826c1",
+      "format": "three.js",
+      "storage": "git-lfs"
+    },
+    {
       "file": "https://github.com/parapoly-engine/parapoly-engine-showcase/releases/download/models-2026-09-22/16-housing-part3d.glb",
       "bytes": 134584,
       "sha256": "30978f067b880997b737337ef0ea4a2c4ba583129550ccc7aebeeba9e4454bff"
@@ -365,5 +372,28 @@
         ]
       }
     }
-  ]
+  ],
+  "threeJsExport": {
+    "status": "passed",
+    "checkedAt": "2026-10-02T16:17:48.890Z",
+    "engineVersion": "3.0.6",
+    "sourceSha256": "d83b996fd051db5303372522714c032f3bfb3503d4dc701dd90d867d8e9202e8",
+    "exporterSha256": "03c64a84373fc6f21cacf5c82682399ad22cc757d4ecc7dd648f2b6bd36c11d1",
+    "stats": {
+      "parts": 1,
+      "triangles": 2592,
+      "bounds": {
+        "min": [
+          -57.5,
+          0,
+          -57.5
+        ],
+        "max": [
+          57.5,
+          121.5,
+          57.5
+        ]
+      }
+    }
+  }
 }
